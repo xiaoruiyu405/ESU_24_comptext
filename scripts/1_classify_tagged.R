@@ -12,25 +12,33 @@ library(stylo)
 #classify based on a batch of features in loop
 #This can be changed to algorithms, etc. 
 #固定 MFW = 1000，分别用 word 1-gram 到 5-gram 做分类实验，保存每次预测结果、真实结果和性能指标，并最后输出每个 n-gram 设置下的 average F-score
-result.tab = list()
-predict.tab = list()
-expect.tab = list()
+#result.tab = list()
+#predict.tab = list()
+#expect.tab = list()
+#a balanced dataset by random sampling
 perf.tab = list()
-for (ngram in 1:5){
+sizes = c(1000, 5000, 10000)
+#for (ngram in 1:5){
+for (ssize in 1:3){
   res = classify(gui = FALSE,
-                analyzed.features = 'w', ngram.size = ngram,
-                mfw.min = 1000, mfw.max = 1000,
+                analyzed.features = 'w', 
+                ngram.size = 3,
+                mfw.min = 1000, 
+                mfw.max = 1000,
+                sampling = "random.sampling",
+                sample.size = sizes[ssize],
+                number.of.samples = 10,
                 training.corpus.dir = "primary_set",
                 test.corpus.dir = "secondary_set",
                 use.existing.freq.tables = FALSE,
                 use.existing.wordlist = FALSE)
-  result.tab[[ngram]] = res
-  predict.tab[[ngram]] = res$predicted
-  expect.tab[[ngram]] = res$expected
-  perf.tab[[ngram]] = performance.measures(res$predicted, res$expected)
+ # result.tab[[ngram]] = res
+  #predict.tab[[ngram]] = res$predicted
+  #expect.tab[[ngram]] = res$expected
+  perf.tab[[ssize]] = performance.measures(res$predicted, res$expected)
 }
 sapply(perf.tab, `[[`, "avg.f")
-
+plot(c(1000,5000,10000), sapply(perf.tab, `[[`, "avg.f"))
 summary(res)
 # A list predicted classes of books in the 'secondary_set' 
 res$predicted

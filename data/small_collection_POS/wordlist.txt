@@ -4,5003 +4,5003 @@
 # You can either delete unwanted words, or mark them with "#"
 # -----------------------------------------------------------------------
 
-dt nn in dt nn
-in dt nn in dt
-nn in dt nn in
-in dt jj nn in
-nn in dt jj nn
-dt jj nn in dt
-jj nn in dt nn
-in dt nn in prp
-dt nn in dt jj
-dt nn in prp nn
-in dt nn prp vbd
-dt jj nn in prp
-in dt nn in nn
-nn in dt nn cc
-prp vbd in dt nn
-dt jj nn in nn
-nn in dt nn prp
-prp vbd dt nn in
-vbd dt jj nn in
-prp vbd dt jj nn
-jj nn in dt jj
-in dt jj nn prp
-prp nn in dt nn
-dt jj nn prp vbd
-in dt jj nn cc
-rb in dt nn in
-prp md rb vb prp
-vbn in dt nn in
-vbd in dt nn in
-vbd dt nn in dt
-to vb dt nn in
-in dt jj jj nn
-jj nn in prp nn
-in dt nn in nnp
-nn in dt nn vbd
-dt nn in nn in
-nn in prp jj nn
-vbd in dt jj nn
-in nn in dt nn
-rb in dt jj nn
-dt nn in prp vbd
-dt nn in jj nn
-prp in dt nn in
-in prp nn prp vbd
-in dt nns in dt
-dt nn cc dt nn
-dt nns in dt nn
-in dt nn dt nn
-nns in dt nn in
-nn in prp nn cc
-nn in prp nn in
-vbn in dt jj nn
-vbd dt nn in prp
-nn prp md rb vb
-in dt nn in jj
-prp md vb dt nn
-dt jj jj nn in
-nns in dt jj nn
-vbd vbn in dt nn
-in prp nn in dt
-dt nn in nnp nnp
-in prp md rb vb
-jj in dt nn in
-dt nn in nn cc
-dt nn in prp jj
-in dt nn cc dt
-in prp vbd dt nn
-nn in nn in dt
-dt nn in dt nns
-jj nns in dt nn
-nn prp vbd dt nn
-prp in dt jj nn
-to vb in dt nn
-dt nn prp md vb
-vb dt nn in dt
-nn cc dt nn in
-vb dt nn in prp
-nn in dt nn dt
-nn in prp nn prp
-dt nn in dt nnp
-in prp nn in prp
-nn in dt nn nn
-prp vbd in dt jj
-dt jj nn in nnp
-in dt jj nn vbd
-to vb dt jj nn
-in dt nn cc prp
-prp md rb vb in
-in dt nn cc vbd
-vbd rb in dt nn
-in dt jj nn dt
-in prp md vb prp
-nn in nn in prp
-in prp in dt nn
-dt nn prp vbd rb
-vb dt jj nn in
-in dt nn prp vbp
-vb in dt nn in
-in dt jj nns in
-md vb dt nn in
-prp vbd vbn in dt
-in prp jj nn in
-dt nn prp vbd in
-nn cc dt jj nn
-prp md vb in prp
-vbd prp in dt nn
-nn in prp md vb
-nn in dt nns in
-nn in nn prp vbd
-jj nn in prp vbd
-nn prp vbd in dt
-jj in dt jj nn
-dt nn in prp nns
-nn in dt nn rb
-nn dt nn in dt
-in dt nn pos nn
-to dt nn in dt
-dt nn prp vbd prp
-cc prp md rb vb
-dt nn in nn prp
-vbd dt nn in nn
-in prp vbd in dt
-in dt nn in nns
-dt jj nn dt nn
-dt jj nn in jj
-nn prp md vb prp
-nn in nn cc nn
-nn in dt jj jj
-in dt nn prp md
-dt jj nns in dt
-prp vbd to vb prp
-in dt nn to vb
-nn vbd in dt nn
-nn dt jj nn in
-prp nn in dt jj
-vbg in dt nn in
-in dt nn cc in
-prp vbd rb in dt
-prp vbd in prp vbd
-prp md rb vb dt
-nn in dt jj nns
-prp md vb to vb
-prp vbp rb vb prp
-in prp jj nn cc
-jj nn in nn in
-dt nn cc prp vbd
-dt nn in jj nns
-vb prp in dt nn
-prp vbd in prp nn
-dt nn dt jj nn
-in prp nn cc prp
-dt jj cc jj nn
-nn vbd dt nn in
-in in dt nn in
-dt nn dt nn in
-prp md vb prp in
-jj jj nn in dt
-in nn in dt jj
-nn prp vbd dt jj
-dt nn prp vbd dt
-prp md vb prp nn
-dt nn to vb prp
-nn vbd dt jj nn
-in dt nn wdt vbd
-nn in prp vbd rb
-nn cc in dt nn
-nn in prp nn vbd
-cc dt jj nn in
-dt nn prp vbd vbn
-in dt jj nn rb
-in dt jj nn nn
-nn prp vbd in prp
-rb rb in dt nn
-in dt nn dt jj
-in nnp nnp pos nn
-nn cc nn in dt
-prp md rb vb vbn
-prp nn in prp vbd
-dt jj nn to vb
-in prp nn pos nn
-in prp vbd to vb
-nn rb in dt nn
-rb jj in dt nn
-dt jj nn cc dt
-prp nn in prp nn
-in prp jj nn prp
-jj nn prp vbd rb
-prp vbp prp md vb
-cc dt nn in dt
-in prp vbd rb vbn
-jj nn prp md vb
-vb in dt jj nn
-prp jj nn in dt
-in dt nn nn in
-nn prp vbd to vb
-prp vbd rb jj in
-in dt nn vbd vbn
-nn nn in dt nn
-in dt nn in vbg
-nn to vb dt nn
-in dt nn cc rb
-nn in prp vbd vbn
-in prp vbd vbn in
-dt jj nn prp vbp
-jj nn dt jj nn
-prp vbd prp nn in
-in dt nn cc nn
-md vb dt jj nn
-nnp in dt nn in
-nns in dt nn cc
-prp vbd vbn dt nn
-prp vbd rb vbn in
-prp vbd vbn to vb
-in prp vbd in prp
-dt nn vbd dt nn
-nn in dt nn wdt
-dt jj nn cc prp
-prp md vb in dt
-md rb vb dt nn
-dt nn dt nn vbd
-jj nn in dt nns
-nn in prp vbd prp
-in dt nn md vb
-rb vbn in dt nn
-dt jj nn in nns
-vbd vbn dt nn in
-dt nns in dt jj
-in dt nn vbd rb
-prp vbd vbn in prp
-cc in dt nn in
-jj nn in nn cc
-rb prp md rb vb
-nnp in dt jj nn
-to vb prp nn in
-nn in prp vbd in
-in dt jj nn wdt
-cc in dt jj nn
-in prp vbd dt jj
-vbg in dt jj nn
-nn in dt nn nnp
-dt nn cc nn in
-rb in dt nn cc
-vbd to vb dt nn
-jj nn dt nn in
-prp vbd prp in dt
-prp md vb dt jj
-in dt nns in prp
-prp vbd to vb in
-nn cc prp md vb
-vbd prp nn in dt
-dt nn nn in dt
-prp vbd rb in prp
-in prp md vb dt
-prp nns in dt nn
-nn in wdt prp vbd
-jj nn prp vbd prp
-jj nn in prp jj
-to vb prp in dt
-vbd vbn in dt jj
-md vb in dt nn
-rb dt nn in dt
-vbd in dt nn cc
-nn in jj nn in
-in prp nn dt nn
-in dt nn vbd dt
-dt jj nn dt jj
-in nn in prp nn
-jj nn in jj nn
-jj nn prp vbd in
-rb dt jj nn in
-nn in nnp nnp pos
-vbd dt jj jj nn
-in in dt jj nn
-prp md vb vbn in
-to vb prp in prp
-nn vbd vbn in dt
-in jj nn in dt
-in prp nn cc vbd
-to dt jj nn in
-jj nn in nnp nnp
-in dt jj nn nnp
-prp jj nn prp vbd
-prp vbp dt nn in
-prp nn prp md vb
-rb rb in prp vbd
-prp vbd prp md vb
-nnp vbd dt nn in
-rb in dt nn prp
-in prp md vb vbn
-jj nns in dt jj
-nn prp vbd vbn in
-jj nn cc prp vbd
-nn prp vbp rb vb
-in dt nn nnp vbd
-dt nn vbd in dt
-md rb vb in prp
-dt nn vbd vbn in
-in dt nn nnp nnp
-jj nn prp vbd dt
-nn prp vbd prp nn
-prp vbd to vb dt
-cc prp md vb prp
-in prp md vb in
-nn in prp prp vbd
-nn cc prp vbd rb
-vbd dt jj nn cc
-in prp in prp vbd
-nnp vbd in dt nn
-ex vbd dt nn in
-rb vb dt nn in
-prp vbz dt jj nn
-in dt nn rb in
-prp jj nn in prp
-in prp vbd vbn prp
-dt jj nn prp md
-vb vbn in dt nn
-prp vbp dt jj nn
-vbd dt nn prp vbd
-nn cc nn in prp
-dt jj nn wdt vbd
-in dt rb jj nn
-nnp nnp in dt nn
-vbd rb jj in prp
-dt nn in wdt prp
-nn dt jj nn vbd
-prp vbd rb vb prp
-rb in prp md vb
-vbd rb vbn in dt
-dt nn cc in dt
-nn in dt nn pos
-prp prp md rb vb
-prp vbd dt nn cc
-in dt nn vbd in
-in dt jj cc jj
-vb dt nn in nn
-dt nn in nn vbd
-in prp jj jj nn
-jj nn cc dt nn
-cc nn in dt nn
-nn prp md vb vbn
-nn to dt nn in
-nn prp vbd rb jj
-vbd prp nn in prp
-nn in prp vbd dt
-in prp in dt jj
-cc dt nn in prp
-dt jj nn vbd in
-to vb in dt jj
-dt rb jj nn in
-prp in dt nn prp
-nn in dt nnp nnp
-prp md rb vb rb
-dt jj nn vbd vbn
-nn to vb in prp
-dt nns in prp nn
-nn prp md vb dt
-nn prp vbd rb in
-vbd jj in dt nn
-nn in dt nn to
-nnp vbd dt jj nn
-vbd dt nn to vb
-nn dt nn in prp
-prp nn prp vbd prp
-prp md vb vbn prp
-in prp nn in nn
-nn vbn in dt nn
-nns in dt nn prp
-prp vbd jj to vb
-rb prp vbd dt nn
-nn prp md vb in
-prp vbd prp in prp
-in prp nn prp vbp
-to dt nn in prp
-prp nn cc prp vbd
-prp vbd rb dt nn
-dt nn in prp in
-jj nn in dt nnp
-nn in jj nn cc
-nn in prp nn dt
-vbg dt nn in dt
-vbn in dt nn cc
-dt nn wrb prp vbd
-vbd vbn dt jj nn
-prp in dt nn cc
-dt nn in prp md
-prp nn prp vbd rb
-jj nn cc dt jj
-dt nn rb prp vbd
-in nn in prp vbd
-vbn dt jj nn in
-nn in prp jj nns
-dt nn prp md rb
-dt nn in prp cc
-in dt nn vbd prp
-nn prp vbd rb vbn
-vbd rb in dt jj
-vbn dt nn in dt
-in dt nns prp vbd
-in prp vbd vbn dt
-dt nn to vb in
-in dt nn wrb prp
-in nn prp md vb
-nn in nnp pos nn
-jj nn prp vbd vbn
-dt nn vbd in prp
-dt nn nnp nnp vbd
-nnp nnp vbd dt nn
-jj jj nn in prp
-vbz dt nn in dt
-in prp vbd prp nn
-vbz dt jj nn in
-dt nn in nn dt
-vb prp nn in dt
-nn cc dt nn vbd
-dt jj nn cc vbd
-jj nn in nn prp
-rb vbd dt nn in
-to vb in prp nn
-rb prp md vb prp
-prp md vb prp rb
-nn in prp in dt
-prp md rb vb to
-dt jj nn in vbg
-in prp vbd rb jj
-dt nn in nns in
-rp in dt nn in
-to vb in prp vbd
-vbd rp in dt nn
-nn in prp in prp
-nn in nn dt nn
-dt nn cc dt jj
-prp vbp in dt nn
-dt jj nn vbd rb
-nn cc in prp vbd
-dt nn to dt nn
-in dt nn in wdt
-dt nn prp vbp rb
-vbg dt jj nn in
-dt nn in prp prp
-nn dt nn in nn
-in dt nn rb prp
-dt nn cc vbd prp
-in dt jj nn to
-in prp nn prp md
-dt nn vbd dt jj
-nn cc prp vbd prp
-dt jj nn cc nn
-vbd rb dt nn in
-in nn cc nn in
-dt jj nn vbd prp
-dt nn to vb dt
-vbd vbg in dt nn
-cc vbd dt nn in
-cc vbd in dt nn
-cc prp vbd dt nn
-vb prp nn in prp
-nn in dt nn vbg
-in prp prp md vb
-jj nn in prp nns
-dt jj nns in prp
-dt nn in vbg prp
-ex vbd dt jj nn
-prp vbd dt nn prp
-nn to vb in dt
-jj cc jj nn in
-in prp nns prp vbd
-nn in prp nn pos
-in prp nn cc nn
-dt jj nn nn in
-in prp vbd rb in
-nn cc in dt jj
-in dt nn nn cc
-vbd dt nn in nnp
-nn in in dt nn
-nn in prp nns cc
-prp vbd dt nn to
-dt nn prp vbd to
-vbd vbn in prp nn
-prp vbd jj in prp
-rb in prp jj nn
-vbd in in dt nn
-in prp vbd prp vbd
-dt jj jj nn cc
-dt nn in prp vbp
-dt jj nn cc in
-rb in prp vbd vbn
-dt nn rb in dt
-in in prp vbd vbn
-vbd rb jj to vb
-in prp nns in dt
-in dt nn vbn in
-prp nn prp vbd in
-prp nn cc vbd prp
-vbd rb jj in dt
-vbd to vb in prp
-in nn prp vbd rb
-in jj nn in prp
-nns in dt nn vbd
-md vb vbn in dt
-in prp nn to vb
-dt nn md vb vbn
-dt nn in nnp pos
-prp vbd prp to vb
-vbd in dt nn prp
-dt jj nn cc rb
-in jj nn prp vbd
-nn in prp nn rb
-prp md vb prp dt
-jj cc jj in dt
-nn in dt nns cc
-to prp in dt nn
-jj to vb dt nn
-jj in dt nn cc
-nn prp vbd rb rb
-prp vbd dt jj jj
-vbd to vb in dt
-nn cc vbd dt nn
-jj nn dt nn vbd
-vbd rb dt jj nn
-dt jj jj nn prp
-jj jj nn prp vbd
-prp vbd rb rb in
-prp rb in dt nn
-nn cc rb prp vbd
-prp nn cc prp nn
-nn vbd in dt jj
-in jj nns in dt
-prp vbd rb vbn prp
-in dt nns in nn
-vbd prp in dt jj
-nn prp vbd prp in
-to vb vbn in dt
-vbd dt nn in jj
-dt jj nn md vb
-prp vbz dt nn in
-in prp nn cc in
-prp vbp rb vb in
-dt nn prp vbp prp
-in prp cc prp vbd
-dt nn pos nn in
-in dt nn prp vbz
-dt nn in nns cc
-md rb vb prp in
-nnp nnp nnp nnp nnp
-prp dt jj nn in
-in nns in dt nn
-rb prp vbd in dt
-to vb dt nn cc
-nn in in prp vbd
-prp vbp to vb prp
-dt jj nn vbd dt
-nn to vb prp nn
-vbd rb in prp nn
-jj in prp md vb
-jj nns in prp nn
-rb dt nn in prp
-dt jj jj jj nn
-in dt jj nn vbg
-in dt nn prp nn
-md rb vb vbn in
-vbg dt nn in prp
-in dt nn nn prp
-vbd in prp nn in
-cc rb in dt nn
-dt nn in nnp cc
-dt nn in nn rb
-vbd dt jj nn prp
-nn vbg in dt nn
-md rb vb in dt
-in dt nn in in
-prp in prp md vb
-in prp nn cc dt
-nn cc prp vbd in
-dt jj nn vbn in
-jj nn cc nn in
-prp vbd jj in dt
-jj nn in jj nns
-md rb vb to vb
-in vbg dt nn in
-nn in vbg dt nn
-nn rb in prp vbd
-cc dt nn in nn
-dt jj in dt nn
-nn cc nn prp vbd
-jj nn vbd dt nn
-nn to vb prp in
-nn prp vbd rb vb
-in prp vbd rb rb
-prp nn dt jj nn
-dt nn nn in prp
-in prp md vb rb
-rb jj in prp vbd
-dt jj nn nnp nnp
-vbn dt nn in prp
-nn prp vbd prp vbd
-prp nn dt nn in
-nn in prp nns in
-nn in dt nn wrb
-prp dt nn in dt
-dt nn cc in prp
-nn in jj nns in
-vbz dt nn in prp
-md vb prp in prp
-prp md vb prp prp
-nn to dt jj nn
-prp vbd prp jj nn
-prp vbd prp nn cc
-prp nn prp vbd dt
-rb vb in dt nn
-dt nn vbn in dt
-rp in dt jj nn
-dt jj nn rb in
-vbn in dt nn prp
-in dt nns in nnp
-prp vbd to dt nn
-nn vbd vbn in prp
-in prp nn vbd vbn
-rb in prp vbd rb
-rb in prp vbd prp
-in prp vbd rb vb
-dt nn rb in prp
-nn dt jj jj nn
-in nn cc nn cc
-in prp jj nn vbd
-vbn in prp nn in
-in dt jj jj nns
-prp vbd rb jj to
-nn in prp cc prp
-vbd prp nn cc vbd
-jj in dt nn prp
-md vb vbn in prp
-nnp prp md rb vb
-rb jj to vb prp
-dt nn vbd rb jj
-nn in nn in nn
-vbd prp in prp vbd
-in nn dt nn in
-in nn prp vbd prp
-nn in prp nn nnp
-rb jj in prp nn
-in prp prp vbd rb
-nn in dt nn wp
-in prp vbp dt nn
-nn in dt nn vbz
-md rb vb prp nn
-nn in nnp nnp vbd
-md vb to vb prp
-nn rb in dt jj
-prp vbd prp vbd rb
-nn in nn prp vbp
-rb in dt nn vbd
-cc prp vbd in dt
-dt nn in vbg dt
-vbd rb vbn in prp
-in dt nn rb rb
-prp to vb dt nn
-vbn to vb dt nn
-rb prp vbd in prp
-rb dt nn in nn
-nn vbd in prp nn
-prp vbd rb to vb
-vbd nn in dt nn
-prp vbp rb jj in
-prp md rb rb vb
-nns in prp jj nn
-nn prp vbp dt nn
-to dt nn prp vbd
-dt jj jj nn vbd
-nn cc prp md rb
-prp in prp jj nn
-dt nn md rb vb
-to vb prp prp vbd
-nn in prp md rb
-jj nn to vb prp
-vbd in prp nn cc
-in nnp in dt nn
-prp vbd vbn prp nn
-in dt jj nns cc
-jj nn cc in dt
-nn in jj nn prp
-prp vbd vbn dt jj
-prp vbd rb prp vbd
-nnp nnp pos nn in
-rb in prp vbd in
-rb rb in dt jj
-in prp nn in nnp
-jj nn cc jj nn
-dt nn vbd to vb
-md vb jj to vb
-nn in dt jj cc
-in prp nns in prp
-jj nn vbd in dt
-vbd to vb prp nn
-cc prp vbd in prp
-nn in nn cc dt
-to vb prp nn cc
-dt nn in prp rb
-prp vbd rb jj cc
-prp vbd vbg in dt
-in prp prp vbd prp
-vbd in prp in dt
-rb in prp nn in
-to vb dt nn prp
-prp md vb rb in
-prp nn vbd dt nn
-dt jj nn nnp vbd
-prp nn to vb prp
-vbd in prp jj nn
-jj prp md rb vb
-in prp vbp rb vb
-jj nn prp md rb
-jj nn prp vbp rb
-vbd dt jj nn to
-prp md vb rb jj
-in dt nn to dt
-vb dt nn prp vbd
-vbd prp in prp nn
-cc dt jj nn vbd
-nn in prp nns prp
-vbn rb in dt nn
-dt jj nn pos nn
-prp prp md vb prp
-in nn cc dt nn
-vbd dt nn in vbg
-dt nns in dt nns
-jj nn nnp nnp vbd
-nn in dt nn md
-vbd in prp md vb
-nn vbd rb in dt
-in dt nn in cd
-in prp nn cc rb
-in prp nn dt jj
-prp vbd in in dt
-prp vbd rb rb jj
-prp vbp vbn to vb
-vbd dt nn cc vbd
-prp vbd prp prp vbd
-in prp nn vbd rb
-nn cc prp vbd dt
-prp rb vbd dt nn
-prp md rb vb jj
-vb rb in dt nn
-nnp nnp vbd in dt
-ex vbz dt nn in
-md vb prp in dt
-vb prp in prp nn
-nn in dt nn jj
-rb vb to vb prp
-nn in nn cc prp
-prp nn cc dt nn
-prp vbd in nn in
-prp vbd dt nn rb
-nn dt nn vbd rb
-rb to vb dt nn
-vbg rb in dt nn
-in dt nn wp vbd
-nn in dt nnp in
-nn md vb vbn in
-pos nn in dt nn
-vbd to vb prp in
-cc prp vbd to vb
-vbn in prp jj nn
-dt nn in nnp in
-in dt nn vbg in
-nn nn in dt jj
-jj cc jj in prp
-prp in prp vbd rb
-in dt nn vbd jj
-dt jj nn in wdt
-nn in dt jj nnp
-prp md vb rb rb
-prp jj nn in nn
-vb in dt nn cc
-dt nn vbd rb vbn
-in dt jj nn wrb
-nn dt nn vbd vbn
-vb prp dt nn in
-md vb prp nn in
-rb vbd dt jj nn
-in nn dt jj nn
-nn in jj nns cc
-vb in prp md vb
-dt jj nns in nn
-in nn prp vbd in
-dt nn nn prp vbd
-in prp jj nns cc
-prp md vb prp to
-nn in nnp nnp cc
-to vb prp jj nn
-vbd in prp vbd rb
-nn rb rb in prp
-dt nn prp vbd jj
-nn in nnp nnp nnp
-dt nn vbd rb in
-in nnp nnp prp vbd
-in prp nn nnp nnp
-nn prp md vb rb
-prp md vb jj to
-prp md vb vbn dt
-to vb prp dt nn
-in jj in dt nn
-vbn in dt nns in
-prp jj nn cc prp
-in prp dt nn in
-rb in dt nns in
-vbd rb vb to vb
-dt nn cc vbd in
-prp vbd in prp in
-rb vbn in dt jj
-dt nn in nn nn
-jj to vb in prp
-nn cc vbd in dt
-cc rb prp md vb
-dt nn cc prp vbp
-nnp nnp cc nnp nnp
-prp vbd prp vbd prp
-prp vbd in in prp
-prp dt nn in prp
-cc jj in dt nn
-nns in nn cc nn
-vb prp in prp vbd
-nnp pos nn in dt
-rb jj in dt jj
-in nn prp vbd dt
-prp vbp rb vb to
-in prp vbd vbn rb
-prp nn in nn in
-in prp dt jj nn
-jj nn vbd vbn in
-cc prp vbp rb vb
-dt nn cc prp md
-md vb vbn to vb
-nn in dt nns prp
-nns in dt nns in
-vbd to vb dt jj
-vbd vbn to vb prp
-jj nn in prp md
-in prp jj nn dt
-in prp vbd prp in
-cc vbd dt jj nn
-wrb prp vbd dt nn
-in nn cc prp vbd
-md vb vbn dt nn
-nn in nn prp md
-rb rb jj in prp
-vb in dt nn prp
-nnp nnp vbd in prp
-rb jj nn in dt
-nn cc nn in nn
-prp cc prp md vb
-prp prp vbd dt nn
-nn in nn to vb
-jj nn vbd in prp
-dt nn pos nn cc
-rb prp vbd dt jj
-nn in prp jj jj
-nn in prp vbd to
-jj nn prp vbp prp
-nn in nns in dt
-in jj nn cc nn
-nns prp md rb vb
-jj in prp jj nn
-nn rb prp md vb
-prp nn vbd vbn in
-cc prp vbd rb jj
-nn vbn in dt jj
-nns cc dt nn in
-dt nn cc vbd dt
-nn in prp nn nn
-prp vbd rb dt jj
-rb prp vbd to vb
-dt nn in in prp
-in dt jj nn wp
-jj nn prp vbd to
-nn dt nn vbd in
-nnp nnp vbd dt jj
-nn prp vbd vbn prp
-prp vbd to prp in
-vbp rb vb to vb
-dt nn prp nn vbd
-nn cc vbd prp in
-vbd prp md rb vb
-in dt nn cc vbg
-in prp md vb to
-prp in prp vbd prp
-in prp jj nns in
-in prp vbd jj in
-in prp vbd vbn to
-prp to vb in prp
-in in dt nn prp
-vbn prp in dt nn
-dt nn prp vbp vbn
-prp vbd to vb rb
-dt nn in nn to
-dt nn in nnp vbd
-in prp vbp to vb
-prp vbd rp in dt
-dt nn vbd prp nn
-jj in prp nn in
-nn in dt nnp nn
-nn to vb dt jj
-nn in nnp nnp in
-vbd dt jj nn rb
-cc jj nn in dt
-in dt jj nns prp
-in prp nn vbd prp
-prp nn prp md rb
-jj nn vbn in dt
-prp md vb prp vbd
-in pdt dt nn in
-cc prp md vb dt
-dt nns in dt nnp
-md vb prp dt nn
-rb in prp vbd dt
-in prp prp vbd in
-nns cc nns in dt
-vb prp to vb prp
-dt nn in nn wdt
-dt nn in nnp prp
-jj nn wrb prp vbd
-vbd in dt nn vbd
-prp nn to dt nn
-to vb dt nns in
-nn vbd rb jj in
-prp in prp nn in
-rb jj nn in prp
-prp vbd rb vb in
-vbd rb jj cc jj
-nn cc nn cc nn
-rb vbd in dt nn
-vbd rb vbn dt nn
-vbd in dt nn rb
-md rb vb prp prp
-nn prp md vb to
-prp nns in dt jj
-jj nn in prp in
-prp vbd in dt nns
-prp nn vbd in dt
-rb vb dt jj nn
-vbd in prp vbd vbn
-cd nns in dt nn
-nns in dt nn dt
-dt jj nn in in
-nns in prp nn cc
-prp vbd prp nn rb
-to prp in prp vbd
-nn pos nn in dt
-nnp nnp in dt jj
-vbd rb rb in dt
-cc vbd prp in dt
-rb vb prp in prp
-in in dt nn cc
-prp vbd in prp jj
-rb in prp nn cc
-in dt nn vbd nnp
-in wdt prp vbd vbn
-md vb prp to vb
-prp vbd rb vb to
-nn cc prp nn vbd
-jj nn to dt nn
-prp md vb nn in
-nn in dt nn vbn
-nn in nn cc in
-nnp nnp prp md vb
-nn in prp nn to
-nn vbd rb vbn in
-dt nn in in dt
-nnp pos nn prp vbd
-to dt nn in nn
-in dt nn nn vbd
-in prp nn md vb
-nn in nnp prp vbd
-in nn in dt nns
-jj nn nn in dt
-nnp vbd vbn in dt
-vb prp in dt jj
-dt jj nns prp vbd
-vbd dt nn dt nn
-nn cc dt nn cc
-nn cc vbd prp nn
-vb prp prp md vb
-prp md vb cc vb
-vbg nn in dt nn
-vbz dt nn in nn
-cc vbd prp nn in
-dt nn in vbg in
-nn pos nn prp vbd
-vbd to dt nn in
-in in prp vbd rb
-jj nn rb prp vbd
-prp vbp rb vb dt
-vb dt nn in nnp
-vbd in dt nns in
-nnp nnp vbd prp nn
-rb rb prp md vb
-vbd in dt jj jj
-cc in dt nn prp
-vbd prp jj nn in
-nn prp vbd jj in
-vbn vbn in dt nn
-dt jj nn to dt
-rb prp vbp rb vb
-jj nns in prp vbd
-prp md vb vbn rb
-vb nn in dt nn
-pdt dt nn in dt
-prp vbd vbn rb in
-prp vbp prp vbp rb
-vbd rb in prp vbd
-cc nn in dt jj
-in dt jj nn jj
-in vbg dt jj nn
-jj jj nn in nn
-dt nn wdt vbd vbn
-prp vbd prp dt nn
-nn cc rb in dt
-jj nn in nn vbd
-nn in dt nns vbd
-nn prp vbd to prp
-nns cc dt jj nn
-vbd rb vbn to vb
-nns in dt jj nns
-jj dt nn in dt
-dt jj nn prp vbz
-jj nn rb in dt
-prp vbd vbn prp in
-dt jj nn to prp
-nn md vb dt nn
-prp md vb jj in
-prp md vb to prp
-dt jj nn wp vbd
-prp vbp rb vbn prp
-nns in nn in dt
-prp nn pos nn in
-rb in dt nn nn
-dt jj jj nns in
-in rb in dt nn
-jj jj nns in dt
-prp rb vbd in prp
-prp vbd vbg to vb
-cc prp vbd dt jj
-in dt jj in dt
-in dt nn cc vb
-in vbg in dt nn
-prp md vb vbn to
-in prp in prp nn
-in prp nn vbd dt
-vbg in dt nn cc
-prp md vb prp jj
-to vb prp nn prp
-cc prp vbd rb in
-nns vbd in dt nn
-in dt nnp pos nn
-nn in prp vbp prp
-prp vbd in prp md
-prp vbp vbn in prp
-dt jj nn rb prp
-in nn in prp jj
-dt nn md vb prp
-in nn cc nn prp
-dt nn wdt prp vbd
-to vb vbn in prp
-prp vbd prp vbd dt
-in dt nns cc dt
-jj to vb prp nn
-jj nn cc in prp
-nn cc vbd in prp
-nn in dt vbg nn
-prp nn rb in prp
-nnp nnp pos nn vbd
-rb jj dt nn in
-vbd prp dt nn in
-vbd vbn vbn in dt
-vbp dt nn in dt
-vbp in dt nn in
-nns in dt nn nn
-prp md vb in nn
-prp nn pos nn cc
-dt nn vbd jj cc
-prp vbd vbg in prp
-rb prp md vb dt
-jj to vb in dt
-nns in prp nn in
-prp nn prp vbp rb
-jj cc jj prp vbd
-prp vbd in jj nn
-vbg prp nn in dt
-cc prp vbd prp nn
-dt nn cc rb prp
-vb prp nn prp vbd
-vbd in dt nn dt
-vbd prp nn prp vbd
-vbg prp in dt nn
-nnp vbd in prp nn
-in dt nn rb jj
-rb jj cc jj in
-vb to vb dt nn
-cc prp md vb in
-prp vbd rb cc vbd
-in dt nn wdt prp
-prp nn in prp md
-dt jj nn prp nn
-nn vbd jj cc jj
-rb in dt jj nns
-rb in prp nn prp
-in dt nn dt nns
-in prp nns cc prp
-md vb in prp nn
-vbn in prp nn cc
-dt nn in jj jj
-in dt jj nn vbn
-nnp nnp vbd vbn in
-vbp dt jj nn in
-dt nn cc vbd rb
-dt nn in nn nnp
-prp vbd in nnp nnp
-to vb in prp in
-prp vbd dt nns in
-jj nn to vb dt
-prp nn in nnp nnp
-prp nn prp vbp prp
-nn jj in dt nn
-prp nn vbd in prp
-cc in prp md vb
-in nnp nnp in dt
-prp vbp prp md rb
-vbd in prp nn prp
-prp nn vbd rb jj
-prp vbd dt nn nn
-prp nn cc in prp
-nn in prp vbp rb
-nn prp vbp to vb
-prp vbd jj cc jj
-rb in dt nn dt
-jj nn to vb in
-md rb vb dt jj
-prp vbp jj to vb
-rb rb in prp nn
-in nnp pos nn in
-jj nn in wdt prp
-prp in prp vbd in
-in nnp nnp vbd vbn
-rb prp vbd prp nn
-in jj nns prp vbd
-jj nn in prp vbp
-nn vbd prp in dt
-nn vbd vbn dt nn
-nnp vbd in dt jj
-nn in nnp nnp prp
-nn nnp nnp vbd rb
-rb vbn in prp nn
-dt jj jj nn dt
-jj in prp nn cc
-nnp nnp pos jj nn
-prp vbp vbn dt nn
-prp vbz rb jj in
-in dt nn cc nnp
-nn dt nn prp vbd
-nn rb prp vbd rb
-in nn in nn in
-in nn prp md rb
-prp nn dt nn vbd
-vbd vbn rb in dt
-dt nn vbg in dt
-to vb nn in prp
-vbd in in prp vbd
-nns prp vbd dt nn
-prp vbd rb vbn dt
-in prp nn nnp vbd
-nn ex vbd dt nn
-rb jj to vb in
-vbd in dt nn nn
-dt nn pos nn prp
-nn in dt rb jj
-cc prp vbd rb vb
-dt nn vbd rb rb
-dt nn vbd nnp nnp
-dt nn rb dt nn
-prp rb in prp vbd
-prp vbd jj prp vbd
-rb rb in prp md
-dt jj nn wrb prp
-rb vbn dt nn in
-vbd prp dt jj nn
-vbp rb vb in prp
-nn prp vbd vbn to
-nn wrb prp vbd vbn
-prp nn in dt nns
-prp rb vbd to vb
-rb vb prp to vb
-vbd vbn to vb dt
-nn cc prp vbp rb
-nn rb in prp nn
-in prp prp vbd dt
-jj in prp vbd rb
-nnp pos nn in prp
-prp nn rb prp vbd
-nn cc jj nn in
-prp vbp vbn in dt
-prp vbd vbn in nn
-vb dt jj nn cc
-vbd rb rb jj in
-in dt nnp in dt
-prp md rb vb nn
-prp rb rb in prp
-prp vbd rb vbn to
-vbd in nn in dt
-dt nn rb rb in
-nn in nns cc nns
-in in prp vbd dt
-in prp nn vbd in
-nn in pdt dt nn
-nn in prp vbd jj
-prp vbd vbn prp vbd
-rb to dt nn in
-in dt jj nn md
-prp nn in nn cc
-vbd dt nns in dt
-wrb prp vbd in dt
-jj nn cc vbd prp
-prp vbd prp nn to
-rb prp md vb vbn
-cc in prp vbd rb
-prp nn prp vbd vbn
-rb dt jj nn vbd
-dt nn cc prp nn
-prp in prp vbd vbn
-vbd vbn to vb in
-nnp nnp vbd to vb
-prp vbp prp to vb
-vbd prp vbd dt nn
-vbd rb jj prp vbd
-jj in dt nns in
-nn in nnp in dt
-prp vbd prp vbd in
-vbp dt nn in prp
-prp prp vbd in dt
-prp prp vbd in prp
-vbn nn in dt nn
-vbz in dt nn in
-in prp jj nn rb
-prp jj nn dt nn
-prp vbd rp prp nn
-prp vbp rb vbn in
-md rb vb vbn prp
-prp nn vbd dt jj
-prp vbd prp md rb
-rb in dt jj jj
-vb vbn in dt jj
-jj nn vbd dt jj
-dt jj nn vbg in
-in prp nn rb in
-vbn rp in dt nn
-vbn to dt nn in
-in dt nn rb vbd
-nnp nnp in prp vbd
-to vb rb in dt
-in prp to vb prp
-prp nn rb in dt
-jj nn in prp cc
-vbg in dt nn prp
-dt nn prp vbd vbg
-nn prp vbp rb jj
-prp vbd nn in dt
-nn nn in prp nn
-prp nn nnp nnp vbd
-vbd vbn prp nn in
-nnp prp md vb prp
-to vb nn in dt
-dt nn in prp dt
-dt nn prp rb vbd
-dt nn vbd vbn prp
-nns in dt nn rb
-dt nn md vb in
-in dt jj nn pos
-rb in in prp vbd
-dt jj nn rb rb
-nn prp vbp rb vbn
-vb dt nn to vb
-in in prp md vb
-nn nnp nnp vbd prp
-prp nn in prp jj
-prp vbp in prp vbp
-vbd dt nn in nns
-nn cc prp vbd vbn
-nn in dt nnp cc
-vbd nnp in dt nn
-in dt nn cc jj
-dt jjs nn in dt
-dt nn in prp vbz
-jj prp vbd dt nn
-nn prp vbd in nn
-nn rb prp vbd prp
-prp dt nn in nn
-prp vbd rb jj prp
-rb cc rb in dt
-vbd dt rb jj nn
-vbd prp to vb prp
-vbd rb rb in prp
-prp nn in prp vbp
-prp vbp to vb in
-cc dt jj jj nn
-dt nn vbd jj in
-dt nn wdt vbd prp
-in dt nn in rb
-jj nn in prp prp
-prp in prp nn cc
-in prp md vb jj
-nn md rb vb vbn
-nn prp vbz dt nn
-rb cc prp md vb
-jj nn vbd to vb
-nn prp vbd vbn dt
-nn wdt vbd in dt
-nn vbd rb in prp
-vb vbn dt nn in
-in dt nn wrb dt
-nn in prp prp vbp
-nn pos nn in prp
-nn prp vbd rb dt
-vbn in prp in dt
-nn in nn dt jj
-nn prp vbp prp md
-vbd dt jj nn dt
-in dt jj jj jj
-rb prp md vb in
-nn nnp vbd dt nn
-nn vbd rb jj cc
-nnp vbd prp nn in
-vb prp dt jj nn
-cc dt nn vbd rb
-md vb dt nn cc
-nn rb prp vbd in
-prp jj nns in dt
-vbd jj in dt jj
-vbn in nn in dt
-in jj nns in prp
-jj nn in nn dt
-vb in prp in dt
-cc rb in dt jj
-nn cc prp vbp prp
-nn rb dt nn in
-dt nn wdt vbd in
-in dt vbg nn in
-jj dt jj nn in
-nn nnp nnp vbd in
-nn prp vbd prp rb
-nn vbg dt nn in
-to prp nn prp vbd
-vbd vbn prp in dt
-jj nn md vb vbn
-vbp prp md vb prp
-in prp nn prp nn
-rb prp vbd rb in
-in dt nn prp rb
-nnp nnp pos nn cc
-to vb rb in prp
-vbd in prp vbd dt
-in prp vbp in prp
-jj dt nn in prp
-to dt nn in nnp
-in nn prp vbd vbn
-nn in prp to vb
-prp vbp jj prp vbp
-md rb vb prp rb
-nn in prp dt nn
-vbp prp md rb vb
-in nn dt nn vbd
-in prp jj nns prp
-jj nn prp vbd jj
-nn in dt nn nns
-prp in dt nn vbd
-rb in in dt nn
-to vb dt nn rb
-vb dt jj nn prp
-dt nn wdt vbd rb
-dt nn in prp vbg
-in prp cc dt nn
-jj nns in dt nns
-nns in prp nn prp
-rb rb in prp vbp
-vb prp in prp vbp
-in prp vbd prp rb
-jj in prp to vb
-nnp vbd rb in dt
-prp vbd rp dt nn
-nnp dt nn in dt
-prp nn cc in dt
-rb in nn in dt
-vb in prp nn in
-jj nns in nn cc
-vbd in prp vbd prp
-vbn to vb in prp
-dt nn in dt cd
-in dt nnp in nnp
-in prp vbd in nn
-pdt dt nn in prp
-nn cc prp jj nn
-vbd prp nn to vb
-nn dt nn md vb
-nn in nn cc rb
-prp nn to vb in
-prp rb vbd in dt
-to vb in prp prp
-in dt jj prp vbd
-in prp rb prp vbd
-in prp vbd rb dt
-prp vbd rb in nn
-prp vbp rb jj prp
-dt jj jj nn wdt
-vb prp md rb vb
-cc prp md vb vbn
-in dt jj nn vbz
-nn prp md vb jj
-to prp nn in dt
-wrb prp vbd to vb
-in nn prp vbp rb
-nn vbd jj in dt
-prp vbd dt nn vbd
-rb vb prp in dt
-nn in nn in nnp
-prp vbp dt nn to
-nn dt nn dt nn
-prp prp vbp rb vb
-prp vbd prp nn prp
-prp vbp rb dt nn
-in prp nn rb prp
-jj to vb prp in
-md vb in dt jj
-nn dt nn in jj
-prp vbz in dt nn
-cc vbd in dt jj
-prp jj nn prp vbp
-rb in dt nn rb
-vbd dt nn cc dt
-nn rb rb in dt
-prp nn in nn prp
-prp vbd nn in prp
-dt nn in nns prp
-dt nn prp vbp dt
-cc rb prp vbd rb
-jj nn rb in prp
-prp in prp vbd dt
-vbn in dt nn nn
-dt nn pos nn vbd
-jj nns cc jj nns
-nn vbz dt nn in
-nns dt nn in dt
-prp vbd prp rb in
-rb in nn in prp
-in prp vbd rb prp
-dt jj nn vbd nnp
-vbn to vb in dt
-dt nn wdt md vb
-dt nnp in dt nn
-dt nns in nnp nnp
-in dt nn rb dt
-nn prp vbp in prp
-prp nn pos nn prp
-rb rb prp vbd rb
-rb to vb in prp
-dt jj nns in nnp
-nn vbd prp nn in
-prp cc prp vbd rb
-in dt nn wdt vbz
-nnp prp vbd dt nn
-rp in dt nn cc
-vbg prp nn in prp
-vbp in dt jj nn
-cc nns in dt nn
-jj prp md vb prp
-prp vbd dt nn dt
-nn nnp nnp vbd dt
-prp vbd in prp rb
-prp vbp dt nn prp
-dt nn cc rb in
-dt nn prp vbp in
-dt nn vbn in prp
-dt nns in nn cc
-dt rb jj nn prp
-nn md vb in prp
-nn wrb prp vbd prp
-nns prp vbd in dt
-rb jj in prp md
-vbn dt nn in nn
-wrb prp vbd in prp
-cc nn in prp nn
-dt nn cc dt nns
-in dt jj nns vbd
-in dt nn nn dt
-in dt nns cc nns
-in prp prp md rb
-jj in prp nn prp
-in prp nn in jj
-prp in prp nn prp
-in jj nn dt nn
-nn prp vbp vbn prp
-vbd jj cc jj in
-vbd vbn in prp vbd
-in nn in nnp nnp
-prp nn cc nn in
-prp vbd prp vbd vbn
-prp vbp vbg to vb
-nn cc rb dt nn
-nnp nnp dt nn in
-prp cc prp vbd prp
-rb rb jj in dt
-prp jj nn cc nn
-prp vb in dt nn
-rb vbg in dt nn
-vbn in dt jj jj
-cc prp vbd rb rb
-in nnp nnp vbd rb
-in prp jj nn nnp
-jj nn cc prp vbp
-jj nn in nns in
-nns dt jj nn in
-prp nn to vb dt
-vb in prp jj nn
-vbd prp rb in dt
-dt nn to prp nn
-in prp vbp vbn prp
-nnp nnp vbd rb vbn
-dt nns cc nns in
-jj nn cc prp md
-nn in vbg prp nn
-nns in nn in prp
-prp nns in prp nn
-vbn in dt jj nns
-nn cc wrb prp vbd
-prp nn cc vbd in
-rb jj prp md vb
-nns in dt jj jj
-prp vbp to vb dt
-nnp nnp dt jj nn
-prp jj jj nn in
-vbn in in dt nn
-vbd dt jj nn nn
-vbd rp in dt jj
-nn in prp rb vbd
-prp vbd prp vbp rb
-vbd in prp prp vbd
-vbd to vb vbn in
-dt jj nn cc jj
-nn cc dt nn prp
-nn vbd in prp vbd
-nn in jj jj nn
-prp vbd cc prp vbd
-cc in dt nn vbd
-jj nn prp nn vbd
-nnp nnp prp vbd rb
-prp vbd prp rb rb
-in dt nn jj in
-in dt nn jj nn
-in prp vbd vbg in
-nn dt nn in nnp
-prp nn cc prp md
-prp nn vbd to vb
-vbd in nn in prp
-vbd jj to vb prp
-nn prp vbd in in
-in dt nn ex vbd
-prp nn in jj nn
-rb cc rb prp vbd
-vbn in dt nn dt
-nn vbd to vb prp
-vb jj to vb prp
-vbz dt jj nn prp
-cc dt nn prp vbd
-cc vb dt nn in
-in nnp pos nn cc
-nn prp vbd cc vbd
-nns rb in dt nn
-vb to vb in prp
-in prp cc in prp
-in prp in prp vbp
-nn in nn wdt vbd
-to vb in prp md
-prp rb prp md vb
-prp vbd rb vb dt
-prp vbd vbn vbn in
-to vb in prp cc
-in nn to vb prp
-jj nn in in prp
-in dt nns dt nn
-nn dt nn vbd prp
-in dt nn vbd to
-in prp prp vbp rb
-prp md vb prp cc
-dt nn nn dt nn
-nn cc dt jj jj
-nn wdt vbd dt nn
-prp vbd vbn in nnp
-vbd nnp nnp in dt
-rb rb dt nn in
-vb dt nn in vbg
-prp nns in prp vbd
-rb jj to vb dt
-to prp in dt jj
-cc rb in prp vbd
-dt nns in prp nns
-prp vbp in prp nn
-to vb jj in prp
-dt nn prp vbz rb
-dt nns in prp jj
-in dt nn cc cd
-nnp nnp prp vbd prp
-vb in prp prp vbd
-in dt jjs nn in
-md vb in prp vbd
-nn in jj nn vbd
-rb vb in prp vbd
-prp md vb prp vb
-prp prp vbd to vb
-vbg to vb dt nn
-cc vbn in dt nn
-in prp in prp md
-jj nns prp md vb
-nn vbd to vb in
-prp in dt nn rb
-prp nn in prp nns
-prp vbd nn to vb
-prp vbd rb rb rb
-dt nn vbd prp in
-dt nn vbg in prp
-nn cc nnp nnp vbd
-nn in prp nns vbd
-nn vbd dt nn cc
-prp nn cc prp vbp
-rb to vb prp nn
-vb prp jj nn in
-wdt vbd in dt nn
-wrb prp vbd vbn prp
-dt vbg nn in dt
-in nn cc in dt
-vbd in dt nn to
-prp prp vbd dt jj
-prp vbd in prp nns
-vbp dt nn to vb
-in dt nnp nnp nnp
-in nn cc in nn
-nn in prp prp md
-nn prp vbd vbn rb
-nn wrb prp vbd in
-prp in in dt nn
-prp to vb prp nn
-vbd vbg in dt jj
-nn rb prp vbd dt
-jj nn in nnp pos
-to vb dt nn to
-dt nn in dt vbg
-rb prp vbd rb rb
-to vb prp in nn
-in in dt nn vbd
-in prp jj jj nns
-nn in dt jj in
-vb prp rb in prp
-vbd prp md vb prp
-dt nn in dt rb
-dt nns in prp vbd
-nn to vb vbn in
-vbd rb vb dt nn
-vbn in prp nn prp
-cc rb prp vbd prp
-nn rb dt jj nn
-prp nn wrb prp vbd
-prp vbd cc vbd prp
-to vb prp to vb
-vbd dt jj nns in
-dt nn vbz dt nn
-jj in dt nn vbd
-nn cc vbd dt jj
-dt nn wrb dt nn
-md vb dt nn to
-nn prp vbd vbg in
-nn vbd vbn to vb
-to vb in nn in
-vb dt nn in jj
-nn dt nn vbd dt
-nn prp vbz rb jj
-vb jj in dt nn
-nn in dt vbn nn
-prp vbd prp nns in
-prp vbd vbn rb rb
-vbd rb to dt nn
-prp to vb in dt
-prp vbz jj to vb
-vbd in dt jj nns
-cc rb prp vbd in
-jj nn in nns cc
-nn to dt nn cc
-vbg dt nn in nn
-cc vbg in dt nn
-dt jj nn vbd jj
-prp vbp jj in prp
-rb jj cc rb jj
-jj in prp vbd vbn
-jj nns in nn in
-prp vbz rb dt nn
-vbd dt nn cc prp
-cc prp vbd rb vbn
-nn prp vbd prp jj
-nnp vbd in prp vbd
-prp vbd rb vbn rb
-vbd in prp vbd in
-vbp rb jj in prp
-in dt nn nns in
-nnp nnp vbd rb in
-vb in prp in prp
-in dt jj in prp
-jj prp vbd in dt
-prp nn md rb vb
-to vb prp nns in
-jj nn md rb vb
-nn cc nn dt nn
-nnp nnp vbd vbn prp
-vbd dt nn nn in
-cc vbd rb in dt
-in prp vbd prp prp
-jj in prp prp vbd
-prp vbd vbg dt nn
-jj cc jj cc jj
-jj nns prp vbd rb
-nn in jj nn dt
-in prp nn prp vbz
-jj nn prp vbp vbn
-prp in in prp vbd
-prp jj nn to vb
-to vb prp cc prp
-nn vbz dt jj nn
-nn wrb dt nn vbd
-nnp dt jj nn in
-prp vbd rp in prp
-vbn prp nn in dt
-cd in dt jj nns
-dt jj jj nn rb
-nn in nn cc vbd
-nn prp vbd prp md
-nnp prp vbd in dt
-rb rb prp vbd prp
-to vb in dt nns
-in dt nn vbg dt
-prp vbd cc vbd in
-vbn to vb prp nn
-dt nn vbg dt nn
-dt rbs jj nn in
-nn prp rb vbd prp
-nns vbd vbn in dt
-in nns in dt jj
-in prp vbp in dt
-nn md rb vb prp
-nns cc in dt nn
-nns vbn in dt nn
-vbg in prp nn in
-vbz rb jj in prp
-rb to vb vbn in
-in nn in nn cc
-nn prp vbp prp vbd
-nnp nnp pos nn prp
-prp vbp prp in prp
-rp dt nn in dt
-to dt nn cc vbd
-in nn prp vbp prp
-nn vbd vbn vbn in
-prp vbd wrb prp vbd
-vbd in prp in prp
-jj nns in jj nn
-md vb to vb dt
-nn in nns prp vbd
-rb vb prp prp vbd
-to vb in nnp nnp
-in dt nns in jj
-in prp nns cc vbd
-prp md rb vb cc
-prp rb in dt jj
-rb jj nn prp vbd
-to vb prp rb in
-to vb rp dt nn
-vbd prp nns in dt
-cc dt nn cc dt
-dt nn md vb dt
-jj rb in dt nn
-nn nnp nnp vbd vbn
-nnp in dt nn prp
-rb vb prp nn in
-dt nn cc vb prp
-dt nn nn in nn
-in dt jj nns dt
-in to dt nn in
-md vb jj in prp
-nn in jj nns prp
-nn in nns in prp
-prp nn md vb vbn
-in prp vbd nnp nnp
-nns in prp md vb
-prp nn vbd jj cc
-vbd vbn in nn in
-dt nn dt jj jj
-dt nn vbd vbn rb
-dt rb jj nn cc
-in dt nn to prp
-in dt nn vbg prp
-in prp rb in prp
-in prp vbp rb vbn
-md vb nn in prp
-prp vbd rb prp vbp
-in prp jj nn nn
-nnp nnp in prp nn
-nnp nnp prp vbd in
-cc dt nn vbd in
-dt nn prp vbd cc
-in nnp pos nn prp
-jj in dt jj nns
-rb rb rb in prp
-cc prp vbd prp in
-prp vbd to vb vbn
-rb prp vbd prp in
-dt nn in prp nnp
-dt nn to dt jj
-prp vbp in dt jj
-rb in prp nn vbd
-dt nn in pdt dt
-prp vbp prp vbd rb
-rb vb to vb in
-vb in prp vbd rb
-vbd jj in prp nn
-vbz rb dt nn in
-nn in vbg in dt
-rb prp md vb rb
-vb dt nns in dt
-cc in prp vbd prp
-cc rb dt nn in
-dt nn dt nn dt
-dt nn pos jj nn
-nn in in dt jj
-nnp prp vbp rb vb
-vbp rb vb dt nn
-in jj nn in nn
-in nn cc dt jj
-jj nn in nn rb
-nn cc vbd to vb
-nn nns in dt nn
-prp nn vbd rb vbn
-jj cc jj nn prp
-jj nn vbg in dt
-prp vbd dt jj nns
-prp vbd rb rb vbn
-dt nns in nn in
-jj jj nn dt nn
-jj nn vbd prp nn
-jj nns in prp jj
-md vb rb in prp
-nn md vb in dt
-dt nn vbd vbn dt
-nn cc in prp nn
-rb prp vbd rb jj
-nn in nn nnp nnp
-nns vbd dt nn in
-prp in dt nn dt
-vb prp prp vbd rb
-vbd rp dt nn in
-vbd to dt jj nn
-dt nn wp vbd vbn
-in nnp nnp in prp
-in nnp nnp pos jj
-in prp vbd jj cc
-prp jj nn cc vbd
-prp vbp in prp md
-vb vbn dt jj nn
-dt jj nn in cd
-dt jj nn in rb
-nn in prp vbp vbn
-to vb to dt nn
-dt jj nn nn cc
-nn in prp vbd vbg
-dt jj in dt jj
-dt nns cc dt nn
-in prp rb vbd prp
-vb in in dt nn
-vb in prp nn cc
-vbd rb to vb prp
-dt nn dt nn cc
-md rb vb prp to
-vb rb jj in prp
-vbd prp rb in prp
-cd nn in dt nn
-md vb dt nn prp
-md vb to vb in
-rb prp vbp dt nn
-to dt jj nn cc
-vb prp nn in nn
-vbd in prp nn vbd
-cc dt nn in jj
-cc vbd prp in prp
-jj to dt nn in
-jj to vb dt jj
-rb in prp vbp prp
-vbp vbn in dt nn
-nn cc dt nns in
-nnp vbd vbn in prp
-to vb cc vb prp
-vbd prp to vb in
-vbd to prp in dt
-in prp nn rb rb
-in prp nns dt nn
-jj jj jj nn in
-vbd vbn to dt nn
-vbn in dt nn rb
-jj nn prp rb vbd
-rb to vb in dt
-vbd prp nns in prp
-jj nn in vbg prp
-jj nns dt jj nn
-nn in nn vbd vbn
-nn nnp vbd in prp
-to prp nn in prp
-nn vbz in dt nn
-nnp nnp md rb vb
-rb vbg dt nn in
-in prp cc prp vbp
-nn dt nn vbd jj
-in dt vbn nn in
-jjs nn in dt nn
-nn in nn rb in
-nn in nn vbd in
-nn wdt prp vbd vbn
-nns in nn prp vbd
-nns prp vbd dt jj
-prp vbd rb rb prp
-in dt nn wp vbz
-in dt nnp nnp in
-in prp nn wrb prp
-in prp vbz dt nn
-jj nn cc prp nn
-nn prp vbd in jj
-prp vbd rb cc rb
-cc in prp vbd in
-in nnp pos jj nn
-in prp vbd prp jj
-vbd jj in prp vbd
-cc rb dt jj nn
-dt in dt nn in
-jj nn in nnp cc
-prp vbd in prp cc
-vbd prp nn in nn
-vbn in dt nn vbd
-jjr in dt nn in
-nn nnp vbd in dt
-prp prp md vb dt
-nn dt jj nn cc
-nn in dt nnp vbd
-nn prp vbp prp vbp
-nnp nnp cc prp vbd
-prp nn prp vbd to
-vbd dt nn rb in
-vbd jj cc jj cc
-dt jj nn vbd to
-in dt rbs jj nn
-jj in prp vbd prp
-rb in prp md rb
-md vb rb jj in
-prp in dt nns in
-prp vbp rb vb wrb
-vbd vbn in nnp nnp
-dt jj jj nn nn
-dt jj nn rb vbd
-in prp cc vbd prp
-nn dt jj nn prp
-nn in prp cc dt
-rb dt jj jj nn
-vbd in dt nn vbg
-in prp cc prp md
-nn in nnp in prp
-nnp vbd vbn to vb
-rb cc in dt nn
-rb in dt nn to
-dt nn in nnp dt
-in nn nnp nnp vbd
-nn in vbg dt jj
-prp vbd vbn to prp
-dt jj nn wdt prp
-dt nn in cd nns
-nnp in dt nn cc
-vbg in dt nns in
-in dt jj nnp nnp
-prp to dt nn in
-rb prp vbd vbn in
-rb vb prp md vb
-to vb in prp vbp
-to vb prp nn rb
-jj jj nn wdt vbd
-nn cc prp vbd jj
-nn in jj jj nns
-nn vbn in prp nn
-nnp vbd vbn dt nn
-prp jj nn vbd vbn
-prp rb vbd prp nn
-prp vbp jj prp md
-vbd prp cc prp vbd
-cc prp md vb rb
-dt nn cc rb vbd
-dt vbz dt jj nn
-in prp prp vbd vbn
-in prp vbd vbn vbn
-nnp in prp jj nn
-prp vb dt nn in
-prp vbp rb in dt
-vbz in dt jj nn
-cc jj nn prp vbd
-nn in dt nns dt
-nnp nnp nnp nnp vbd
-nns prp vbd in prp
-prp md vb dt nns
-prp vbp vbn prp nn
-in nn in prp md
-jj nn wdt vbd in
-prp jj nns prp vbd
-prp nn cc vb prp
-prp to vb prp in
-rb dt jj nn prp
-vb prp md vb prp
-in dt nn nn nn
-nn in dt nnp pos
-nn in nn in jj
-nn in nn md vb
-prp vbd dt rb jj
-rb prp vbd rb vb
-rb vb to vb dt
-cc jj nn in prp
-dt jj nn nn prp
-dt nn to vb vbn
-prp nn in dt nnp
-vbd vbn in prp in
-cc dt nns in dt
-in nnp nnp cc prp
-nn cc prp vbd to
-nn prp vbd rb prp
-nn prp vbp dt jj
-vb in dt nns in
-in nn in prp prp
-in prp nn cc vbg
-vbd to prp in prp
-dt nn vbd vbn to
-nn in nn vbd prp
-prp rp in dt nn
-vb prp nn cc prp
-wdt vbd dt nn in
-in prp nn to dt
-jj in dt nn nn
-jj nns cc dt jj
-nn nn prp md vb
-prp jj nn prp md
-vb in dt nn vbd
-vbd nnp in dt jj
-in nn cc nn vbd
-in nnp nnp cc nnp
-in prp md vb nn
-jj in nn in dt
-jj nn cc rb prp
-md vb vbn dt jj
-nnp cc dt nn in
-to vb prp md vb
-nn cc dt jj nns
-nn md vb vbn prp
-prp jj nns in prp
-prp vbp rb jj to
-vbz dt nn to vb
-cc prp vbd vbn in
-in prp prp vbp prp
-nn cc prp nn in
-nn cc vbd rb in
-nn vbd to vb dt
-nnp cc prp md vb
-nnp nnp vbd rb jj
-prp vbp rb rb jj
-rb dt nn prp vbd
-vb in prp nn prp
-in in prp jj nn
-in nnp in dt jj
-in nnp nnp nnp vbd
-nn prp vbp vbn in
-prp in dt nn nn
-prp jj jj nn cc
-vbd vbn in dt nns
-in dt nn vb prp
-nn in nn nnp vbd
-ex vbz dt jj nn
-in dt nn rb cc
-md prp vb in prp
-nnp vbd rb in prp
-nns in prp vbd rb
-vbd rb vb in prp
-cc jj in dt jj
-jj nn in in dt
-jj prp vbd in prp
-nn vbg in dt jj
-nnp vbd rb jj in
-vbg rb in dt jj
-in prp vbd prp md
-jj in dt jj jj
-jj in prp vbd in
-jj nns in jj nns
-nn prp nn vbd rb
-nn prp vbd in nnp
-nn prp vbz dt jj
-nn to dt nn prp
-nnp cc nnp nnp vbd
-nnp pos jj nn in
-prp vbp rb in prp
-to dt jj nn prp
-to vb dt jj nns
-dt jj nn jj in
-dt nn to vb rb
-dt nnp in dt nnp
-in dt in dt nn
-md rb vb prp vbd
-nnp nnp prp vbp rb
-vb dt jj jj nn
-in dt nns prp vbp
-prp nn vbd rb in
-vb dt jj nn to
-vb vbn in prp nn
-vbd in in dt jj
-vbd prp nn rb in
-dt nn wdt vbd dt
-in jj dt nn in
-in nnp nnp dt nn
-jj nn wdt vbd vbn
-rb rb prp vbd in
-cc dt jj nn prp
-dt nn in dt prp
-in prp nn vbd jj
-jj nn in prp rb
-jj nns cc prp vbd
-prp md rb vb vbg
-rb jj cc jj cc
-vbd vbn prp in prp
-dt nn vbd vbn vbn
-jj nns dt nn in
-nn prp rb vbd in
-nn prp vbd prp nns
-nn prp vbd rb cc
-prp dt nn prp vbd
-prp nn rb rb in
-rb in nn prp vbd
-cc dt nn vbd vbn
-dt nn in vbg nn
-nn in vbg in prp
-to vb in prp jj
-nn rb vbd dt nn
-nns prp md vb prp
-pos nn in dt jj
-prp in dt jj jj
-prp prp md vb vbn
-nns prp vbd to vb
-rb dt nn to vb
-nns in prp vbd in
-prp prp vbd prp nn
-rb rb dt jj nn
-dt nn prp vbz dt
-jj nn vbd rb jj
-nn in dt cd nns
-nnp in prp md vb
-nnp vbd rb vbn in
-prp in prp md rb
-prp vbp rb vb wp
-rb rb jj to vb
-vb vbn in prp vbd
-vbn rb in dt jj
-jj jj nns in prp
-jj nn vbd nnp nnp
-vbd dt nn wdt vbd
-dt nn cc nn cc
-dt nn cc nnp vbd
-dt nns in jj nns
-jj nns prp vbd in
-nn in prp vbp in
-nns vbd dt jj nn
-prp nn cc vbd rb
-vbz rb jj to vb
-dt nn cc jj nn
-dt nn in dt in
-dt nn nnp vbd prp
-ex md vb dt nn
-jj nn dt jj jj
-prp vbd rb jj rb
-in jj nns in nn
-in prp to vb in
-in prp vbp rb jj
-in prp vbp vbn in
-nn cc rb in prp
-nn vbd jj in prp
-prp cc prp md rb
-vbn to vb prp in
-dt nn vbd prp vbd
-in prp jj nn to
-nn prp vbp rb rb
-prp md vb prp md
-dt in dt jj nn
-in nnp nnp nnp nnp
-in prp vbd to prp
-jj in dt nn rb
-nnp nnp prp vbp prp
-vb dt nn prp vbp
-vb rp in dt nn
-dt nn rb jj in
-in dt nn vbd vbg
-in prp cc prp nn
-in prp rb in dt
-jj nn in nn wdt
-jj nns cc nns in
-nn ex vbd dt jj
-nnp vbd to vb prp
-dt nn vbd vbn cc
-to vb dt nn nn
-vbn to vb dt jj
-in dt nn nn rb
-jj nn wdt vbd prp
-jj nns in dt nnp
-nn in nnp cc nnp
-nnp nnp vbd rb rb
-prp md vb prp nns
-dt nn dt nn prp
-in nnp nnp pos nns
-jj nns cc dt nn
-nn cc vb dt nn
-nn in nnp dt nn
-prp jj in dt nn
-prp jj nn cc in
-prp vbd to prp nn
-vbd dt nns in prp
-vbp in prp md vb
-vbp rb jj to vb
-md vb prp jj nn
-nn prp md vb nn
-nn prp vbp in dt
-nn vbd prp in prp
-nns in dt nn nnp
-prp vbd prp dt jj
-rb in prp vbd to
-vbn in prp prp vbd
-cc prp nn vbd rb
-dt nn ex vbd dt
-dt nn nn cc dt
-dt nn nnp vbd rb
-in dt nns in nns
-jj in prp in prp
-jj nn nn in prp
-md vb rb in dt
-nn wdt vbd vbn in
-prp nn vbd vbn prp
-to dt nn dt nn
-vb dt nn cc prp
-vb prp vb in prp
-vbd cc vbd in dt
-cc dt nn in nnp
-nn rb rb prp vbd
-prp nn in in prp
-rb jj prp vbd rb
-to dt jj jj nn
-vbd dt nn pos nn
-vbg to dt nn in
-dt jj nn nn vbd
-in nnp prp md vb
-in prp vbd jj to
-jj nns prp vbd dt
-nnp nn in dt nn
-nnp vbd prp in dt
-prp nn cc dt jj
-rb jj nn in nn
-vb prp vbd dt nn
-vb to dt nn in
-vbd dt nn to prp
-wrb prp vbd vbn in
-md vb prp nn cc
-nn in prp cc vbd
-nn in wdt dt nn
-nn vbg dt jj nn
-rb dt jj nn cc
-vbn in nn in prp
-dt nn nnp vbd in
-prp cc prp vbd in
-prp nn cc nn cc
-vbd rp prp nn cc
-in jj nn prp vbp
-in nn in prp nns
-nns in prp vbd vbn
-vbg in prp in dt
-dt nn in wdt dt
-in in prp vbd prp
-in prp vbd nn in
-nn vbd rb dt nn
-prp jj nn cc dt
-prp md vb nnp nnp
-wdt prp vbd vbn in
-in prp nns cc dt
-in prp vbd cc vbd
-in prp vbd in in
-nn dt nns in dt
-in dt nn md rb
-in rb prp md vb
-md rb vb rb in
-nn in jj cc jj
-nn nn in prp vbd
-nn prp jj nn vbd
-nn vbg in prp nn
-nnp vbd dt nn cc
-vb prp rb prp vbd
-vbg rp in dt nn
-in jj nn cc prp
-in to vb dt nn
-jj cc jj dt nn
-nn in jj nn rb
-nn in vbg prp in
-nn nn cc dt nn
-prp jj nn vbd rb
-rb cc prp vbd rb
-vbd dt jj cc jj
-md vb in prp in
-nn in nnp cc prp
-nn rb dt nn vbd
-vb in prp vbd vbn
-vbd prp vbd in dt
-vbd rb in nn in
-cc in prp vbd dt
-dt jj nn wdt vbz
-dt nn in nns vbd
-in dt nns vbd vbn
-in ex vbd dt nn
-in in prp vbd vbg
-in prp nns cc nns
-prp jj jj nn prp
-rb in prp vbp rb
-to nn in dt nn
-vbd dt nn prp vbp
-vbd prp nn cc prp
-jj prp vbd to vb
-nn cc dt nn nn
-nn in nnp nnp dt
-nn vbd rp in dt
-nn wdt vbd in prp
-vbd in jj nn in
-dt nns prp md vb
-in dt nns cc prp
-in nn in nn prp
-in nnp nnp md vb
-in prp cc in dt
-jj nn to dt jj
-nn in nn vbd rb
-nn in prp nn vbg
-nn prp vbd rb to
-prp vbd to vb to
-vbd cc vbd in prp
-vbd in dt nn wdt
-dt nn prp vbd rp
-in nn to vb dt
-in prp nn in in
-nns in dt nnp nnp
-prp nn prp vbd jj
-rb vb in prp nn
-vbd prp to vb dt
-vbd vbn in prp jj
-cc dt jj nns in
-jj prp vbd dt jj
-nn prp vbd prp vbp
-prp vbd to vb jj
-rb in prp vbd jj
-rb to vb prp in
-vb prp rb in dt
-jj nn wdt prp vbd
-nnp nnp prp vbd dt
-prp rb prp vbd prp
-vb prp prp vbd prp
-vbd prp prp vbd prp
-vbp dt nn in nn
-vbz dt jj nn cc
-cc in prp vbd vbn
-nnp pos nn vbd rb
-prp cc in dt nn
-prp md vb to dt
-rb nn in dt nn
-rb vbd prp nn in
-vbd jj to vb in
-vbg in in dt nn
-vbz rb dt jj nn
-dt jj nn rb jj
-dt nn rb prp vbp
-in nnp nnp vbd dt
-jj jj in dt nn
-rb cc rb in prp
-to vb prp prp vbp
-cc dt nn md vb
-cc rb prp vbd dt
-in dt jj nns wdt
-in nn rb prp vbd
-prp prp vbd rb in
-prp vbd to vb cc
-vbn in prp md vb
-jj nn rb rb in
-prp nn prp nn vbd
-prp vbd in nn cc
-prp vbp prp vbd prp
-in dt nnp nnp cc
-in nn prp vbd to
-nn cc prp rb vbd
-nn rb jj in dt
-nn to vb prp prp
-nns in prp nns cc
-pos nn in prp vbd
-prp jj nn nnp nnp
-prp md vb vbn jj
-rb prp vbd prp vbd
-dt nn cc rb dt
-in prp vbd dt nns
-nn in prp cc in
-to vb in in dt
-cc prp vbp dt nn
-in dt nnp nn in
-in rb dt jj nn
-nn prp vbd nnp nnp
-prp in nn in dt
-vb prp in prp md
-vbd nn in prp nn
-vbd rb vbn prp nn
-vbd vbg in prp nn
-in prp vbp dt jj
-jj in nn cc nn
-nn prp vbd nn in
-prp nns cc prp vbd
-prp vbp prp prp vbp
-rb jj in prp jj
-to vb jj in dt
-vbd dt jj nn vbg
-vbd rb in dt nns
-in jj nn cc jj
-in nn in prp cc
-in nn in prp vbp
-in prp nn nn in
-in prp vbd in nnp
-jj nn vbd rb vbn
-nn in dt nn vb
-nn rb jj in prp
-rb in dt nn nnp
-rb rb rb in dt
-vb prp nn to vb
-dt jj nn cc vbg
-nns vbg in dt nn
-prp vbd vbn in jj
-to vb prp vbd rb
-cc vbg dt nn in
-dt jjr nn in dt
-in nn rb in dt
-jj cc prp vbd rb
-nn in prp nn md
-prp md rb vb nnp
-prp rb rb prp vbd
-rb to dt jj nn
-vbn to dt jj nn
-vbp to vb dt nn
-cc vb in dt nn
-in prp vbd rb cc
-in rb in prp vbd
-jj cc dt jj nn
-nn in in prp nn
-nn nnp vbd prp nn
-nn vbd dt jj jj
-prp nn cc vbd dt
-vb dt jj nns in
-vb to vb prp in
-vbd nn in dt jj
-vbd vbn rb in prp
-dt nn nns in dt
-in prp dt nn vbd
-jj in nn in prp
-jj nns in nnp nnp
-nn in wp prp vbd
-nnp rb in dt nn
-prp rb in prp nn
-vb dt nn dt nn
-vb in prp vbd prp
-vb prp to vb in
-wrb dt nn vbd vbn
-cc rb vbd dt nn
-dt jj nn prp rb
-in nn to dt nn
-jj nn vbd rb in
-jj nns prp vbd vbn
-nn cc nn cc prp
-nn prp nn vbd vbn
-to prp prp md vb
-vbg dt nn prp vbd
-in nns cc nns in
-in prp wrb prp vbd
-jj jj nn cc prp
-jj nn cc vbd in
-nn vbd dt nn prp
-nn wrb prp vbd dt
-prp jj nn in nnp
-rb rb vbn in dt
-to dt nns in dt
-vbd rb rb prp vbd
-wrb md prp vb prp
-cc vbd in prp nn
-dt nn in nn vbz
-in dt nns cc vbd
-nn vbd prp nn cc
-nns in dt nns cc
-prp rb vbd dt jj
-prp vbd dt nn wdt
-to vb in prp rb
-vbd prp nns cc vbd
-in nn cc nn dt
-jj in dt nn dt
-nn prp vbp jj prp
-nn vbd prp to vb
-prp in prp vbp rb
-vbz vbn in dt nn
-dt nn jj in dt
-dt nns prp vbd rb
-in dt jjr nn in
-in dt nn vbz rb
-in prp nn in vbg
-jj nn prp jj nn
-nn nn dt nn in
-nn vbd vbn prp vbd
-nnp nnp in nnp nnp
-dt nn in dt vbn
-in nn in jj nn
-in prp nns in nn
-jj cc prp md vb
-jj nn vbn in prp
-nn wrb prp vbd rb
-prp nn cc nn prp
-prp nns cc vbd prp
-dt nn dt nns vbd
-in nn in prp in
-nn cc vbd prp rb
-nn in dt in prp
-nn to vb prp jj
-prp in prp vbp prp
-prp prp vbd rb jj
-vb rp dt nn in
-dt nn in jj in
-in jj jj nns in
-nn in prp nn vbz
-nn vbd to vb vbn
-prp cc in prp vbd
-prp vbd prp vbp prp
-prp vbd rb in nnp
-prp vbd vbg prp nn
-prp vbp prp vbz rb
-rp dt jj nn in
-vbg in prp jj nn
-vbn in jj nn in
-in dt nn pos nns
-in dt nnp prp vbd
-in prp md vb cc
-in prp nns prp vbp
-in prp vbp prp md
-jj cc in dt nn
-nn in prp nn wdt
-prp in nn in prp
-vbd vbg dt nn in
-nns prp vbd vbn in
-prp in dt jj nns
-vb to vb prp nn
-vbd prp cc vbd prp
-dt nn in jj cc
-in dt jj nn nns
-nns cc nns cc nns
-prp cc dt nn in
-prp rb vbd prp in
-prp vbd in prp prp
-vb in dt nn rb
-vb prp cc prp vbd
-vbd in prp cc vbd
-cc dt jj nn cc
-in prp vbd rb to
-nn dt jj nns in
-nns cc prp vbd rb
-prp md vb prp vbp
-prp nn cc rb prp
-prp nns prp vbd rb
-prp to vb dt jj
-prp vbd rb rb cc
-prp vbd rb to dt
-prp vbp dt nn cc
-prp vbp prp in dt
-prp vbp rb vb rb
-prp vbz rb jj prp
-vbd vbn dt nn cc
-in nn cc in prp
-in nnp dt nn in
-jj in prp md rb
-prp md vb rb cc
-prp nn vbd prp nn
-prp cc dt jj nn
-prp nn pos jj nn
-rb prp vbp in prp
-rb vb vbn in dt
-vbd dt nn prp md
-in dt nns cc in
-nn wdt md vb vbn
-prp nns prp md vb
-prp vbd prp in nn
-rb vb in prp vbp
-vb dt nns in prp
-vb prp nn prp vbp
-vbd rp in prp nn
-vbd vbn vbn in prp
-dt vbn nn in dt
-jj nn in vbg dt
-nn prp vbp prp nn
-nnp prp vbd in prp
-prp vbd vbn prp rb
-rb dt nn vbd vbn
-vb prp vb dt nn
-dt nns in jj nn
-jj nn prp vbp dt
-nn dt nn cc dt
-nn nn prp vbd rb
-nn vbd dt nn rb
-prp vbz rb jj to
-dt nns cc dt nns
-in in prp nn prp
-in nn vbd dt nn
-nnp nnp vbd prp in
-vbd prp prp vbd rb
-dt jj nn vbg dt
-in dt nn dt nnp
-nn to prp nn in
-nn wdt vbd to vb
-nns in prp nn vbd
-rb prp vbd rb vbn
-vbd to vb prp vbd
-wp vbd dt nn in
-dt jj nn dt nns
-nn cc in prp md
-nn prp vbd dt nns
-prp md vb in nnp
-rb dt nn in jj
-to vb prp rb prp
-vb in nn in prp
-dt nn cc nn vbd
-dt nns prp vbd in
-in cd in dt nns
-in nn in dt nnp
-jj dt nn in nn
-jj jj nn in jj
-jj nn in nn nn
-nn prp vbd jj to
-nn prp vbd to dt
-nn to vb prp rb
-rb jj cc prp vbd
-rb jj in prp prp
-vbd dt jj nn vbd
-vbd dt nn cc nn
-dt nn rb to vb
-in prp nnp nnp vbd
-md vb prp md vb
-nn dt jj nn dt
-nn vbd in prp in
-prp prp md vb in
-rb in prp prp vbd
-to vb prp dt jj
-dt nn rb prp md
-in dt nn vbz in
-in prp in in prp
-md vb prp prp vbd
-nn in prp vbd nnp
-nnp pos nn vbd vbn
-nns in jj nn cc
-vbd rp dt jj nn
-vbn dt nn in nnp
-dt nn md vb rb
-dt nn nnp vbd dt
-in dt nns wdt vbd
-in jj nn cc dt
-in nnp in prp vbd
-jj nns prp vbd prp
-md rb vb prp cc
-nn in prp cc rb
-nn vbd vbn in nn
-nns cc prp md vb
-prp in nn prp vbd
-prp md vb rb prp
-rb dt nn in nnp
-to vb prp prp md
-vbd nnp nnp prp vbp
-in dt nnp nnp vbd
-in prp in prp jj
-jj nn prp vbz rb
-md vb vbn prp in
-nn in dt jjs nn
-nn wrb prp md vb
-prp md vb in in
-prp vbp in prp vbd
-vbd dt nn to dt
-vbd prp to dt nn
-vbd rb jj to prp
-vbd to vb rb in
-dt jj in prp nn
-dt nn prp vbd nn
-in nnp pos nn vbd
-jj nn vbd vbn prp
-nn cc nn cc dt
-nn to vb nn in
-nn vbd vbg in dt
-prp jj nn vbd in
-to vb dt jj jj
-to vb dt nn dt
-vbd in prp nn dt
-cc ex vbd dt nn
-dt nn vbd rb cc
-in prp rb vbd in
-prp vbp rb prp vbp
-rb vb prp vb prp
-vbd rb rb vbn in
-in vbg prp nn in
-jj jj nn cc dt
-jj nn in nn to
-jj prp vbp rb vb
-nn cc nn to vb
-nn in nn prp vbz
-nn in nnp vbd vbn
-nn nn dt jj nn
-prp prp vbd rb rb
-prp rb rb in dt
-prp vbd prp cc prp
-prp vbd rb prp nn
-prp vbp vbn prp in
-rb jj in prp vbp
-rb prp vbp prp md
-vb in nn in dt
-vbd jj cc prp vbd
-vbd prp rb rb in
-jj in prp vbd dt
-nn in nn vbd dt
-nnp prp vbd dt jj
-nns in prp vbd prp
-rb prp md vb to
-vb in prp vbd dt
-dt nn rb vbd prp
-in jj cc jj nn
-nnp nnp cc dt nn
-prp nn in prp prp
-rb vb dt nn prp
-to prp cc prp vbd
-vbn in prp in prp
-in nnp prp vbd rb
-jj nn cc rb in
-nn to vb prp cc
-nns vbd in dt jj
-pdt dt nn prp vbd
-prp md rb vb rp
-prp vbz dt nn prp
-rb vb prp prp vbp
-vb rb rb in prp
-cc prp vbd jj in
-jj in nn prp vbd
-jj nn cc nn cc
-nn in cd in dt
-nn in dt nns rb
-prp nn in prp in
-to vb to prp in
-vb dt nn to prp
-vbn in jj nns in
-wrb prp vbd prp nn
-jj nn in nnp in
-prp vbd vbn to dt
-rb dt nn vbd in
-rb vb in dt jj
-vb prp prp vbp rb
-vb vbn to vb prp
-vbd rb jj dt nn
-cc jj nns in dt
-cc prp vbp to vb
-dt nn dt nn vbz
-in prp vbd prp cc
-jj nn to prp nn
-nn ex vbz dt nn
-nn vbd rb rb jj
-prp cc rb prp vbd
-prp nn pos nn vbd
-prp nn vbd rb rb
-prp vbd in nn prp
-vbd prp prp md vb
-vbd prp rb prp vbd
-vbd prp vbd dt jj
-vbz dt rb jj nn
-dt jj nns in jj
-in in prp nn cc
-jj nn vbd prp in
-nn in dt nnp prp
-prp nn vbd nnp nnp
-prp rb prp vbd rb
-vbg in dt nn dt
-dt nn cc nnp nnp
-dt nn vbd rb dt
-in nns cc nns cc
-jj cc jj nns in
-md rb vb jj in
-md rb vb prp dt
-nn in nn nn in
-prp vbd in dt nnp
-to vb in in prp
-cc dt nn in nns
-md rb vb vbn to
-md vb vbn in nn
-nn cc vbg dt nn
-nn in prp nns dt
-nn prp vbd rp in
-prp vbp rb vbn dt
-dt nn vbd in nn
-dt nn vbz in dt
-in prp nn cc vb
-nn nnp nnp prp vbd
-nnp cc dt jj nn
-nnp vbg in dt nn
-nns cc nns in prp
-prp nn md vb prp
-prp nns prp vbd prp
-vb prp nn cc vb
-vbd vbn rp in dt
-cc vbd to vb prp
-in in prp nn in
-nn in nnp cc dt
-nn prp nn vbd in
-nn to prp nn cc
-prp vbp rb to vb
-rb vbd in dt jj
-dt jj nn cc nnp
-jj jj nn prp vbp
-jj nn in nn nnp
-nn cc in prp vbp
-nnp prp md vb dt
-prp vbd to dt jj
-vbn in prp vbd rb
-cc prp vbp rb jj
-dt jjs nn in prp
-dt nn prp vbd nnp
-in dt jj nn vb
-in dt nns vbd rb
-jj nn cc nn prp
-jj nn prp vbd vbg
-nnp nnp vbd nnp nnp
-prp dt jj nn prp
-rb vbd in prp nn
-vb dt jj nn rb
-vbd prp jj nn cc
-vbd to dt nn cc
-dt nn vbd prp rb
-md vb dt nn rb
-md vb vbn prp nn
-nn dt nn in nns
-nn nnp vbd dt jj
-nnp nnp nnp vbd rb
-nnp vbd prp nn cc
-prp nn vbd prp in
-prp vbp rb rb in
-vbd in in prp nn
-vbd rb in prp jj
-in dt jj nns rb
-in dt nn vbz vbn
-in nnp cc prp vbd
-in prp nn pos nns
-jj nn wdt vbd rb
-nn in dt prp vbd
-nn in prp nn wrb
-nn in prp nnp nnp
-nn to prp jj nn
-prp vbd prp nn vbd
-vbd jj to vb dt
-vbd rb vbn in nn
-wp prp vbd to vb
-in nn to vb in
-in nnp nnp vbd in
-nns in jj nn in
-prp jj nn dt jj
-prp nn vbd jj in
-vb to vb in dt
-cc prp vbd prp rb
-dt nn in nn jj
-in dt nn prp jj
-in prp vbd in jj
-jj cc jj nn cc
-nn cc nn md vb
-prp jj nn vbd prp
-rb vbd in prp vbd
-rb vbd prp in dt
-vb dt nn cc dt
-vbp vbn to vb prp
-dt jj nn vbd vbg
-in prp cc rb prp
-in prp vbd to dt
-md vb in prp vbp
-nn prp vbd prp to
-vb dt nn prp md
-vbn in dt nn to
-dt nn in nns dt
-dt nn prp vbp jj
-in dt nn nn nnp
-in prp vbp prp vbp
-md vb prp nn prp
-nn in nn cc jj
-nn to vb prp vbd
-prp nn in prp cc
-prp nn prp rb vbd
-prp nn to prp nn
-to prp jj nn in
-vbd in nn prp vbd
-vbn dt nn prp vbd
-vbp rb in dt nn
-dt nn in nn nns
-dt nns prp vbd prp
-in dt nn wdt md
-jj nn rb dt nn
-nn cc vbg in dt
-nns in jj nns in
-rb in dt nn wdt
-rb jj cc jj prp
-rb jj in dt nns
-rp dt nn in prp
-dt nn in nns rb
-dt prp md rb vb
-nn md vb dt jj
-nnp prp vbp dt nn
-prp nn prp vbp vbn
-prp vbd rb vbn cc
-prp vbg in dt nn
-vb dt nn in nns
-vbd vbn rb rb in
-dt jj nn rb dt
-dt nn to vb jj
-in prp jj nns vbd
-nn vbd vbn dt jj
-nns in dt nn wdt
-prp vbd rb cc prp
-prp vbd vbn rb jj
-cc vbd in prp vbd
-in nn cc nn rb
-in prp to vb dt
-in prp vbp rb rb
-nn cc nn prp vbp
-nn prp vbd jj cc
-nn rb jj cc jj
-pdt dt jj nn in
-dt nn vbd rp in
-dt vbd dt jj nn
-md vb prp rb in
-prp vbd to vb nn
-to vb rb jj in
-vb prp dt nn prp
-dt rb jj jj nn
-in jj nns dt nn
-in prp vbd vbn cc
-jj nn nn prp vbd
-nn in prp vbp dt
-nn to prp prp vbd
-nnp cc prp vbd rb
-rb vbd to vb prp
-to vb prp nn to
-vbd in prp nns in
-vbd nnp nnp pos nn
-vbn in dt nn wdt
-vbn in nn cc nn
-jj nn vbg in prp
-jj prp md vb vbn
-md rb vb vbn rb
-md vb cc vb prp
-prp md vb rb to
-prp nn nn in dt
-prp rb vbd prp vbd
-prp vbd rb vbg in
-prp vbp prp vb prp
-vbn prp in dt jj
-in nn prp vbd jj
-in nnp vbd dt nn
-jj cc jj cc prp
-jj nn prp vbp in
-nn cc dt nn rb
-nn in nn prp nn
-nn in prp vbd cc
-nn jj cc jj in
-nnp in dt nn vbd
-prp jj jj nn vbd
-rb vbn dt jj nn
-rp in dt nn prp
-to vb prp rb rb
-vb in dt nn nn
-vbd vbg rb in dt
-wdt vbd dt jj nn
-dt jj nn cc vb
-in nnp nnp vbd prp
-in vbg prp in dt
-jj nn wdt vbd dt
-md rb vb rb rb
-nns in wdt prp vbd
-vbn prp nn in prp
-dt nn nn in nnp
-jj cc dt nn in
-md vb nn in dt
-md vb prp rb rb
-nn cc rb prp md
-prp vbp jj prp vbd
-rb in prp vbp vbn
-cd in dt nns in
-dt nn cc cd in
-dt nn pos nn dt
-in dt nn vbz dt
-in dt nns dt jj
-jj nn cc vbd dt
-prp vbp vbn dt jj
-vbd nnp nnp in prp
-vbd vbn in jj nn
-vbg nn in dt jj
-dt nn in rb jj
-in prp vbd vbg prp
-in prp vbd vbg to
-md rb vb vbn dt
-nn md rb vb in
-nnp md rb vb prp
-prp jj nn vbd dt
-prp vbd prp vbd jj
-rb dt nn vbd rb
-vb prp to vb dt
-vbd in prp cc prp
-vbd prp vbd to vb
-in dt in prp vbd
-in prp nn nn prp
-in prp prp vbd to
-jj nn in nnp vbd
-md vb vbn rb in
-nnp vbd to vb in
-rb cc prp md rb
-rb ex vbd dt nn
-rb prp vbp rb jj
-vb prp nns in dt
-vbd dt nn dt jj
-wrb prp md vb prp
-dt nn in cd in
-dt nn in nnp rb
-in wdt prp vbd rb
-jj cc jj in nn
-nn vbd vbn rb in
-nnp nnp prp md rb
-prp nns in prp nns
-rb in prp in dt
-rb rb rb prp vbd
-vbd vbn cc prp vbd
-dt jj in prp vbd
-dt jj nn vbz rb
-in dt jj cd nns
-in in prp vbd in
-md vb rb rb in
-nn cc vb prp nn
-nn vbd jj prp vbd
-nnp pos jj nn vbd
-prp prp vbd prp vbd
-prp vbd prp cc vbd
-rb vbn to vb prp
-vbd rb to vb vbn
-vbp vbn dt nn in
-dt nn wp vbd prp
-in dt nn pos jj
-in nn rb in prp
-jj prp vbd rb jj
-nns in jj nns cc
-nns prp vbp rb vb
-prp cc prp vbp rb
-prp vbp vbd dt nn
-prp vbp vbn prp rb
-vb dt nn nn in
-vb prp prp md rb
-vbn rb rb in prp
-cc dt nn vbd prp
-dt nn in nn vbg
-dt nn jj cc jj
-in dt nn vbz prp
-in prp rb vbd dt
-jj nns vbd vbn in
-prp vbd rb prp md
-rb rb prp vbd dt
-rb to vb dt jj
-vbz dt nn prp vbp
-cc jj in prp vbd
-cc nn in prp vbd
-dt nn vbz rb jj
-in jj jj nn in
-in jj nns cc nns
-md rb vb prp vb
-nnp nnp vbd vbn to
-vbd in prp nn rb
-cc vbd rp in dt
-dt jj nns dt nn
-nn cc nn vbd vbn
-nn vbd rb vbn prp
-nnp nnp cc prp nn
-prp vbd prp rb cc
-rb cc prp vbd prp
-rb rb vbd dt nn
-vbd dt nn rb prp
-in jj nn cc in
-in nn cc jj nn
-prp nn in jj nns
-prp nn nn in prp
-rb prp vbp to vb
-rb vb vbn in prp
-to vb rb rb in
-vbd rb prp vbd rb
-vbp rb vb prp vbp
-in dt nn vbg rb
-jj nn prp vbd cc
-nn prp vbd prp dt
-nn prp vbp prp vbz
-nn to vb prp dt
-nn vbd prp jj nn
-prp prp vbd rb vb
-vb prp rb rb in
-vb rb in dt jj
-vbp rb vb prp md
-dt jj cc jj nns
-dt jj nn rb cc
-dt nn vbd vbg in
-in jj nns cc dt
-in nnp cc dt nn
-in prp vbd prp to
-nnp cc in dt nn
-vbg in dt nn vbd
-vbn prp md rb vb
-wrb prp vbd prp vbd
-cc prp md vb to
-in dt nn rb vbg
-in dt nnp in prp
-in dt nns prp md
-in nnp dt jj nn
-jj jj nns prp vbd
-md rb vb nn in
-nn wdt vbd rb vbn
-nns dt jj nn vbd
-prp vbd rb vb rb
-vbd dt jj nn wdt
-vbd in prp md rb
-dt nn rb cc rb
-dt nns prp vbd vbn
-in prp nns cc in
-in prp vbd vbn jj
-jj jj nn dt jj
-prp vbd jj in nn
-prp vbd vbn prp jj
-prp vbz rb in prp
-to vb in prp nns
-vb dt nn cc vb
-vbd in prp dt nn
-vbd rb jj in nn
-vbg in prp nn cc
-dt nn rb dt jj
-in prp jj cc jj
-jj nn in jj jj
-jj nn md vb prp
-jj nn vbg dt nn
-jj nns vbd in dt
-md rb vb in nn
-nn vbd in in dt
-nn vbd rb to vb
-nns vbd rb in dt
-prp vbp prp vbp vbn
-vb in prp cc prp
-vbd rb vb prp vbd
-vbp rb prp vbp prp
-cc prp vbd prp vbd
-dt jj nns wdt vbd
-dt nn jj nn in
-nn rb in prp md
-nn wrb md prp vb
-pdt dt nns in dt
-rb in nnp nnp vbd
-vb in prp vbp rb
-dt vbz dt nn in
-in wdt prp vbd prp
-nn vbd rb rb in
-nnp nnp nnp vbd in
-rb vbn in prp vbd
-to prp prp vbd rb
-to vb dt nn vbd
-vb to prp in prp
-vbd nnp prp md vb
-vbd vbg dt jj nn
-cc rb dt nn vbd
-dt nn in nn md
-dt nn jj in prp
-dt nns vbd vbn in
-in in dt nn dt
-nn in nns in nn
-nn in prp dt jj
-nn in prp rb prp
-prp vbd in jj in
-vbd dt nn cc rb
-vbd dt nn rb rb
-vbd rb vb in dt
-vbn prp in prp nn
-in nn in jj nns
-jj nn cc prp jj
-md prp vb dt nn
-nn to vb in nn
-nnp in prp vbd rb
-nns in prp jj nns
-prp vbz jj in prp
-rb in dt nn wrb
-vb prp prp vbd in
-vbd rb rb dt nn
-vbg nns in dt nn
-vbz dt jj jj nn
-dt jj nn vbg prp
-dt nn cc vbd to
-dt nn vbd cc vbd
-jj nns vbn in dt
-nnp nnp nnp prp vbd
-prp jj nn cc rb
-prp vbd prp nns cc
-vbd dt jj in dt
-vbn in dt nn nnp
-cc prp vbp prp md
-dt nn vbd in in
-in prp rb rb in
-nn in prp nn jj
-nn wdt vbd vbn prp
-nnp nnp dt nn vbd
-vb prp to dt nn
-vbp prp vb in prp
-dt nns in nnp cc
-in jj in dt jj
-in rb jj dt nn
-jj nn vbd rb rb
-nn rb prp md rb
-prp jj cc jj nn
-prp prp vbp dt nn
-prp rb prp vbd in
-prp vb dt jj nn
-cc nnp nnp vbd rb
-cc prp nn vbd vbn
-dt nn to nnp nnp
-in prp cc dt jj
-jj jj nn vbd in
-jj nn in prp vbz
-jj vbd dt nn in
-nn cc rb vbd prp
-prp jj nn md vb
-rb rb prp vbp rb
-to vb prp vbd in
-vbd rb vbn prp vbd
-vbg vbn in dt nn
-dt nn cc vbd rp
-dt nn nn prp vbp
-dt nn vbz in prp
-in dt nn cc wrb
-nn vbd prp prp vbd
-nns to vb dt nn
-rb rb in prp jj
-vbd vbn prp jj nn
-vbp to vb in prp
-in nn wrb prp vbd
-jj in prp nn vbd
-nn to vb prp nns
-nnp pos nn cc prp
-vbd prp rp in dt
-vbn dt jj nn cc
-vbp prp in dt nn
-wrb prp vbd dt jj
-dt jj nns cc dt
-dt nn in wp prp
-in jj nns cc jj
-in prp nn prp rb
-nn in nn rb prp
-nn to vb cc vb
-nn vbd in dt nns
-nns cc in dt jj
-prp vbd dt nn vbg
-prp vbd vbn in in
-rb in prp in prp
-rb jj prp vbd prp
-to vb rb prp vbd
-vbd vbn prp to vb
-dt nn prp vbp to
-dt nns vbd in dt
-in dt jj nn ex
-in dt nns vbd in
-md vb jj in dt
-nn in dt jj prp
-nn in jj nns vbd
-nn vbd vbn prp nn
-prp nn in vbg prp
-rb vb prp dt nn
-to prp dt nn in
-vbg in dt nn nn
-vbn in prp vbd vbn
-dt nn cc prp vbz
-in dt in dt jj
-in prp in dt nns
-in prp nns cc rb
-prp in dt nn wdt
-rb prp vbd jj in
-to vb rp in dt
-vb prp prp vbp prp
-vbd prp nn dt nn
-vbd vbg to vb prp
-vbd vbn in nn cc
-in prp nn nn cc
-in prp vbd prp dt
-md vb dt nns in
-nn in dt nn ex
-nn in jj nns dt
-prp in prp nn vbd
-prp vbd dt jj cc
-to vb prp vb prp
-to vb prp vbd prp
-vb cc vb in prp
-vbd prp vbd in prp
-in in dt nn rb
-jj jj nn in nnp
-jj vbn in dt nn
-nn jj in dt jj
-nn prp nn vbd jj
-nnp prp md vb vbn
-nns vbd vbn in prp
-prp vb to vb prp
-prp vbd prp rb prp
-prp vbp jj in dt
-rb jj in prp in
-rb jj prp vbd in
-to dt nn in jj
-dt nn cc to vb
-dt nn prp jj nn
-dt nn to vb cc
-in prp vbd prp nns
-md rb vb prp jj
-nn in jj nn wdt
-nn rb to vb prp
-nn to vb dt nns
-nn to vb rb in
-prp in dt nn nnp
-prp vbp prp vbd in
-rb in dt nn vbg
-rb rb in dt nns
-to vb prp jj nns
-vbd prp in prp jj
-cc vb prp nn in
-dt jjr nn in prp
-dt nnp nnp in dt
-in in dt nns in
-in prp vbd rp in
-nn cc rb prp vbp
-nn in prp vbz rb
-nn pos nn dt nn
-nn prp rb vbd dt
-nnp pos nn in nn
-rb in prp jj nns
-rb jj in nn in
-vbd rb jj cc prp
-vbd rb to vb dt
-vbd rb vbn prp in
-vbg to vb prp nn
-wp vbz dt nn in
-cc prp vbd rb dt
-in dt nn prp nns
-in prp vbd vbg dt
-nn in dt in dt
-nn in jj in dt
-nn md vb prp nn
-nns prp vbd prp nn
-rb rb to vb prp
-vb dt nn pos nn
-vb nn in prp nn
-vb prp vbp rb vb
-vbd in prp vbd jj
-vbd to vb prp rb
-dt nn cc nn prp
-dt nn nnp vbd vbn
-in dt cd nns in
-in nn cc prp md
-in prp vbd jj prp
-nn in nn nn cc
-nn in prp rb in
-nn in prp vbd nn
-nn pos nn in nn
-nn prp md vb cc
-prp vbd vbg rb in
-vb prp in prp jj
-vbd rb cc vbd prp
-dt nn to vb nn
-in nn cc prp vbp
-prp vbd rb to prp
-to vb in prp dt
-vb in prp dt nn
-vbd vbn in in dt
-vbg in dt jj jj
-wdt prp md rb vb
-dt jj jj nn vbg
-dt jj nn md rb
-dt jj nns cc nns
-dt nn vbd to prp
-in cd nn in dt
-in dt prp md vb
-in in nn in dt
-in jj nn dt jj
-in nnp nnp cc dt
-jj nn prp vbp jj
-md rb rb vb prp
-nn md vb prp in
-nn to vb to prp
-nnp nnp vbd vbn dt
-nnp pos nn dt nn
-prp nn in in dt
-prp vbd in prp vbp
-vbd in nnp pos nn
-vbd rb jj cc rb
-vbd rb prp md vb
-vbd vbn in jj nns
-dt jj nn vb prp
-in dt jj nnp nn
-in pdt dt jj nn
-in rb dt nn in
-jj nn nnp vbd in
-nn cc prp vbz rb
-nn to prp in prp
-nn to prp nn prp
-nns in prp vbd dt
-rb vb dt nn cc
-vbg rb in prp nn
-jj nn in prp dt
-nn cc in dt nns
-nnp in prp vbd vbn
-nnp nnp md vb vbn
-nnp prp vbd to vb
-nnp vbd vbn prp nn
-prp dt nn to vb
-vb in dt nn dt
-vb prp nns in prp
-dt nn md vb jj
-dt nn rb jj cc
-in prp prp vbd jj
-jj nns in prp nns
-nn prp vbd cc prp
-nn prp vbd rb vbg
-nn vbd nnp nnp in
-prp nn prp vbz rb
-vbd rb cc prp vbd
-vbd rb to vb in
-vbp rb vb prp prp
-dt nn in vbg rb
-jj prp md vb in
-nn in prp nns rb
-nn nn in dt nns
-nn vbd nnp nnp prp
-pos nn prp vbd rb
-to prp nn cc prp
-vb cc vb dt nn
-vb dt nn cc nn
-vbd in dt nn nnp
-vbn in nnp nnp pos
-in jj nn prp md
-in prp nn pos jj
-jj to vb prp rb
-nn in prp jj cc
-nn md rb vb dt
-nn nn prp vbd prp
-pos nn in prp nn
-prp cc prp vbd dt
-prp vbd to vb rp
-prp vbp prp prp vbd
-rp prp nn cc vbd
-vb prp nn cc nn
-vbd jj cc jj prp
-vbp prp to vb prp
-wdt prp vbd rb vbn
-wdt prp vbd to vb
-cc prp jj nn vbd
-jj nn cc vbd rb
-jj nn nnp vbd prp
-jj nn prp vbz dt
-nn nnp nnp nnp nnp
-nnp nnp vbd rb vb
-nns cc jj nns in
-prp jj nn rb in
-prp vbd nnp nnp in
-rb cc rb dt nn
-rb prp vbd to prp
-to vb cc vb in
-dt jj jj in dt
-dt jj nn ex vbd
-dt nn cc rb rb
-in nn prp nn vbd
-nn in nnp pos jj
-nn md vb to vb
-nn pos nn cc prp
-nn prp vbd prp prp
-nn vbd in prp nns
-nn vbd rb jj to
-nns prp md vb dt
-prp md to vb vbn
-prp vbp prp vbd dt
-rb prp vbd rb cc
-to vb prp nn dt
-vb dt nn rb in
-vbn vbn in dt jj
-cc jj nn in nn
-in nnp cc nnp nnp
-in prp vbp prp vbd
-nn nn cc nn in
-nn rb in prp vbp
-vbd prp nn pos nn
-vbd rb rb jj cc
-cc in prp jj nn
-cc vbn in dt jj
-dt nn nn cc prp
-dt vbd dt nn in
-in in dt nn nn
-in prp nn vbd nnp
-in prp nns prp md
-in prp vbz rb jj
-jj in prp cc prp
-jj nn in nnp prp
-jj nns cc in dt
-jj nns dt nn vbd
-nn cc nn cc in
-nn vbd in prp cc
-prp nns prp vbd in
-to prp in prp nn
-vb rb rb in dt
-vbd cc vbd dt nn
-dt nn dt jj nns
-dt nn vbz vbn in
-in prp vbp prp in
-nn in prp in nn
-nn rb prp vbp rb
-nn wdt vbd dt jj
-prp nns cc prp nns
-rb vb in prp md
-rb vb prp nn prp
-vb prp nn prp md
-vbd to vb prp jj
-vbd vbn vbn to vb
-vbg in prp nn prp
-wrb prp vbd vbn dt
-jj nn vbd jj in
-jj nns vbd dt nn
-jj prp md vb dt
-md vb in nn in
-nn in dt nns wdt
-nn in nn to dt
-nn nn prp vbd in
-nnp pos nn vbd in
-nns in nnp nnp pos
-nns prp vbd rb in
-prp jj nn in jj
-prp vbd vbn nn in
-prp vbp prp nn in
-rb cc vbd dt nn
-to vb cc prp vbd
-vb in prp md rb
-vbd in jj in dt
-vbd prp md vb vbn
-vbp rb vb prp vbd
-cc vb dt jj nn
-dt nn nn cc nn
-in dt nns to vb
-in prp nn wdt vbd
-in wdt prp md vb
-nn dt nn pos nn
-nn vbd to dt nn
-nnp nnp nnp vbd dt
-nnp prp md vb in
-nns cc prp vbd prp
-nns prp vbd rb jj
-prp nn cc nn vbd
-prp nn nn prp vbd
-prp vbd in jj nns
-rb vb rb in prp
-vb in dt jj nns
-vbg prp in dt jj
-vbn in nn prp vbd
-cc prp vbp in prp
-cc vbd rb in prp
-jj nn nnp vbd rb
-nnp nnp nnp vbd prp
-pos nn prp md vb
-prp dt jj jj nn
-rb prp vbd prp rb
-to vb vbn dt nn
-vb in prp vbd in
-vb prp nn dt nn
-vbd prp vbp rb vb
-vbd rb vb prp in
-vbd to vb to prp
-vbp rb vb in dt
-cc dt nn vbd dt
-dt nns dt jj nn
-dt nns vbd dt nn
-in prp nn to prp
-in prp nns dt jj
-jjr in dt jj nn
-md vb in prp cc
-nn rb prp vbd vbn
-nn vbd rb jj prp
-nnp in prp vbd prp
-nnp nnp cc prp vbp
-prp vbd to vb nnp
-to dt nn cc prp
-to vb in jj nn
-vb rb in prp nn
-vbd rb vbn dt jj
-vbd to vb prp prp
-vbn in prp jj nns
-cc vb prp in prp
-dt jj jj nn wp
-dt nn dt nn nn
-dt nn in prp to
-dt nn pos nn rb
-nns cc dt nn vbd
-prp prp md vb rb
-prp vbd to prp prp
-prp vbp prp vbp prp
-rb cc in prp vbd
-rb prp vbp prp vbd
-rb rb cc prp vbd
-to prp nn cc vbd
-vbd nnp nnp prp vbd
-cc vbg in dt jj
-dt nn dt nn rb
-dt nn rb in nn
-in dt nn nnp prp
-in dt nn to nnp
-in nn cc rb in
-in prp vbp prp nn
-in prp vbp prp prp
-jj nn in vbg in
-nn cc vbn in dt
-nnp nnp pos nn dt
-prp vbp rb vbn to
-prp vbz rb rb jj
-vb nn in dt jj
-vb prp in nn in
-vbd in nnp nnp vbd
-vbd rb prp vbd prp
-vbn jj in dt nn
-dt nn in jj nnp
-in nn vbd in prp
-in rb in dt jj
-jj in in prp vbd
-nn in nn vbn in
-nns vbn in dt jj
-prp md vb prp rp
-to prp in prp md
-vb in prp vbp prp
-vbd rb vbg in dt
-vbd rp dt nn cc
-vbd vbn in prp cc
-vbp vbn dt jj nn
-cc prp md vb jj
-dt jj nn to nnp
-in cd nns in dt
-in dt nns vbd dt
-in nn vbd vbn in
-in nns in prp nn
-in prp vbp rb in
-jj cc jj nn vbd
-jj nn ex vbd dt
-jj nn wp vbd vbn
-jj nns in nn prp
-nn cc nn prp md
-nn dt jj nn nn
-nn prp nn vbd prp
-nn prp vbd vbg prp
-nnp md vb dt nn
-nnp vbd dt nn prp
-prp dt jj nn vbd
-prp md rb vb wrb
-prp prp vbd prp in
-prp vbd cc vbd dt
-to vb rp prp nn
-vb dt nn to dt
-vbd dt jj nn nnp
-vbn to prp in dt
-in dt nn cc vbn
-in jj nns in jj
-nn cc in nn in
-nn cc to vb prp
-nn in nn to prp
-nn in to dt nn
-prp nn prp vbp dt
-prp prp vbd vbn in
-rb dt nn cc dt
-rb jj in to vb
-rb vbd dt nn cc
-vb prp vbd in dt
-cc dt nn vbd jj
-cc nn cc nn cc
-cc prp nn vbd in
-cc wrb prp vbd vbn
-in prp vbp prp rb
-in to dt jj nn
-jj to dt jj nn
-jjr nn in dt nn
-md vb to dt nn
-md vb vbn vbn in
-nn cc nn in jj
-nn md prp vb prp
-prp dt jj nn cc
-prp vb prp md vb
-prp vbp prp nn prp
-rb prp vbd cc vbd
-rb rb in nn in
-vb prp vb prp nn
-vb rb in prp vbd
-vbd prp md vb dt
-vbp rb vb prp nn
-cc in dt jj nns
-dt jj jj nn nnp
-jj nn cc jj nns
-nn cc nn rb in
-nn dt jj nn rb
-nn to vb jj in
-nn vbd in nn in
-nnp nnp nnp vbd vbn
-prp nn prp jj nn
-prp nn vbd vbn rb
-rb dt nn md vb
-vbd rb vbn vbn in
-vbd vbn prp nn cc
-vbg rp dt nn in
-wrb dt jj nn vbd
-cc prp rb vbd prp
-dt nn rb vbn in
-in pdt dt nns in
-in prp in nn in
-jj nns prp vbp rb
-jj rb in prp vbd
-md vb prp prp vbp
-nn nn vbd dt nn
-nn vbd dt nn to
-nns prp vbd rb vbn
-prp jj nn in vbg
-prp nn in nn vbd
-prp vbd in prp dt
-prp vbp prp rb rb
-vbd rb in prp nns
-vbn prp in prp vbd
-jj prp vbd rb in
-rb cc in dt jj
-rb vbd prp in prp
-vb prp cc vb prp
-vbn rb in prp nn
-dt jj nns vbd vbn
-dt nn cc vb dt
-dt nn vbd in jj
-jj jj nns in nn
-nn vbd nnp nnp rb
-nn wdt prp vbd rb
-prp vbd jj dt nn
-prp vbd rb rb dt
-prp vbz rb dt jj
-rb cc dt nn in
-rb jj in prp cc
-rb vb jj in prp
-vb in prp prp vbp
-vbd dt nn vbg in
-vbg dt nn in jj
-vbg prp jj nn in
-vbp prp md vb dt
-wrb prp vbd prp in
-cc in dt nn cc
-jj nn in dt rb
-md vb prp nn rb
-nn cc nn dt jj
-nn cc prp vbp vbn
-nn md vb vbn to
-nn vbd rb dt jj
-nnp in prp vbd in
-nnp nnp prp vbd vbn
-nns in dt nn to
-prp md vb in jj
-prp prp vbp rb jj
-prp vbd to nnp nnp
-prp vbp rb vb nn
-prp vbz rb jj cc
-rb cc dt jj nn
-to vb in dt nnp
-vbd rb vb prp nn
-vbz to vb dt nn
-cc jj in prp nn
-dt nn cc vbd vbn
-dt nn in dt jjs
-in cd in dt jj
-in jj nn cc rb
-in prp jj nns dt
-jj nn cc nnp vbd
-md vb prp in nn
-nn cc nn in nnp
-nn in jj prp vbd
-nn wdt md vb prp
-prp vbd dt jj in
-vb prp jj nn cc
-vbd dt nn in in
-vbd in dt nn pos
-vbd prp prp vbd in
-vbd vbn rb jj in
-vbp prp vb to vb
-vbz rb in dt nn
-in nnp prp vbd prp
-jj nn cc rb vbd
-jj nn md vb in
-md rb vb to prp
-md vb dt nn nn
-nnp vbd dt nn rb
-nnp vbd to vb dt
-nnp vbd vbg in dt
-prp vbd nn prp vbd
-prp vbd rb jj nn
-rb prp md vb jj
-rb rb prp vbp prp
-vb rb jj to vb
-vbd to vb in nn
-cc rb prp vbd to
-dt vbg nn in prp
-in in dt jj nns
-in nn in prp rb
-in vbg in dt jj
-nn in nn in in
-nn md vb vbn dt
-nnp dt jj nn vbd
-nns prp md vb vbn
-prp nn in prp rb
-prp vbd dt nn jj
-vbd rb vbn in nnp
-vbg in dt nn rb
-vbg in nn in dt
-vbg prp nn prp vbd
-dt nn md prp vb
-dt nn vbg prp nn
-in dt nnp vbd vbn
-in dt nns cc rb
-in prp vbp vbn dt
-nn cc nn vbd rb
-nn dt nn cc nn
-nn wdt md rb vb
-nns cc nns in nn
-prp nns cc dt nn
-prp nns dt nn in
-vb in prp prp md
-vb rb prp md vb
-vbd prp vbd prp nn
-dt nns vbd in prp
-in dt nn jj cc
-in dt nnp nnp prp
-in nn cc rb prp
-jj in dt nn wdt
-jj nn pos nn in
-jj to vb vbn in
-nn in nnp cc in
-nn in nns cc dt
-nn nn prp vbd dt
-nnp prp vbd prp nn
-prp nn prp nn prp
-prp vbd in to vb
-prp vbp prp vbz dt
-rb prp vbd in nn
-to nnp in dt nn
-to vb jj to vb
-vbd nn to vb in
-cc prp vbp rb vbn
-dt jj nn vbz vbn
-dt nn wp vbd rb
-dt nnp in dt jj
-in nn vbd in dt
-jj in prp vbp prp
-jj prp vbd prp nn
-md rb vb rb jj
-nn cc vbd rp in
-nn md vb vbn rb
-nn prp vbp vbn dt
-nn vbd vbn prp in
-nnp vbd prp jj nn
-nnp vbz dt jj nn
-prp cc prp vbp prp
-prp in prp vbd to
-prp vbd vbn vbg in
-rb jj in prp nns
-rb jj to vb vbn
-vbd nns in dt nn
-vbd vbn prp vbd rb
-dt jj nn nn nn
-dt jj nn wrb dt
-fw fw fw fw fw
-md vb in prp prp
-nn cc dt nns vbd
-nn rb vbn in dt
-prp rb dt jj nn
-prp vb in prp vbd
-prp vb prp in prp
-prp vbd rb in jj
-prp vbp rb prp vbd
-rb cc prp vbd in
-rb in nn cc nn
-to vb prp in in
-vbd prp prp vbd dt
-vbz dt nn prp vbd
-wp vbp prp vb in
-cc vbd prp nns in
-dt jj cc dt jj
-dt jj nn jj nn
-in dt nn vbd rp
-in prp nn cc nnp
-in wp prp vbd vbn
-jj to vb prp vbd
-nn cc nn cc rb
-nn in jj nn nnp
-nn wdt prp vbd in
-nnp in prp vbd dt
-nns dt nn in nn
-prp in dt nn to
-prp vbp nn in prp
-prp vbp rb jj cc
-rb jj in nn cc
-to vb prp in vbg
-vbd rb dt nn cc
-vbz rb jj in dt
-cc in dt nns in
-cc in prp md rb
-cc rb rb in prp
-in dt nn in wp
-in jj cc jj nns
-in pdt dt nn prp
-md vb prp prp md
-nn nn in nn in
-prp vbd cc vbd rb
-prp vbd prp nns rb
-rb vbn to vb dt
-to vb dt nn wdt
-vbd vbn in prp nns
-vbg prp nns in dt
-vbp rb vbn in prp
-cc rb prp vbd vbn
-dt jj nn wp vbz
-in dt vbg nn cc
-in prp nn vbd to
-in prp nn vbg in
-jj nn prp vbd rp
-nn cc jj nn cc
-nn cc nn vbd in
-nn cc nn vbd prp
-nn in jj in prp
-nn vbd vbn in jj
-nn wp vbd dt nn
-nnp vbd rb vbn prp
-prp nn cc prp nns
-prp vbd prp jj nns
-to nnp nnp pos nn
-to prp nn pos nn
-to vb vbn in nn
-vbd dt nn wp vbd
-vbd jj prp vbd rb
-vbd prp nn to dt
-vbp prp md vb vbn
-dt jj nn nn dt
-dt jj nn nn rb
-dt nn rb vbd in
-in dt prp vbd rb
-jj nn dt jj nns
-jj nn nnp nnp nnp
-md vb prp dt jj
-nn dt nn wdt vbd
-nn in jj dt nn
-nn in nnp nnp rb
-nn vbd prp dt nn
-nns to dt nn in
-prp in prp vbd jj
-prp nn md vb in
-prp vbd jj nn in
-prp vbd prp rb vbd
-prp vbd to prp rb
-prp vbp to vb rb
-rb prp vbd in in
-to vb cc to vb
-vb prp prp vbd dt
-vb to vb dt jj
-vbd in prp nns cc
-vbd prp vbd rb jj
-vbd prp wrb prp vbd
-vbz vbn dt nn in
-dt jj nn vbd rp
-in nn prp rb vbd
-in wdt dt nn vbd
-jj in in dt nn
-nn rb cc prp vbd
-nns cc dt jj nns
-nns dt nn in prp
-nns prp md vb in
-pdt dt nn in nn
-prp nn rb dt nn
-prp nns dt jj nn
-prp vbd rb vbg prp
-vb prp in dt nns
-vbd vbn dt nn prp
-vbn cc vbn in dt
-vbn rb rb in dt
-vbp jj prp md vb
-vbp jj to vb prp
-cc prp nn in dt
-dt cd nns in dt
-dt nn cc in nn
-dt nn cc vbg in
-dt nn in vbg nns
-dt nn to prp in
-in jj nn to vb
-in nn md vb vbn
-jj in prp jj nns
-nn cc dt nn dt
-nn vbd nnp in dt
-nn wrb dt jj nn
-nn wrb prp vbd to
-nnp nnp in prp vbp
-nnp vbd prp in prp
-prp jj nn prp nn
-prp prp vbd rb vbn
-prp vbd rb jj dt
-prp vbd vbg dt jj
-rb jjr in dt nn
-to vb to prp nn
-cc prp vbd to prp
-dt nn rb vbd dt
-dt nns cc prp vbd
-in dt nn cc nns
-in nn cc vbd prp
-in prp nns vbd rb
-jj to vb prp prp
-nn rb prp vbd to
-nns in nns cc nns
-nns in prp nns in
-prp nns vbd vbn in
-vbd prp md vb in
-cc vbd in prp in
-dt nn prp vbz vbn
-dt nns dt nn in
-nn nnp pos nn vbd
-nn rb prp vbp prp
-nnp pos nn cc vbd
-prp nns prp vbd dt
-to prp dt jj nn
-to prp jj nn cc
-to prp prp vbd prp
-vb prp cc prp md
-vb to prp in dt
-vbd prp nn to prp
-vbd vbn to prp in
-cc nnp nnp vbd vbn
-cc vb prp in dt
-cc vbg prp nn in
-in dt nn rb nnp
-in jj nn in jj
-in prp vbz dt jj
-jj cc rb jj in
-jj in prp in dt
-md vb rb jj to
-nn cc vbd prp nns
-nn prp nn vbd dt
-nn vbd vbn to prp
-prp jj nns in nn
-rb in jj nn in
-rb rb prp md rb
-rb vbg in dt jj
-to vb in nn cc
-vbd in dt nn jj
-vbd in nnp nnp pos
-vbg to vb in prp
-dt nn to vb to
-in dt jj cc dt
-in dt nnp nn cc
-in dt nns md vb
-md prp vb to vb
-nnp cc prp nn vbd
-to vb prp vbd dt
-to vb rp in prp
-vb to dt jj nn
-vbn prp vbd dt nn
-dt nn nn cc vbd
-dt nn wdt vbd to
-in nn prp vbp vbn
-in prp vbd rb vbg
-jj dt jj nn vbd
-jj nn in dt vbg
-nn in nn in vbg
-nn pos nn cc dt
-nns rb in prp vbd
-prp md vb jj nn
-to dt nn pos nn
-vbd dt jj jj jj
-dt nn in vbg to
-dt nn vbd in nnp
-dt nn wp md vb
-in prp cc vb prp
-in prp nns to vb
-nn cc nnp vbd rb
-nn in nnp vbd rb
-nn vbg rb in dt
-nnp vbd prp nn rb
-prp cc prp nn vbd
-prp md vb nn to
-prp rb dt nn in
-prp to dt jj nn
-rb in prp nn rb
-rb rb vbn in prp
-to dt nn to vb
-vbd prp nn rb cc
-wp prp vbd vbn in
-cc prp vbz rb jj
-cd cc cd nns in
-dt nn nn vbd in
-in prp in jj nn
-jj cc in prp vbd
-jj cc prp vbd prp
-nn cc prp nns vbd
-nn in nn rb rb
-nn jj nn in dt
-vbd dt nn cc in
-vbd nnp prp vbp rb
-vbd rp prp nn in
-vbn in prp nn vbd
-dt nn wrb prp md
-md rb vb prp nns
-md vb in prp rb
-pos nn cc prp vbd
-prp md vb prp nnp
-prp rb in prp vbp
-prp vb prp nn in
-prp vbd vbn nnp nnp
-rb jj in nnp nnp
-rb to dt nn cc
-rp prp nn in dt
-to dt nn cc dt
-vb dt jj nn dt
-vbd prp in dt nns
-cc to vb dt nn
-in nnp prp vbd in
-in rb in prp md
-in vbg dt nn prp
-jj nn in dt cd
-nn nn dt nn vbd
-prp jj nn cc jj
-prp vbd prp prp md
-rb vbn in dt nns
-vbd rb dt nn vbd
-vbd vbn to vb rb
-vbg nn in prp nn
-vbz dt nn in jj
-cc prp jj nn in
-cd in dt nn in
-dt nn rb rb prp
-in dt nnp cc dt
-jj vbg in dt nn
-md vb vbn prp vbd
-nn cc jj nn prp
-nnp in prp nn in
-prp nn rb prp vbp
-prp nn vbn in dt
-vbd jj dt nn in
-wp vbd in dt nn
-cc dt jj nn nn
-dt nnp nn in dt
-in cd cc cd nns
-in jj nn cc vbd
-nn cc vbd prp to
-prp nn md vb dt
-prp nns vbd in dt
-prp vbp dt nn rb
-rb rb in to vb
-to dt nn prp vbp
-to vb prp nns cc
-vbg in prp vbd rb
-vbp rb jj in dt
-vbz dt nn in nnp
-wrb prp md rb vb
-cc prp vbp rb rb
-dt jj nns vbd in
-dt nn cc vbg prp
-dt nn in nn vbn
-dt nn vbd prp jj
-dt nn vbd rb vb
-in dt jj vbg nn
-in nns in nn cc
-jj in dt nn to
-nn cc prp nn cc
-nn jj in prp nn
-nnp pos nn in nnp
-prp md vb nn prp
-rb in prp nn dt
-rb prp vbp vbn prp
-rb vb in prp in
-rb vbn in prp jj
-vb to vb prp prp
-cc in dt jj jj
-dt nn dt nn md
-dt nn in nn wrb
-in jj in prp vbd
-in nns in jj nn
-nn cc vbg in prp
-nn in prp nnp vbd
-nn in prp vbd rp
-nn vbd nn in dt
-nnp nnp md vb prp
-nnp prp vbd vbn in
-prp nn cc rb in
-rb cc prp vbp rb
-vbd nnp nnp vbg prp
-vbd rb to prp nn
-vbg dt nns in dt
-cc nns in dt jj
-dt jj jj nn to
-dt nn in nnp nn
-in dt nn vbp prp
-in prp vbd vbn nn
-jj nn to vb vbn
-jj nn wdt md vb
-nn in pdt dt nns
-nnp nnp in prp jj
-nns cc dt nns in
-nns cc rb prp vbd
-nns in dt nns vbd
-nns in nnp nnp cc
-prp vbd rb in in
-rb jj prp vbd dt
-rb prp vbz dt nn
-rb vb prp prp md
-rb vbn to vb in
-vb vbn to vb in
-vbd in jj nn cc
-cc rb prp md rb
-dt jj nns vbd rb
-in dt nn rb vbn
-in nn nn cc nn
-in nnp nnp prp vbp
-jj jj nn vbn in
-jj prp vbd vbn in
-nn prp nn in dt
-nn prp vbd in rb
-nns cc prp vbd in
-nns in prp nn rb
-prp vbd prp nn dt
-vbg dt jj nn cc
-in dt nn wdt nnp
-md vb prp cc prp
-nn cc in jj nn
-nn cc md rb vb
-nn dt rb jj nn
-nnp nnp nnp in dt
-nnp rb vbd dt nn
-nns cc in prp vbd
-prp vbd vbn rp in
-prp vbp prp dt nn
-rb jj prp md rb
-rb prp vbp prp vbp
-to vb prp nn vbd
-vbd prp jj to vb
-wdt vbd vbn in dt
-cc vbd prp rb in
-cc vbg dt jj nn
-dt nns cc in dt
-dt vbg in dt nn
-in nnp prp vbd dt
-in prp nn in nns
-nn cc vb prp in
-nn nnp nnp pos nn
-nn wdt vbz dt nn
-nnp prp vbd rb jj
-nns cc nns prp vbd
-nns in dt nn pos
-prp in prp jj nns
-prp vbd jj nns in
-prp vbp prp jj nn
-rb vb prp cc prp
-to vb nnp nnp in
-vb jj to vb in
-vbd dt jj nn jj
-vbd in prp rb in
-vbd prp nn rb rb
-vbg in dt jj nns
-vbn in prp nns in
-vbp rb jj prp vbp
-vbp rb vb wrb prp
-vbz dt jj nn to
-cc prp nn in prp
-dt jj nn vbz in
-dt jj nns dt jj
-dt nns in nn prp
-in nnp in prp nn
-in nns in prp vbd
-in prp nn rb vbd
-in prp vbp rb prp
-jj nn cc nn vbd
-nn cc vbd prp jj
-nn in dt nn uh
-nn in nns dt nn
-nn prp vbp prp in
-nn wdt vbd rb jj
-nnp pos nn to vb
-prp nn nnp vbd prp
-prp rb prp md rb
-prp vbz dt rb jj
-rb cc vbd in dt
-rb in prp vbd vbg
-rb vb vbn to vb
-to vb vbn prp vbd
-vb prp in in prp
-vb prp vb in dt
-vb rb jj in dt
-vbd prp nn in nnp
-vbn in prp nn dt
-cc in nn prp vbd
-cc nn prp md vb
-cc vbd prp to vb
-dt nn cc wrb prp
-dt nn nn dt jj
-dt nn wp vbd dt
-in dt nn nns cc
-in dt rb nn in
-jj cc rb prp vbd
-jj nn wrb dt nn
-md rb vb prp vbp
-nn prp md rb rb
-nn prp vbd rp prp
-nnp vbd jj in dt
-prp dt nn in jj
-prp md vb jj cc
-prp nn cc prp jj
-prp vbd jj cc prp
-rb nnp nnp vbd prp
-rb vb prp nn cc
-rb vbd dt nn prp
-to vb prp to dt
-vbd cc vbd prp nn
-vbd prp in nn in
-vbd prp in prp nns
-vbd to vb prp cc
-dt nn dt nns in
-dt nn nn prp md
-in dt nnp cc prp
-in prp nn cc jj
-jj nn cc rb dt
-jj nn cc vb prp
-nn cc rb rb in
-nn in jj nn nn
-nn in nnp prp vbp
-nn in rb prp vbd
-nn rb nnp nnp vbd
-nnp dt nn in nnp
-prp nn prp vbd vbg
-prp rb in prp md
-rb jj nn to vb
-rb vbg dt jj nn
-rb vbz dt nn in
-vb in dt jj jj
-vbd to vb in nnp
-cc rb rb prp vbd
-dt nn vbz to vb
-in nnp cc in dt
-in nnp nnp cc in
-in prp nn prp jj
-jj dt nn prp vbd
-jj jj nn cc nn
-jj nn cc prp vbz
-jj nn vbd vbn dt
-jj rb in dt jj
-md rb vb jj to
-nn cc rb dt jj
-nn nn in prp jj
-nn pos nn prp vbp
-nn prp vbd prp cc
-nn to prp in dt
-nnp nnp vbd vbn rb
-nnp vbd in prp in
-nnp vbd vbn prp in
-prp md vb vbn cc
-prp vbz in prp nn
-rb in dt nn pos
-rb jj dt jj nn
-to dt nn prp md
-vbg to dt jj nn
-vbn rp in dt jj
-dt jj prp md vb
-in nnp prp vbd vbn
-in vbg prp in prp
-jj nn jj in dt
-nn dt nn in wdt
-nn dt nn vbd to
-nn pos jj nn in
-nn prp vbz rb rb
-nnp nnp nnp pos nn
-nns in dt nn vbg
-nns in in dt nn
-prp in jj nn in
-prp md vb jj prp
-prp md vb rb dt
-prp md vb vbn vbn
-prp nn cc rb vbd
-prp vbp nn to vb
-prp vbp rb dt jj
-rb dt nn in nns
-rb in nnp pos nn
-rb vb jj to vb
-vbd in dt nn wrb
-vbd jj dt jj nn
-vbd to vb nn in
-vbg dt nn in nnp
-vbn in prp cc prp
-wrb prp vbd rb in
-cc prp nn vbd jj
-cc prp rb vbd in
-cc vbd prp jj nn
-cc vbd vbn in dt
-in jj in prp nn
-in jj nns cc in
-in nnp vbd vbn in
-jj jj nn vbd vbn
-jj prp vbd rb vb
-nn cc vbd rb rb
-nn vbz vbn in dt
-nnp dt nn in prp
-nnp vbd dt jj jj
-rb prp vbp in dt
-vb prp nn pos nn
-vb vbn rb in dt
-vbd dt nn in wdt
-vbd rb cc vbd in
-vbd rb vbg in prp
-vbd vbn cc dt nn
-vbn in jj nn cc
-cc prp vbd in in
-dt jj nn in wp
-dt nn in cd nn
-dt nn wrb prp vbp
-in dt nn vbg to
-in in prp nn vbd
-in in prp vbd jj
-jj jj nn vbd rb
-nn cc jj nns in
-nn in prp prp vbz
-nn nnp vbd rb in
-nn prp nn in prp
-nn prp vbp prp rb
-nn rb in dt nns
-nn wp vbd vbn prp
-nnp pos jj nn cc
-prp md to vb prp
-prp vbd prp rp in
-rb dt nn vbd prp
-to prp jj nn prp
-vb prp nn rb in
-vbd rb rb jj to
-vbd rb vbg to vb
-wp vbd dt jj nn
-cc rb jj in prp
-in prp md rb rb
-in prp nns md vb
-in prp prp nn vbd
-nn in wdt prp vbp
-nn prp vbd rp dt
-nn prp vbp vbn to
-nn rb in prp jj
-nn vb prp vb prp
-nnp nnp wrb prp vbd
-prp vbd prp nn nn
-prp vbd prp vbd to
-prp vbp prp vbp dt
-rb vbg to vb prp
-vbd rb rb rb in
-vbd vbn in dt nnp
-vbn in dt nn pos
-vbn nn in prp nn
-vbp dt jj nn prp
-dt nn vbg dt jj
-in nn to nn in
-jj prp vbd rb rb
-prp jj nns cc prp
-prp nn to dt jj
-prp vbd cc dt nn
-prp vbp in prp vbz
-rb in nnp nnp pos
-rb prp vbd vbn prp
-rb rb vb dt nn
-to vb prp cc rb
-vb dt rb jj nn
-cc dt nn dt nn
-cc nnp nnp vbd in
-cc prp vbd vbn prp
-dt jj nn vbz dt
-dt nns cc dt jj
-in prp nn in rb
-jj nn dt nn cc
-jj nn nnp vbd dt
-nn cc vbg prp nn
-nn dt jj nn wdt
-nn nnp nnp prp vbp
-nn nns in dt jj
-nn wdt vbd prp nn
-prp cc dt nn vbd
-prp jj nn rb prp
-prp rb cc prp vbd
-prp vbd nnp in dt
-rb in dt nn vbz
-rb vb prp jj nn
-vb cc prp md vb
-vb jj in prp nn
-vbd rb cc rb in
-vbg dt jj jj nn
-vbg jj in dt nn
-vbn in prp vbd dt
-vbn in prp vbd prp
-vbn vbg in dt nn
-cc wrb prp vbd prp
-in dt jj nn uh
-in nn rb rb in
-in pdt dt nn cc
-in prp nns vbd vbn
-jj to prp prp vbd
-nn cc prp vbp dt
-nn in cd nns in
-nn in prp rb rb
-nn nn cc dt jj
-nn vbd in prp jj
-nnp prp vbp rb jj
-nns md vb vbn in
-nns prp vbd rb rb
-prp nn cc vbg prp
-prp vbd in rb in
-prp vbd rb vbn vbn
-prp vbd rp dt jj
-rb in in dt jj
-rb prp vbd prp md
-rb prp vbd rb prp
-rb vb dt nn to
-rb wrb prp vbd vbn
-to vb prp nn nnp
-vb prp dt nn cc
-vb prp md vb dt
-vbd in prp vbd vbg
-vbd rb dt nn to
-vbg in prp in prp
-in dt nnp nnp nn
-in nnp nnp in nnp
-in prp cc nnp nnp
-in prp nn dt nns
-in prp nn vb prp
-jj in prp vbp rb
-md vb prp vb prp
-nn cc dt nn vbz
-nn in nnp pos nns
-nn in prp vbp to
-nn vbd nnp nnp vbg
-nns cc vbd dt nn
-nns vbd jj cc jj
-prp vbd prp to prp
-rb in prp vbp in
-rb jj nns in dt
-rb prp vbp rb vbn
-vb jj to vb dt
-vbd vbn prp prp vbd
-vbn dt nn to vb
-vbn in prp dt nn
-vbn in prp vbd in
-cd nns in prp nn
-dt jj jj nn jj
-dt jj jj nns cc
-in dt jj cc rb
-in dt nns vbd prp
-in prp nn vbn in
-jj in dt nn nnp
-jj in dt nn pos
-jj jj nn to vb
-md vb vbn prp rb
-nn cc prp vbp in
-nn cc rb vbd dt
-nn pos nn cc vbd
-nn vbd dt nn nn
-nnp rb in prp vbd
-prp jj nn pos nn
-prp vbd in nnp vbd
-prp vbd nnp pos nn
-prp vbd rb rb vb
-rb cc dt nn vbd
-rb in dt nn md
-rb prp vbd prp vbp
-rb vb in prp prp
-vbd jj nn in prp
-vbd vbg prp nn in
-dt jj nn dt nnp
-dt nn vbd rb prp
-dt nns prp vbd dt
-in jj dt jj nn
-in jj nn in nnp
-in prp md vb nnp
-jj jj nn cc rb
-jj jj nn cc vbd
-jj nn vbd vbn rb
-md rb vb prp md
-md vb nn to vb
-md vb prp rb prp
-nn prp vbd to nnp
-nn prp vbp jj in
-nn vbd in jj nn
-nn vbg prp nn in
-nnp nnp prp vbp vbn
-nnp pos nn cc nn
-nns in nn dt nn
-prp nns in dt nns
-prp prp vbp to vb
-prp vbp vbn rb rb
-rb in prp nns cc
-rb nnp vbd dt nn
-rb prp vbz rb jj
-rb rb in in prp
-rb rb jj cc jj
-to prp in prp vbp
-to vb wrb prp vbd
-vbd dt nn rb cc
-vbd jj nn in dt
-vbd nnp in prp vbd
-vbd vbn vbg in dt
-vbp rb vbn dt nn
-cc rb in prp nn
-dt nn prp vbz in
-dt nn vbd nn in
-ex vbd rb dt nn
-in dt nn dt vbz
-in prp nn to nnp
-in prp vbd nn to
-jj cc jj nn dt
-jj cc prp md rb
-jj nns in prp vbp
-nn in jj nn to
-nn in rb in prp
-nn in wdt prp md
-nn nnp nnp nnp vbd
-nn prp jj nn in
-nns in nns in dt
-pos nn dt jj nn
-prp nn prp vbd cc
-prp nn vbd vbn dt
-prp vbd vbn cc vbn
-prp vbd vbn prp prp
-prp vbz to vb prp
-rb rb dt nn vbd
-vbd rb vbn rb in
-vbg dt jj nn prp
-vbn in in dt jj
-cc nn in dt nns
-in prp cc vbd in
-in prp nn nnp prp
-in prp rb prp vbp
-jj cc in dt jj
-jj nn prp vbd nn
-jj nn vbd vbn to
-nn dt jj nn vbz
-nn dt nn nn in
-nn in jj nns rb
-nnp cc prp vbd prp
-nns in nnp pos nn
-prp jj nn nnp vbd
-prp md vb cc prp
-prp md vb nn cc
-prp rb to vb prp
-prp vbd cc prp vbp
-prp vbp dt nns in
-prp vbp rb rb prp
-rb in prp nn pos
-to dt jj nn dt
-to prp prp vbd in
-to vb dt nn nnp
-vb in dt nn to
-vbd prp in jj nn
-vbd rb prp vbd in
-vbd rb prp vbp prp
-vbg to vb dt jj
-vbn rb jj in prp
-wp prp md vb in
-cc nn dt nn in
-cc prp vbz dt nn
-cc wrb prp vbd in
-dt nn nn vbd dt
-dt nnp vbd dt nn
-in in prp md rb
-in prp prp rb vbd
-in prp vbz in prp
-jj jj nn prp md
-nn in nn in wdt
-nn pos nn to vb
-nnp nnp vbd vbg in
-nns rb in dt jj
-pos nn prp vbd prp
-prp in prp vbp vbn
-prp rb vbd nnp nnp
-prp vb in dt jj
-prp vbd vbn vbn to
-prp vbz rb in dt
-rb in dt jj cc
-rb jj nn prp vbp
-vb prp md vb in
-vb rb dt nn in
-vbd in prp nn to
-vbd nnp nnp cc prp
-vbd prp jj nn prp
-vbn in nnp pos nn
-dt nn cc vbg dt
-dt nn in wdt nnp
-dt nn nn vbd vbn
-dt nn rb cc prp
-in dt nn vbd nn
-in nn prp vbp dt
-jj in prp nns in
-jj nn in wdt dt
-jj nn jj cc jj
-jj nn rb jj in
-jj nn vbz dt nn
-nn pos nn cc nn
-nn prp vbp rb in
-prp nn vbd jj prp
-prp nns cc prp nn
-rb in dt nns cc
-rbs jj nn in dt
-vb prp in nn prp
-vb prp jj nn prp
-vbd dt nn vbn in
-vbd rb vbn to prp
-cc in dt nn dt
-cc nnp vbd in prp
-cc vbd prp nn cc
-dt in prp md vb
-in dt vbg nn prp
-jj nn in nns prp
-jj to vb prp jj
-nn rb in nn in
-nn vbz rb jj in
-nnp md rb vb vbn
-nnp nnp nnp in nnp
-nnp rb prp md vb
-nnp to vb dt nn
-nns in dt nn md
-nns in in prp vbd
-nns in prp nn dt
-prp nn cc nnp nnp
-prp nn in prp vbz
-prp rb vbp in prp
-prp vbp in in prp
-prp vbp vbn prp dt
-rb in nn in nn
-vbn dt nn in jj
-vbp prp vbp rb vb
-vbp rb vb prp in
-vbp to vb prp nn
-cc nnp nnp vbd prp
-cc prp nn vbd prp
-in dt nnp nn prp
-in prp md to vb
-jj in prp nns cc
-md vb in prp md
-md vb vbn rb rb
-nn cc ex vbd dt
-nn in dt nnp dt
-nn to dt nns in
-nnp pos nn vbd dt
-nnp vbd vbn dt jj
-nns in dt nns prp
-prp cc vbd prp nn
-prp to vb prp prp
-prp to vb prp vbd
-prp vbd vbn jj in
-rb vbd to vb dt
-to dt jj nns in
-vbd vbn prp dt nn
-vbd vbn rb to vb
-vbp jj prp vbp rb
-vbp prp md vb in
-cc dt nn nn in
-cd in prp jj nns
-cd nns in dt jj
-dt nnp nnp prp vbd
-dt rb jj nn rb
-in dt jj jj in
-in in dt jj jj
-in prp vbd vbn vbg
-jj nn cc dt nns
-jj nns rb prp vbd
-jj prp md vb rb
-md rb vb rb prp
-nn wdt prp md vb
-nnp prp vbd rb rb
-prp md rb to vb
-prp nn vbz dt nn
-prp nns in nn cc
-prp vbd dt nn nnp
-rb jj cc jj nn
-rb vbn prp nn in
-vb in prp vbp vbn
-vb prp cc prp vbp
-vb prp in prp nns
-vbd in dt rb jj
-vbd prp in prp md
-vbn dt jj nn prp
-cc nnp vbd dt nn
-dt nn cc prp rb
-dt nn vb dt nn
-in dt nn vbd cc
-in dt nns rb in
-nn cc vbd vbn in
-nn nnp in dt nn
-nn nnp vbd to vb
-nn vbd rp in prp
-nn vbd vbg in prp
-nn wdt vbd prp in
-prp vbd vbn rb to
-prp vbp rb rb rb
-rb in prp nns in
-rb jj to vb rb
-vbd prp to vb rb
-vbd rb prp vbd dt
-vbg in prp md vb
-vbn in jj nns cc
-wrb dt nn vbd in
-dt jj nn vbd nn
-dt jjs nn in nn
-dt nns vbd to vb
-in jj nns cc prp
-in nn vbn in dt
-in prp jj nn vbg
-jj cc jj to vb
-jj nns rb in dt
-md prp vb prp in
-nn cc vb in prp
-nn nnp vbd vbn in
-nn vbd rb prp vbd
-nnp in dt jj jj
-nnp prp vbd prp vbd
-prp rb prp vbp rb
-prp vbd jj prp md
-prp vbd rb vbn jj
-rb md prp vb prp
-to vb nn prp vbd
-vb in prp nn vbd
-vbd prp jj jj nn
-vbd prp jj nns in
-vbd rb jj in nnp
-cc dt nn to vb
-dt jj nns prp vbp
-dt nn to vb rp
-dt nn vbn in nn
-dt nnp pos nn cc
-in dt jj dt nn
-in nn vbd dt jj
-in prp in in dt
-in prp vbp jj in
-jj in prp vbd jj
-jj nn dt nn prp
-jj nns prp md rb
-nn cc dt nn to
-nn in nn vbd nnp
-nn nn cc prp vbd
-nn to nn in dt
-nn to vb prp to
-nnp cc prp vbd in
-prp md vb rp in
-prp nn vbd prp vbd
-prp vbd dt nn pos
-prp vbd in in nn
-prp vbd vbn prp dt
-prp vbp in nn in
-rb jj to dt nn
-rb prp vbp dt jj
-rb vb prp vbp rb
-to vb in jj nns
-to vb prp nn nn
-vb dt jj nn vbd
-vbd prp nn in jj
-vbd vbn to prp nn
-vbg prp in prp nn
-vbp rb vb prp vb
-dt nn in prp vb
-dt nn nnp nnp prp
-dt nn vbg rb in
-in dt nn in pdt
-in prp nn md rb
-jj nn dt nns in
-nn in prp vbz dt
-nnp in dt nn nn
-nnp nnp vbd prp vbd
-nnp prp vbd rb in
-prp nns in nn in
-prp vbd cd in dt
-rb vb prp vbd rb
-rb vbn in nn in
-rp dt nn in nn
-vb dt nn in in
-vb prp rb prp vbp
-vb wrb prp md vb
-wdt md rb vb vbn
-cc in in dt nn
-dt jj jj nn vbn
-dt nn prp vbz prp
-dt nn rb nnp vbd
-dt nnp nnp nnp nnp
-dt vbn nn in prp
-in dt nn nn wdt
-in jj cc jj in
-in prp in nn prp
-in prp prp vbp vbn
-md vb prp nn to
-nns in dt nnp nn
-prp vb in prp nn
-prp vbd nnp nnp pos
-prp vbz rb vb prp
-rb rb in nnp nnp
-rb rb jj prp vbd
-vb vbn to vb dt
-vbd in prp jj nns
-vbd prp nn prp vbp
-vbg in prp prp vbd
-vbn in dt nns cc
-vbn prp dt nn in
-vbz dt jj nn rb
-cc nn prp vbd rb
-cc prp vbp vbn prp
-dt rb jj cc jj
-dt rb jj nn dt
-in dt nn dt vbd
-in in nn prp vbd
-in jj nns prp vbp
-in prp rb dt nn
-jj in prp vbd to
-nn dt nn rb vbd
-nn in nnp vbd dt
-nn nn nn nn nn
-nn prp nn md vb
-nn to vb nnp nnp
-nn wp vbz dt nn
-prp nns rb in prp
-vb dt jj nn nn
-vb prp vbd dt jj
-vbd dt nn in cd
-vbd vbn rb prp vbd
-vbp in dt nn prp
-vbp rb vb wp prp
-cc in prp vbp prp
-dt jj nn nnp prp
-dt nn in nns vbg
-dt nn in vbg vbn
-dt nn prp nns vbd
-in jj jj nns cc
-jj nn in nnp dt
-md vb in dt nns
-md vb to prp in
-nn cc nn vbd dt
-nn nn in dt nnp
-nn prp vbd in vbg
-nn wdt vbd vbn vbn
-nnp nnp wp vbd vbn
-nnp vbd dt nn to
-nns vbd rb vbn in
-prp nn prp vbp in
-prp prp vbp prp md
-prp vbd nnp nnp prp
-prp vbz vbn in dt
-rb in prp vbp dt
-rb rb jj dt nn
-vb prp rb prp md
-vb prp vbd in prp
-vbd nn to vb prp
-vbd prp vb in prp
-vbp rb dt nn in
-vbp rb vb prp rb
-vbz nn in dt nn
-cc nn in nn in
-dt nn nn vbd prp
-in dt nnp dt nn
-jj nns md vb vbn
-jj to prp in dt
-jj vbd dt jj nn
-nn cc dt nn wdt
-nn in dt jj vbg
-nn in nnp dt jj
-nn nnp nnp vbd to
-nn to vb in nnp
-nn wdt nnp nnp vbd
-nnp nnp in dt nnp
-nnp nnp vbd in nn
-nns cc vbd in dt
-pos jj nn in dt
-prp nn vbz rb jj
-prp vb in prp vbp
-prp vb prp to vb
-rb jj in prp rb
-to dt nn wrb prp
-to vb cc vb dt
-vbd to vb nnp nnp
+in dt nn
+dt nn in
+dt jj nn
+nn in dt
+in dt jj
+nn in prp
+jj nn in
+in prp nn
+prp md vb
+nn prp vbd
+in prp vbd
+prp vbd rb
+nn in nn
+vbd dt nn
+dt nn cc
+prp vbd prp
+dt nn prp
+prp vbd in
+dt nn vbd
+to vb prp
+prp vbd dt
+prp vbd vbn
+prp nn in
+rb in dt
+md rb vb
+vbd in dt
+nns in dt
+in dt nns
+prp jj nn
+jj nn prp
+jj nn cc
+vb dt nn
+nn dt nn
+rb in prp
+in nn in
+prp md rb
+vbn in dt
+vbd dt jj
+prp vbp rb
+vbd in prp
+in prp jj
+rb prp vbd
+nn in nnp
+cc prp vbd
+nn to vb
+jj jj nn
+dt nns in
+to vb in
+prp vbp prp
+prp nn cc
+nn prp vbp
+nn cc nn
+nn cc prp
+to vb dt
+prp in dt
+vbd to vb
+dt jj jj
+nnp nnp vbd
+jj nns in
+md vb prp
+jj in dt
+in jj nn
+dt nn rb
+jj in prp
+in nnp nnp
+in prp md
+dt nn nn
+nn in jj
+vb in prp
+jj nn vbd
+cc dt nn
+in prp nns
+prp nn prp
+nn cc dt
+dt jj nns
+in prp vbp
+prp nn vbd
+vbd vbn in
+in nn cc
+prp in prp
+vbd prp nn
+to dt nn
+dt nn dt
+jj cc jj
+nn prp md
+nns in prp
+prp vbd to
+rb vb prp
+in dt nnp
+nn cc vbd
+rb dt nn
+vbn in prp
+rb jj in
+in prp in
+vb in dt
+md vb vbn
+prp prp vbd
+nn vbd rb
+nn vbd vbn
+vb prp nn
+vbd rb in
+in nn prp
+dt nn to
+vbd rb jj
+vbd rb vbn
+in jj nns
+rb rb in
+nn dt jj
+prp vbd jj
+jj to vb
+nn vbd in
+wrb prp vbd
+vb prp in
+prp vbp vbn
+nn cc in
+jj nn dt
+nn vbd prp
+in prp prp
+vbg in dt
+md vb dt
+nns prp vbd
+nn md vb
+nnp pos nn
+vbd prp in
+in in dt
+in in prp
+in prp cc
+nn vbd dt
+prp rb vbd
+vbd rb rb
+nn cc rb
+nn in nns
+jj prp vbd
+nn rb in
+cc in dt
+nn pos nn
+prp to vb
+md vb in
+rb prp vbp
+nnp prp vbd
+nnp nnp nnp
+vb dt jj
+vbz dt nn
+vbd vbn prp
+vbp rb vb
+nn nn in
+nn nnp nnp
+prp vbp dt
+cc dt jj
+prp dt nn
+nnp in dt
+in prp rb
+jj nn rb
+nn in vbg
+nns in nn
+cc vbd prp
+vbn to vb
+prp vbp in
+vbd prp vbd
+prp vbz rb
+dt nn wdt
+nn nnp vbd
+vbn dt nn
+jj nns cc
+nn wdt vbd
+rb to vb
+prp vbd vbg
+nnp vbd rb
+rb vbn in
+prp nn rb
+nnp vbd prp
+vbd nnp nnp
+rb jj nn
+vbg dt nn
+prp nns in
+cc in prp
+cc prp vbp
+dt nn nnp
+prp jj nns
+vbg in prp
+nnp vbd in
+jj nn nn
+nnp nnp in
+cc prp md
+nnp nnp prp
+vb vbn in
+nn rb prp
+vb to vb
+rb vb in
+prp cc prp
+rb dt jj
+dt nn vbz
+to vb rb
+to prp nn
+jj jj nns
+vbd rb vb
+nnp vbd dt
+to vb vbn
+nn prp vbz
+vbd prp rb
+nn prp nn
+nnp vbd vbn
+prp vb prp
+rb prp md
+rb jj cc
+dt nn pos
+jj nn to
+nns cc nns
+nn to dt
+vbd vbn dt
+prp nn dt
+vbd jj in
+dt nns vbd
+cc nn in
+prp vbd cc
+cc jj nn
+nnp nnp pos
+md vb rb
+rb vbd prp
+jj nn nnp
+vb prp rb
+prp nns cc
+prp vbd nnp
+nnp in prp
+vb prp prp
+nn rb rb
+rb cc rb
+to dt jj
+vbp dt nn
+jj dt nn
+nn vbn in
+cc rb prp
+rb rb prp
+jj nns prp
+prp prp vbp
+prp vbz dt
+dt nnp nnp
+in prp vbz
+rb in nn
+vb prp vbd
+nnp nnp cc
+dt rb jj
+in nns in
+prp vbp jj
+dt jj cc
+nn vbd nnp
+rb vb dt
+cc prp nn
+nn in in
+dt nn vbg
+nn vbd jj
+vbd vbn rb
+rb rb jj
+prp nn to
+cc vbd in
+nnp prp vbp
+vbd in nn
+dt nn md
+dt nns cc
+nn to prp
+in nn vbd
+rp in dt
+vbd vbn to
+jj nn wdt
+vbd rb dt
+jj nns vbd
+vb prp vb
+prp vbd nn
+in nn dt
+pdt dt nn
+nn nn cc
+rb vbd dt
+prp vbd rp
+prp rb in
+dt nn jj
+nn wrb prp
+to prp in
+md prp vb
+in prp dt
+prp rb rb
+dt jj in
+vbn in nn
+rb jj prp
+nn cc jj
+in nnp cc
+vbd to prp
+prp nns vbd
+in nnp pos
+vbd prp jj
+nns dt nn
+in nn rb
+cc vb prp
+cc rb in
+vbz dt jj
+jj in nn
+rb rb rb
+nn nn prp
+vbg prp nn
+prp nn nnp
+rb jj to
+prp nn nn
+vb prp dt
+in nns cc
+vbd vbg in
+in vbg prp
+md vb to
+vbd in in
+prp prp md
+in nnp vbd
+to vb jj
+dt nn wrb
+nns cc dt
+nns in jj
+nns in nnp
+prp nn pos
+ex vbd dt
+vbd rb prp
+wdt prp vbd
+vbd cc vbd
+vbd jj cc
+nnp cc prp
+vbg to vb
+cc vbd rb
+nn in wdt
+dt nn wp
+prp vbp to
+cc vbd dt
+vbd prp nns
+vbd nn in
+vbd rp in
+nns cc prp
+rb cc prp
+nnp dt nn
+to vb nn
+prp jj jj
+md vb jj
+prp nns prp
+dt nnp vbd
+vbp in prp
+prp dt jj
+nnp cc nnp
+dt nns prp
+prp in nn
+pos nn in
+dt nn vbn
+rb vbd in
+vbd rb cc
+jj prp vbp
+nn rb vbd
+vbp prp vb
+vbp to vb
+dt jj nnp
+to vb cc
+nn vbg in
+vbd in jj
+vbd prp prp
+in nn to
+prp rb prp
+vb prp jj
+vb rb in
+vbz rb jj
+nn rb jj
+nns vbd vbn
+vbn prp nn
+nn vbd to
+cc jj in
+vbn dt jj
+in nnp in
+nn cc vb
+in nnp prp
+in jj in
+nn prp rb
+in dt rb
+dt nnp in
+nn wp vbd
+prp vbz prp
+in vbg dt
+nn nn vbd
+vbg dt jj
+wp prp vbd
+nn in rb
+nnp nnp rb
+jj cc prp
+rb vbn prp
+vbp rb jj
+dt in prp
+rb vb vbn
+in dt prp
+nn cc vbg
+nns vbd in
+cd in dt
+nns vbd rb
+vbn prp vbd
+to vb to
+cc nnp nnp
+prp vb in
+rb vb to
+nnp md vb
+vbn rb in
+vbd prp to
+nns prp vbp
+vb in nn
+vbd prp dt
+vb vbn prp
+vb nn in
+vbd dt nns
+nn in cd
+prp vbz jj
+jj nn vbg
+rp dt nn
+vb to prp
+prp nn vbz
+jj jj jj
+vb prp cc
+rb in nnp
+cc nnp vbd
+in jj jj
+nnp in nnp
+nn nn nn
+cd nns in
+vb prp to
+vbd in nnp
+rb rb cc
+in nn nn
+rb cc vbd
+jj nns dt
+nn jj in
+cc nn cc
+vbd rb to
+in wdt prp
+vbn in jj
+vbp in dt
+vbd vbn vbn
+cc jj nns
+jj prp md
+jj cc rb
+rb nnp nnp
+nn cc nnp
+vbg rb in
+nns to vb
+nnp nnp dt
+nn rb cc
+nns cc vbd
+dt vbg nn
+in pdt dt
+nnp prp md
+vb cc vb
+rp in prp
+vbn prp in
+in dt cd
+to nnp nnp
+prp vbz in
+jj nn jj
+pos nn cc
+in dt vbg
+nn dt nns
+vbd prp vbp
+nn vbz rb
+cc dt nns
+nn rb dt
+wrb prp vbp
+rb prp nn
+in dt in
+vbg nn in
+rb in jj
+in prp nnp
+in vbg in
+rb vb rb
+dt nn nns
+to prp prp
+vbd prp md
+nns in nns
+vb jj in
+vbn in nnp
+jj nns rb
+vbp prp vbd
+vbp rb vbn
+dt in dt
+in rb in
+cc rb vbd
+vb prp nns
+nn jj nn
+prp rb vbp
+vbd to dt
+prp vbz vbn
+rb in in
+rb vbd nnp
+to vb rp
+jj nn vbz
+jj nnp nnp
+dt jjs nn
+vbz in dt
+vb rb rb
+vbp vbn prp
+nn vb prp
+wrb dt nn
+md vb nn
+jj to prp
+vbn vbn in
+vbp dt jj
+cc prp vbz
+vb dt nns
+vbn to prp
+in nn nnp
+vbn nn in
+nns dt jj
+vbd prp vb
+rb nnp vbd
+vbd dt nnp
+vb rb jj
+rb prp vbz
+vbd prp cc
+jj nn vbn
+vbp prp md
+prp cc vbd
+vbd vbn cc
+vbz in prp
+prp nnp nnp
+vb prp vbp
+nns md vb
+vbd jj to
+pos nn vbd
+nns prp md
+vbd nnp in
+in to vb
+vbd nnp prp
+cc rb rb
+nn md rb
+dt nnp nn
+nns cc in
+in in nn
+jj nn md
+cc rb dt
+nn wdt prp
+nnp cc dt
+dt prp vbd
+vbd rb vbg
+vbd nnp rb
+to vb nnp
+dt nn vb
+cc nn prp
+nn vbd vbg
+rb to dt
+vbp vbn in
+in cd nns
+nn vbz vbn
+vbg prp in
+prp nns rb
+vbp rb prp
+vbz to vb
+jj nn wp
+nn nn dt
+jj nn wrb
+in rb prp
+nn vbz dt
+nnp vbd nnp
+pos nn prp
+rb rb dt
+jj dt jj
+cc nns in
+rb jj rb
+dt cd nns
+cc rb jj
+in dt jjs
+rb rb vb
+to prp cc
+vb prp md
+dt vbn nn
+vbp rb rb
+nns rb in
+jj rb in
+nnp pos jj
+prp vbp vbg
+rb vbn dt
+rb jj dt
+rp prp nn
+rb cc in
+nn wdt vbz
+rb rb vbd
+pos jj nn
+prp cc dt
+vbz prp nn
+vbd vbg prp
+nnp vbd to
+prp rb cc
+vbd rp dt
+wp vbd vbn
+vb nnp nnp
+vbp prp vbp
+prp cc in
+nnp rb vbd
+nns vbd prp
+rb rb vbn
+in prp vbg
+rb jj nns
+cc in nn
+nnp dt jj
+prp in in
+jj cc dt
+nns vbn in
+prp in jj
+prp vb dt
+rb vbg in
+vbd jj prp
+cc jj cc
+jj in jj
+in prp to
+in rb jj
+prp nn md
+prp cc rb
+jj in nnp
+vbn rb rb
+prp rb jj
+nn nns in
+jj nnp vbd
+dt jj prp
+nns wdt vbd
+cc vbn in
+nn ex vbd
+prp prp nn
+nns vbd dt
+wp prp vbp
+vbn in in
+nn vbz prp
+nnp pos nns
+vb vbn dt
+ex vbz dt
+rb vbn to
+nn nn rb
+nns cc rb
+cc to vb
+dt nns rb
+nn vbz in
+jj cc in
+cc prp nns
+nn dt nnp
+nn prp jj
+vbp prp rb
+wdt vbd vbn
+prp vbp nn
+vbn to dt
+vb vbn rb
+dt nns dt
+in jj cc
+in nns prp
+in dt vbn
+nnp nnp vbz
+vbz rb rb
+nn vbg prp
+nnp wp vbd
+cd in prp
+vb in nnp
+in cd nn
+vb rb prp
+rb nn in
+prp prp vbz
+nnp vbd jj
+cc nn vbd
+nn to nnp
+vbd rp prp
+jjr in dt
+dt nns vbp
+to prp jj
+rb vbg prp
+nn vbg dt
+nn vbd rp
+nn to nn
+rb vbd rb
+nn nnp prp
+dt nnp cc
+rb to prp
+cc vbg in
+nns vbd jj
+vb vbn to
+vbn rp in
+vb in in
+md vb cc
+wdt vbd prp
+dt rbs jj
+nn jj cc
+wp vbd prp
+nnp rb prp
+dt nnp pos
+jjr in prp
+vbp prp nn
+nnp to vb
+cc vb in
+nn wrb dt
+in jj prp
+wdt vbd in
+vbd cc prp
+in nnp dt
+jj jj in
+vbn prp rb
+jj jj cc
+prp nnp vbd
+nns cc nn
+dt jjr nn
+cc prp rb
+prp nn jj
+prp nn vbg
+vbg in nn
+in nn wdt
+cc vbg prp
+dt vbz dt
+cd nn in
+cc vbd to
+vbz rb dt
+nns cc jj
+cc vb dt
+in prp vb
+to nn in
+cc wrb prp
+rb wrb prp
+prp jj in
+nnp in nn
+vbd vbn jj
+in wp prp
+wdt vbd rb
+nnp prp vbz
+to prp rb
+to dt nns
+nn prp nns
+cc jj prp
+to prp nns
+vbg prp nns
+cc prp jj
+nn vbd nn
+nnp cc in
+vbd nnp vbg
+vb to dt
+prp vbp cc
+rb vbd to
+vbd in rb
+rb jj jj
+jj nn nns
+nnp nn in
+nn wp vbz
+nnp vbd vbg
+nn cc nns
+prp wrb prp
+in to dt
+nns rb prp
+vbn cc vbn
+pdt dt nns
+rb vb jj
+nnp nnp nn
+rb cc dt
+vbg prp vbd
+prp nns dt
+vbz vbn in
+nn vbd cc
+dt nnp prp
+vbd vbg dt
+wdt md vb
+vbd jj nn
+dt jj rb
+vb jj to
+jj prp nn
+vbd vbg rb
+nnp rb in
+vbp prp in
+vb in jj
+cc in jj
+prp jj cc
+vbp jj prp
+vbd vbg to
+prp in nnp
+jj cc vbd
+in cd in
+nnp nnp vbg
+prp in vbg
+prp vbp nnp
+to dt nnp
+wdt vbd dt
+nnp nnp md
+vbn rb jj
+in rb dt
+nn vbp prp
+jj nns wdt
+vb prp nnp
+jj nns vbp
+vb rb cc
+cc vbd rp
+vbn in nns
+vbz rb vbn
+nn nn nnp
+rb vbp prp
+jj to dt
+nns rb rb
+vbd nn cc
+nnp vbd rp
+prp vb rb
+uh prp vbp
+nns nnp nnp
+jj prp vbz
+prp vbp vbd
+rb vbn rb
+prp in rb
+jj rb prp
+nns vbp rb
+nns vbg in
+jj in vbg
+rb rb to
+prp to prp
+prp to dt
+wp md vb
+wrb prp md
+jj rb jj
+jj nns to
+jj nn pos
+vbd vbn rp
+pdt dt jj
+jj in nns
+rb in rb
+vb rp in
+vbp prp prp
+md rb rb
+jjr nn in
+wp vbp prp
+rb nn prp
+cc nns cc
+rb vb nn
+vbp vbn dt
+vbd nnp cc
+in nn nns
+vbz vbn prp
+jjs nn in
+vbp rb in
+rb vbn cc
+vbn cc prp
+vbd jj nns
+nn cc wrb
+prp nns vbp
+vbd prp vbg
+in nnp rb
+nnp prp nn
+nnp rb rb
+rb in vbg
+in nn jj
+wp vbd rb
+nn pos nns
+vbn nnp nnp
+vbg to dt
+nn vbz jj
+cd cc cd
+nnp nnp wp
+dt nns wdt
+nn rb to
+wrb md prp
+prp nn vb
+prp vbp vb
+to prp dt
+vb rp dt
+to nn prp
+nn rb nnp
+vbd jj rb
+jj in in
+rb vbg dt
+jj nn vb
+rb prp rb
+nnp cc vbd
+prp rb dt
+cc vbd vbn
+nn pos jj
+vbz rb in
+nnp cc rb
+in vbg nn
+nn rb vbg
+dt prp vbp
+prp vbd vbd
+nn nns cc
+vbd dt rb
+vbz jj in
+cc nn rb
+nn vbg rb
+nns nnp vbd
+prp jj prp
+cc dt nnp
+md to vb
+vb wp prp
+cd jj nns
+vbp prp vbz
+dt nn vbp
+prp vbd cd
+vbg to prp
+vbd prp rp
+to vb nns
+dt jj vbg
+rbr jj in
+dt vbd dt
+vb cc prp
+vb wrb prp
+vbd nn to
+dt jj vbd
+rb jj nnp
+vbg rp in
+dt jj cd
+vbd vbn vbg
+prp vbz to
+rb md vb
+vb prp rp
+vbg cc vbg
+nn wdt md
+nnp md rb
+in ex vbd
+prp nn wrb
+vbz rb prp
+jj nns vbg
+in nn vbz
+nn uh prp
+cd nns rb
+nn jj nns
+rb cc vb
+vbn prp jj
+prp vbg in
+jj vbd dt
+nn in wp
+rp dt jj
+in nns vbd
+in rb rb
+vbd vbn nnp
+vbg prp jj
+nn cc vbn
+nn dt vbz
+prp rb vb
+vbd nns in
+in jj nnp
+vbp in nn
+nnp vbd cc
+vbg rb rb
+in vbg rb
+wp vbd dt
+vb vbn cc
+in nns rb
+nns in in
+vbd in vbg
+prp nn vbn
+vbp vbn to
+prp vb to
+dt nn ex
+nnp vbg in
+in dt vbd
+dt rb nn
+vbp jj in
+cc vbg dt
+prp rb nn
+nn cc cd
+vb jj cc
+nn vbp rb
+prp rb nnp
+vbd jj jj
+nns in vbg
+prp rp in
+ex vbd nn
+jj vbd nnp
+vbg nns in
+rb vb cc
+vb nn prp
+dt prp nn
+in jj dt
+prp vbd nns
+jj nns nnp
+cc nn dt
+vbg in in
+wrb prp vbz
+nnp nn prp
+rb jj vbd
+nnp vb prp
+to nn cc
+nns prp nn
+rb dt nns
+md vb nnp
+vbd vbn nn
+in dt jjr
+nns prp vbz
+prp cc vb
+in nn md
+dt nn uh
+vbp vbn rb
+vbd jj dt
+prp vbd wrb
+vbd rb nn
+vbn rb cc
+nnp dt nnp
+dt prp md
+rbs jj nn
+vbp rb dt
+vbd nn prp
+wp prp md
+rb rb nnp
+uh prp vbd
+wp dt nn
+in nnp nn
+nns vbd to
+vbn jj in
+nns wp vbd
+cc md vb
+md rb prp
+vbn in vbg
+vbn prp vbp
+prp nns to
+nn cc to
+md vb rp
+in nn vbg
+jj vbn in
+nnp in jj
+jj vbd prp
+vbd to nnp
+cc ex vbd
+cc jj jj
+nn in to
+nns cc vbg
+vbg in nnp
+in nns dt
+in vbg to
+vbp dt nns
+vbg dt nns
+jj rb rb
+vb rb to
+nn rb vbn
+jj nns jj
+vb dt nnp
+vb jj nn
+nn jj jj
+in in jj
+rb in nns
+nns dt nns
+nns wrb prp
+to nnp in
+dt jj dt
+jj nns vbn
+vb nn cc
+vbg nn cc
+cc cd nns
+pos nn dt
+vb prp vbz
+nnp vbg prp
+vbn rb prp
+nn nnp in
+jj cc nn
+nns to dt
+vbg prp rb
+vbz rb vb
+vbg vbn in
+rb vbg to
+cc rb vbg
+prp vbd vb
+vb rp prp
+dt nn cd
+in rb cc
+nns vbp prp
+rb prp jj
+in in nnp
+prp md prp
+vbg rp dt
+nnp vbd nn
+nns rb vbd
+vbn prp dt
+vbd cc dt
+vbn prp md
+cd nns cc
+vb rb dt
+cd nns vbd
+wp vbz prp
+cc in in
+nn md prp
+vb jj prp
+vbn prp prp
+nn nns vbd
+dt nnp rb
+cc nn nn
+in wdt dt
+prp cc nnp
+wp vbz dt
+nns rb cc
+wrb vbp prp
+rb jjr in
+prp nn wdt
+prp rb to
+pos nn rb
+vbn cc dt
+in nn wrb
+vbd in to
+vbg in jj
+jj in rb
+cc vbd jj
+prp vbg prp
+vb jj nns
+vb in rb
+dt vbz rb
+vbd cc rb
+vbz prp rb
+nns vbd vbg
+in vbg nns
+vbp prp dt
+nns vbp in
+nn in pdt
+prp vbz nn
+vbp prp to
+nns vbp vbn
+vbn dt nns
+nnp vbz rb
+vbz in nn
+vbn nn cc
+vbn in rb
+wp vbd in
+rb vb wrb
+vbn prp to
+wrb dt jj
+cc in nnp
+ex md vb
+in dt cc
+nn ex vbz
+prp nn wp
+prp md to
+nn vb dt
+vbn vbg in
+nns vbd nnp
+nnp nn cc
+rb in cd
+jj nnp in
+prp nnp prp
+nnp pos nnp
+nnp vbz dt
+in rb vbg
+prp prp rb
+vbz prp jj
+wrb jj prp
+cc vbd nn
+jj nn uh
+to nnp cc
+vbg rb prp
+dt nns vbg
+in to prp
+nn dt vbd
+nn nnp pos
+cd nns prp
+nn nn jj
+vbd wrb prp
+prp dt vbd
+wrb nnp vbd
+nnp nnp to
+vbd rb nnp
+wdt dt nn
+dt nnp dt
+rb nnp prp
+in prp wrb
+vbz nnp nnp
+rb rb vbg
+dt nns to
+rb vb wp
+vbd prp vbz
+nnp nn vbd
+vbn prp cc
+prp nn nns
+vb nns in
+nn vbg to
+in cc in
+vb nn to
+dt vbd rb
+nns in wdt
+nns jj in
+vbd nnp vbd
+wdt prp vbp
+cd jj nn
+nn prp in
+in dt dt
+wdt prp md
+dt jjs in
+nns to prp
+nnp wrb prp
+rb vbn nn
+cc rb vbn
+nn jj to
+vbn vbn to
+dt md vb
+ex vbd rb
+nn nn to
+nnp vbz prp
+nnp prp rb
+vbp prp jj
+vbz jj cc
+vb vbn jj
+to vb wrb
+vbd nn rb
+dt dt nn
+vbn nns in
+rb to nnp
+nn wdt nnp
+to vb vbg
+vbg nn prp
+prp nns nnp
+vbz jj prp
+nn wdt rb
+pos nns vbd
+vbn cc in
+jj nns md
+rb vbd nn
+nn vb in
+cc nns vbd
+in vbg vbn
+vb vbd nnp
+vbd nnp dt
+nn nn vbz
+in dt nnps
+prp vbn in
+vbz vbn dt
+jj nnp prp
+nn nnp rb
+cc jj dt
+vb in vbg
+vbd in nns
+nn jj prp
+md vb vbd
+dt jjr in
+jj vbg in
+nns wdt vbp
+vbn rb to
+vbz prp in
+rb vbn vbn
+nn nnp cc
+nns cc vb
+dt vbg in
+in dt vbp
+prp vbd wp
+rb ex vbd
+vbp nn in
+nn cc md
+nn rb nn
+vbd dt in
+jj rb cc
+vbd cd in
+rb vbd jj
+wrb prp nn
+cc rb vb
+ex vbz nn
+in vbg jj
+vbz jj to
+jj cc vbg
+rb vb nnp
+prp rb md
+rb nn vbd
+jj nns wp
+vbd in cd
+nns rb jj
+rb rbr jj
+vbn cc rb
+nn nns prp
+vbn jj nn
+nn cc wp
+vbg rb jj
+nn wdt nn
+prp jj to
+vbd rp rb
+vbp jj to
+in nn vbn
+dt nns md
+to vb wp
+vbn prp nns
+cc nn to
+cc vbg rb
+rb rb nn
+nn cc ex
+vb to nnp
+prp in nns
+rb nn cc
+vbg prp prp
+vbg rp prp
+nns in rb
+nnp vbz vbn
+vbd cc in
+jj nn ex
+prp dt nns
+jj prp rb
+rb vbg rb
+prp nns vbg
+dt jj vbn
+nn rb vbz
+prp rb vbz
+jj wrb prp
+nn nn wdt
+jj nnp nn
+nn dt rb
+rb vbz dt
+prp md in
+vbz prp prp
+in in in
+nns rb dt
+cc vb rb
+rb dt nnp
+rb md prp
+to nnp prp
+vbg rb cc
+rb vbp rb
+rb prp vb
+cd nns dt
+uh vbd nnp
+nn cc vbp
+vbd pdt dt
+vbz nn in
+nnp nnp vb
+vbn rb dt
+vbd vbg rp
+rp in nn
+to prp nnp
+vb vbn vbn
+dt prp nns
+pos nns in
+nn vbn to
+vbg jj in
+dt rbr jj
+nns prp rb
+vb prp wrb
+vbd to nn
+vbn nn prp
+vbz dt rb
+prp jj nnp
+rp rb in
+wrb vbd prp
+rp prp vbd
+vbd dt vbg
+vb in nns
+rp prp nns
+jj jj prp
+md vb vbg
+in nnp md
+rb vbd cc
+vb vb prp
+cc jj rb
+vbd nnp pos
+jj nn vbp
+jjs in dt
+dt nns wp
+nn pdt dt
+vbz vbn to
+cc rb to
+rb prp nns
+nn vbz to
+nn wp md
+rb vbn jj
+prp jj rb
+vbn to nn
+nns md rb
+vb nnp vbd
+vbz prp vbd
+dt jj to
+dt nns nnp
+rb vbz prp
+cc md rb
+nnp nnp wrb
+dt vbd prp
+in dt rbs
+jj rb to
+nn wrb nnp
+dt nns vbn
+vbd in cc
+vbg jj nn
+vbg prp to
+wrb nnp nnp
+nn in cc
+cc vbd vbg
+nn nnp nn
+nn wp prp
+in cd cc
+prp nns vbn
+prp vbz vbg
+vbd rp to
+in wrb prp
+vb cc rb
+cd nn cc
+dt vbg nns
+vbp prp vbn
+nn cd nns
+prp vb nnp
+vb dt in
+cc dt vbd
+vbz vbn rb
+cc dt vbz
+prp vb cc
+vbp vb prp
+vb nn rb
+vbn cc vbd
+in prp vbn
+vbd prp nnp
+nns vbp dt
+prp nn uh
+rb in to
+wdt nnp vbd
+nnp nn nn
+prp vb nn
+nn vbg rp
+prp nn vbp
+rp to dt
+in cd jj
+nn rb vb
+wdt vbd to
+dt cd jj
+jj vbg nn
+cc vbp prp
+uh prp md
+nnp vbg dt
+nns wp vbp
+rb vbd vbn
+in dt vbz
+pos nn nn
+pos nn nnp
+vb cc dt
+nn in vbn
+prp vbg rb
+in cc prp
+in nn vb
+vbg in nns
+vbg prp dt
+prp nns jj
+vbp cc prp
+vb pdt dt
+rb vbd rp
+jj cc vbn
+in vbn in
+cc rb nn
+cd cd nns
+nns cc nnp
+vbd vbg cc
+vbd cd nns
+vbp nnp nnp
+cc pdt dt
+rb vbn nnp
+prp dt in
+cd nn prp
+nn jjr in
+cc nnp cc
+rb vb rp
+jj prp in
+cc in rb
+jj jj nnp
+vbn rp prp
+nnp nnp jj
+nn dt cd
+nnp in in
+rb vbp in
+jj nn cd
+jj nns wrb
+nnp rb cc
+wrb dt nns
+vbp in jj
+cc vbd nnp
+vbp jj nns
+nns in cd
+vbg nnp nnp
+vbd rp cc
+cc rb cc
+nn dt prp
+nnp vbn in
+cc vbd cc
+md prp rb
+prp nns md
+rp dt nns
+dt cd nn
+vbn to nnp
+nns jj cc
+vbd nn dt
+vbz prp vbp
+wdt vbd jj
+vb vbg in
+vbd jj nnp
+vb prp vbg
+vb vbn rp
+cc rb nnp
+rb cc nnp
+jjs in prp
+nn vbz nn
+nns vbp jj
+vbd rb vbd
+in nnp vbz
+pos nns cc
+nn cc vbz
+prp cd nns
+cc nns prp
+prp vbd uh
+jj nnp cc
+nn wdt in
+vbd vb prp
+vbn in cd
+dt cd in
+to prp vbd
+nnp vbg rb
+nns wdt prp
+prp wp vbd
+dt in nn
+nn dt in
+dt nnp nns
+in nns wdt
+pos nn to
+rbr in dt
+wp prp vbz
+dt rb rb
+vbg jj nns
+nnp vbp prp
+vb vbd dt
+vbn jj to
+jj jj to
+nn nnp dt
+vbp prp nns
+vbp vbg to
+dt nns nn
+nnp cc vb
+prp vbg dt
+prp md cc
+cc vbn prp
+dt nns jj
+dt vbz in
+vbd dt jjs
+pos jj nns
+vb dt jjr
+rb vb vbg
+cd prp vbd
+rbr in prp
+prp vbd ex
+rb vbp dt
+vb cc in
+vbp rb vbg
+nns vb prp
+rb to nn
+vbg nn dt
+vbn cc jj
+in nn vbp
+nn nn md
+nns pos nns
+vbp in in
+vbn nnp vbd
+cc jj to
+prp vbp wp
+rb cd nns
+rb nn rb
+vb to nn
+dt jjs nns
+nn vb rb
+to nn dt
+in jj to
+nns jj nns
+nns pos nn
+prp in cd
+prp vbd rbr
+prp vb jj
+nn vbg nn
+rp to prp
+vbp prp cc
+nnp rb jj
+jj nns nn
+vb rb vbn
+vbd jjr in
+wrb rb prp
+vb dt rb
+vbp to prp
+nn prp prp
+prp prp jj
+prp vb vbn
+dt nnp vbz
+nn nnp vbz
+dt vb in
+dt vbz prp
+jj rb dt
+nnp rb dt
+wp md prp
+cc nnp in
+to jj nns
+cc cd in
+jj cc nnp
+wp vbd vbg
+vb jj rb
+wdt nnp nnp
+in vbg rp
+wrb to vb
+cd dt nn
+nn nn vbg
+nn prp cc
+vbn jj nns
+vbz to prp
+nnp jj nn
+vbg rb to
+prp rb vbg
+rbr jj nn
+wdt rb vbd
+cc dt in
+md vb nns
+nns vbg dt
+jj vbd rb
+rb cc vbg
+fw fw fw
+vb nnp in
+vbz in jj
+in cd rb
+vbp vbd dt
+in nns vbg
+nn jj rb
+vbd dt vbn
+vbd prp vbn
+cc nn nns
+cc nn nnp
+in rb vbn
+nn vbn rb
+nns vbd rp
+prp vbz nnp
+vbn rb vbn
+in in vbg
+nns vbd cc
+prp vbp nns
+vbd dt cd
+in vbg nnp
+jj dt nns
+vbg nns cc
+in vbn nn
+in jj rb
+prp dt rb
+vbn rp dt
+nnp rb vbg
+vbz prp dt
+prp dt prp
+wdt vbz dt
+in nn wp
+to vb cd
+vbn jj cc
+nn vbn nnp
+nnp in vbg
+rp to vb
+prp vbz cc
+vbp prp vbg
+vbg rb dt
+to nnp pos
+to vb vbd
+dt vbd in
+jj prp nns
+prp vbg nn
+cc jj nnp
+rb vbn rp
+vb vbn nn
+vbn vbn cc
+dt nn -lrb-
+to prp to
+wp vbz in
+cc ex vbz
+in in nns
+jj in to
+in prp cd
+in nnp to
+vb dt prp
+nn wp nn
+to nn rb
+rb cc jj
+dt rb in
+in vbg cc
+vb in cc
+in nn pos
+jj in cd
+nns vbg prp
+prp md nn
+wp dt jj
+in prp wp
+jj vbd in
+nn cd nn
+nn vbn prp
+vbz jj nn
+in nnp wp
+vb prp wp
+vbg nn vbd
+cc in vbg
+dt vbd nnp
+prp cc vbg
+vbp vbd nnp
+dt vbp in
+nn rb wrb
+vb jjr in
+nns prp nns
+vb prp vbn
+vbz prp vbz
+dt jj vbp
+jj jj rb
+prp dt nnp
+vbg prp vbp
+vbp jj cc
+wp vbz vbn
+nn prp dt
+nnp nnp vbp
+prp wp prp
+vb nnp prp
+prp cc nn
+nnp cc nn
+vbn dt nnp
+dt cd vbd
+rb cc nn
+cc vbg rp
+in prp uh
+jj to nn
+cd md vb
+prp to nn
+prp to nnp
+prp vbd jjr
+vbp vbn vbg
+in nns to
+nn in ex
+cc nn wdt
+dt prp vbz
+vbn in cc
+wdt prp nn
+in jj vbd
+jj cd nns
+jj md vb
+vbp vbg in
+cc nns dt
+in ex vbz
+nn jj nnp
+vbz prp vb
+cc jj vbd
+nnp nn dt
+prp dt vbz
+vb vbn nnp
+cc vbp rb
+prp nn ex
+rp prp jj
+cc dt rb
+prp vbp wrb
+rb wp prp
+rp in nnp
+vbz prp md
+dt cc prp
+dt vbz jj
+nn cd in
+vbz dt nnp
+nn vbg vbn
+rb jj vbn
+rbr rb in
+vbp in nnp
+vbn nn vbd
+nnp nn nnp
+rb md rb
+in nns vbn
+nns prp jj
+ex vbz rb
+nn vbg jj
+dt nnp md
+vbn nnp in
+wp vbd to
+cc vbg nn
+nn wdt dt
+cc nns rb
+nnp in rb
+nns dt nnp
+vbn nn dt
+dt vbn in
+nn nnp md
+prp vbg to
+prp vbn nn
+rb rbr in
+nn nn nns
+nnp dt nns
+rb prp prp
+dt jj vb
+nn jj vbd
+nnp rb nnp
+nns vbd nn
+rb dt rb
+vbd nn jj
+vbg cc prp
+vbg prp cc
+vbp jj nn
+cc wp vbd
+vb rb vbd
+vbn vbg prp
+in dt wp
+nn vbn cc
+nns ex vbd
+nns nns cc
+nnp vbz in
+rb wrb dt
+vbd wp prp
+vbz jj rb
+nns nn in
+jj vb prp
+prp pdt dt
+vbg to nnp
+vbz in in
+dt in nnp
+nn nns dt
+nnp nnp vbn
+prp uh prp
+vb vbg prp
+nn wp vbp
+wp nn vbd
+cc nnp pos
+nn wrb rb
+cc vb to
+cc wrb dt
+dt vbd jj
+rb cd nn
+rb dt vbz
+vb dt jjs
+in nns nnp
+in prp jjs
+prp cc wrb
+prp nns nn
+vbn vbn rb
+nn wrb jj
+prp vb rp
+wp nn prp
+in wp vbd
+jj nnp pos
+nn in vbd
+nn rb md
+in in rb
+in wdt nnp
+nns cc vbn
+rb nn nn
+vbp vbn jj
+nns vbg rb
+vbd rb rbr
+vbz vbn vbn
+in nnp wrb
+wdt md rb
+rb ex vbz
+ex prp vbd
+jj cc vb
+nn wrb md
+to jj nn
+vbd rb wrb
+wdt vbz prp
+cc nnp prp
+in nns jj
+nnp prp jj
+wdt vbz in
+in nn ex
+rb vbg nn
+vb rb nnp
+vbp prp nnp
+dt jjr nns
+vb vbd prp
+vbg prp md
+cc vb nn
+dt nns wrb
+jjr to vb
+nn nns rb
+uh prp vbz
+vbn nn rb
+wdt dt jj
+nn vbz nnp
+nnp wp vbz
+vbd nns cc
+vbg jj cc
+nn jj dt
+prp rb vbn
+cc vbg to
+in in cd
+rb uh prp
+jjr in nn
+cc dt prp
+in rb nnp
+dt nn -rrb-
+rbr jj cc
+vbd dt prp
+vbn nn to
+rp cc vbd
+dt vbn nns
+vbg vbn prp
+-lrb- in prp
+in cc dt
+nn dt vbg
+dt nnp vbg
+rb rb wrb
+rp in jj
+vbp rb to
+in nnp vbg
+nnp to dt
+vbd rb jjr
+nns nns nns
+vb dt cd
+vbd cd nn
+cc vbz prp
+dt rb vbn
+prp jjs nn
+vbp rb cc
+dt vbd vbn
+vbp vbn vbn
+md vb wp
+md vb wrb
+prp rp rb
+vbd dt jjr
+vbd nnp nn
+in vbd dt
+vbp nns in
+wdt vbz rb
+in rb vbd
+vbn in to
+in nns vbp
+nnp vbg rp
+jj prp jj
+nn vbd cd
+vb jj dt
+cc nn md
+jj vbd vbn
+vbn prp vbz
+vbz wp prp
+wdt in dt
+cc vb rp
+rb vb vbd
+nn vbp dt
+rb dt jjs
+nn vbz vbg
+ex vbd jj
+nn nn vbn
+prp prp nns
+vbd rb cd
+prp vbp vbp
+cc dt cd
+in prp wdt
+prp jj vbd
+vbd nnp vb
+md vb jjr
+md vb vb
+nn vbp vbn
+nnp jj in
+vbz jj dt
+cc wp prp
+cc in nns
+cc nn jj
+in md vb
+nn -lrb- in
+nn dt jjr
+wp vbd jj
+in cc vbd
+jj nns nns
+rbr cc rbr
+vbd rbr jj
+vbn nns cc
+jjr cc jjr
+jjs nn prp
+prp vbp cd
+jj rb vbd
+prp nnp nn
+nn nn cd
+vbz rb to
+md vb cd
+vbp vbn nn
+vbp wp prp
+prp ex vbd
+rb jj wrb
+vb in cd
+vbn wrb prp
+prp in to
+vb rp rb
+vbd prp wrb
+in dt vb
+in nnp jj
+in vbn nns
+nns wrb dt
+dt dt jj
+in jj vbg
+in nn cd
+rb nns in
+wrb prp rb
+dt prp jj
+in rb nn
+in vbd prp
+jj vb in
+nn nn wrb
+prp nnp in
+vb jj nnp
+dt rb cc
+nn vbp in
+dt rb prp
+in nn uh
+nn uh vbd
+dt nn rbr
+in rb to
+in wdt nn
+prp jj dt
+jj nn -lrb-
+jj to nnp
+vbd vbn vbd
+pos nns prp
+wp rb vbd
+vbp rb nn
+vbp vbg prp
+vbz in nnp
+nn to wdt
+nnp vb in
+nns jj nn
+nnp cc jj
+nnp nnp uh
+nns rb nnp
+nns rb vbn
+vb cc vbd
+vbz prp to
+wdt vbz vbn
+nnp vbp rb
+prp nns wrb
+rbs jj nns
+nn rb vbp
+nnp nn rb
+prp nn cd
+rb nn nnp
+rb pdt dt
+jj ex vbd
+cc md prp
+jj nnp dt
+pos nn vbz
+vb rp to
+vbd vbd prp
+jjr nns in
+nnp dt vbz
+nnp uh prp
+cc vb cc
+dt cd cc
+jj nnp rb
+nns nn cc
+prp rp cc
+wp vbz rb
+nnp wdt vbd
+in prp ex
+in vbd nnp
+jjs nns in
+vbp vbn cc
+wrb in dt
+cd nns jj
+prp vb vbd
+nns nns in
+vbg dt nnp
+vbp jj rb
+prp rb wrb
+vbd vbg nn
+vbz prp cc
+vbz wrb prp
+rb nn dt
+cc vbn to
+in cc rb
+nn in jjs
+vbd vbg jj
+in wdt vbd
+cc prp cc
+nns rb vbg
+prp jjr in
+nn nns vbp
+prp vbz vbd
+vbp to dt
+cc wp vbz
+vb nn dt
+vbg nn rb
+prp nns vb
+jj jj vbd
+vbg nn to
+vbg prp rp
+dt vbz wp
+in jjs prp
+nns rb vbp
+rb nn to
+wp jj nn
+cc vb jj
+pos nn md
+prp cc to
+rb jj vbg
+to prp vbg
+vb nn nn
+vbn pdt dt
+vbp dt nnp
+wrb vbz prp
+prp wp vbp
+uh nnp nnp
+wp in dt
+dt nns pos
+vbz nn prp
+jj jj dt
+rb vbg rp
+to dt rb
+to wdt prp
+vbd nn nn
+nn nn vb
+nn uh dt
+prp vbd pdt
+rb rb vbp
+rb vbp to
+to vb jjr
+in to nnp
+rb vbz in
+vbd ex vbd
+rbr prp vbd
+vbz vbn cc
+cd nn vbd
+nn to jj
+nnp nns in
+jjr in rb
+rb vbg cc
+vbd vbn nns
+nn uh rb
+nn vbg cc
+prp rp prp
+wdt prp rb
+nnp to prp
+rb vb nns
+vbn jj prp
+cd nnp nnp
+md dt nn
+nns cc vbz
+cc nnp rb
+jj vbg dt
+nn vbn rp
+md in dt
+to nns in
+uh rb prp
+cc nn vbp
+rb dt vbd
+rb nnp pos
+jj cd in
+nns in wp
+prp nnp cc
+vb rb nn
+cc nn vbz
+nnp nnp wdt
+vbg to nn
+nn rb rbr
+nnp nnp cd
+rb in pdt
+cc prp in
+prp vbp rp
+rb cd in
+cc cd nn
+cc dt vbg
+cc vbz rb
+nn wrb vbd
+nns rb to
+vbz nn to
+in nns wp
+jj nn -rrb-
+to nnp rb
+to prp wrb
+vb cc nn
+vb wrb jj
+vbg jj prp
+vbn rp to
+vbp vbd prp
+in wp nn
+vbg in rb
+jjr nn cc
+vbd nn vbd
+vbd nnp to
+vbz rb nn
+in jjr nn
+nn wp dt
+prp cd nn
+in cd cd
+vb jj jj
+cc vbd nns
+cc vbp dt
+dt jjs jj
+jjr prp vbd
+vbd dt rbr
+nn uh nnp
+vb rb vb
+in nnp nns
+vbz nn cc
+cc rbr jj
+jjr in jj
+nnp pos cc
+nnp to nnp
+vbn vbg dt
+dt in jj
+ex vbd nns
+vbd vbn wrb
+vbn vbn prp
+cc vbg nns
+dt vbd nn
+md prp vbd
+nnp vbz jj
+vbd prp wp
+vbg nns prp
+jj rb nnp
+md rb in
+vbp wrb prp
+vbz dt jjs
+vbz dt nns
+jj vbp prp
+nns in to
+to nnp dt
+vbd jj vbn
+wdt in prp
+nnp ex vbd
+nnp vbg to
+cd nns to
+dt to vb
+ex vbd in
+nn vbn dt
+cc prp prp
+nn vbd nns
+rb nnp in
+jj vbg prp
+jj vbn nn
+to dt in
+vbd cc nnp
+cc rb wrb
+dt nnp to
+nns wdt md
+to wp prp
+vb nns cc
+vbp cc vbp
+vbp nn to
+cc nnp md
+cd nn rb
+dt wp vbd
+ex vbd vbn
+vbn dt rb
+wdt nn vbd
+nn wrb vbp
+nnp in cd
+prp rp to
+rb dt prp
+rb cc wrb
+jj dt nnp
+prp nnp pos
+md rb cc
+prp vb wp
+nn prp nnp
+nn vbd jjr
+to vb pdt
+vb rp cc
+vbd vbd dt
+prp cc jj
+vbd uh prp
+prp wp vbz
+nn uh nn
+prp nns wdt
+to vb vb
+vb vbg dt
+vbg vbn dt
+wdt nn prp
+dt vbz wrb
+md in prp
+vbn rp rb
+nn rb ex
+rb dt cd
+cd rb in
+dt jj vbz
+nn dt vbn
+nnp cc vbg
+prp vbp ex
+rb vbg jj
+vbg rb vbn
+vbz to dt
+nn in wrb
+prp dt vbp
+uh nn prp
+vbp rb vbd
+nn nnp jj
+rp rb cc
+vbd nn nnp
+vbz dt prp
+cc in cd
+cc jjr in
+cc nns vbp
+in jjs in
+vbp vbn rp
+wdt vbd nn
+cc vbn rb
+jjs nn cc
+vbd rb wp
+vbz vbg to
+prp vb wrb
+rb wp vbz
+vb nnp pos
+vbn nnp rb
+vbp dt rb
+cd in nn
+dt jjr jj
+in nns md
+prp in cc
+vb wp vbd
+vbn nnp prp
+cd nn dt
+pos jj jj
+vb in to
+cc vbn dt
+in dt rbr
+in to nn
+nns nn prp
+prp vbg nns
+cc to dt
+in dt wdt
+in jjr in
+jj dt vbz
+nnp wrb dt
+prp md vbd
+prp nnp rb
+vbd jj vbg
+vbz vbg in
+-lrb- in dt
+cc vbg jj
+jj nns vb
+nnp pos in
+vb nn jj
+vbn rp cc
+dt cd rb
+dt nnp wp
+jj jj vbg
+jj vbz in
+vb wrb dt
+cc nn vbg
+cc vbn nn
+in nnp wdt
+nn cc pdt
+nns dt vbz
+rb cc vbn
+vbd nnp wp
+vbg rb vbd
+cc cd jj
+vbp nn prp
+vbp vbg rb
+jj vbz prp
+wrb dt nnp
+cc vbn cc
+nnp md prp
+rb wp vbd
+rbs jj in
+vbz rb cc
+vbp vbn nnp
+dt in rb
+dt vbp prp
+rb vb vb
+rb vbn vbd
+vbn vbn dt
+wdt nn in
+wp vbp vbn
+cc prp dt
+vbg nn nn
+nnp vbd cd
+prp rb rbr
+prp vbn prp
+prp vbp vbz
+rb prp nnp
+ex vbd cd
+nn rbr jj
+nn vbz cc
+to dt cd
+vbg cc rb
+in nns nns
+prp vbd md
+wp nn in
+-rrb- prp vbd
+prp md dt
+rb dt in
+vbd vbg vbn
+vbg cc jj
+vbn prp rp
+cc rb vbp
+vbz nn rb
+nn cd dt
+nn vb vbn
+nnp jj cc
+nnp rb vbz
+vbn vbd nnp
+jj vbg nns
+jj vbp in
+nnp cc wrb
+vb cd in
+vbn jj rb
+dt wp vbp
+nn wdt vbp
+nn wdt jj
+vbn vbg rb
+vbp in nns
+cd in nnp
+dt rbr prp
+nn nn vbp
+nns cc wrb
+nns dt in
+prp vb vb
+prp vbz cd
+vb wp vbz
+vbd cc jj
+wp in prp
+dt jj jjr
+in cd wp
+in vb prp
+jj vbg rb
+prp vbd vbp
+rb rbr rb
+vbd vbn cd
+jjr in cd
+wdt prp vbz
+dt nnps in
+pdt prp nns
+prp dt jjr
+to prp vb
+md vb rbr
+nnp pos prp
+nns vbp to
+rp cc prp
+wp md rb
+cd cc dt
+cd jj jj
+nnp nn vbz
+rb jjr nn
+vbg cc dt
+vbn vbn rp
+wdt vbp prp
+in cc vb
+nns jj prp
+prp ex vbz
+rp rb rb
+to nn nnp
+vb dt vbg
+in cd dt
+jjr nn prp
+prp jj vbg
+rbr jj to
+cd nn nn
+in nnp vb
+nnp vb dt
+vbn nnp cc
+vbp in rb
+nn nn wp
+nns nn nn
+vbg rp to
+vbn vbd prp
+nns nn vbd
+rp rb prp
+vbd jj vbd
+vbn dt in
+cd prp vbp
+jj in wp
+nn vb nn
+nns dt vbd
+rb vbz rb
+vb nnp cc
+vbn prp vb
+cc vbz in
+in in vbn
+nn nnp vb
+prp vbz jjr
+rb rb jjr
+vbd vbd in
+cd nn to
+in in to
+rb in vbn
+vbp jj jj
+vbp nnp vbd
+wp to vb
+cd cc prp
+nns wp md
+rp prp vbp
+vb vbn vbg
+vbd dt rbs
+nnp in nns
+vbn rb vbd
+jj prp prp
+jjr jj in
+nn vbd rbr
+uh nnp prp
+wrb nn vbd
+dt jjr prp
+dt nnp vb
+dt nnps vbd
+vbp jj dt
+cc dt jjr
+cc jj vbg
+in nnp vbp
+jj cc wrb
+jj vbd to
+nns vbn rb
+pos nn vbg
+vbp rb nnp
+vbp vbg dt
+vbz jjr in
+wp vbd nn
+nn -rrb- prp
+pdt prp nn
+vbn nn nn
+cc dt vbn
+cd rb prp
+nn rbr in
+rb vbd vbg
+vb cc to
+wrb jj nns
+jj nns pos
+nn in vbz
+nn wrb in
+nn wrb nn
+rb cc vbp
+vbz cc prp
+vbz vbn rp
+cc nns wdt
+md nn prp
+rb cc wp
+to nn nn
+vbd vbd rb
+vbp nn cc
+vbz dt in
+wrb prp nns
+-lrb- prp vbd
+nns nnp prp
+rb prp in
+vbn rb nnp
+cc rb md
+cc vbg cc
+dt vbg jj
+jj vbz dt
+nns cc to
+nns vbg to
+vbd cd jj
+vbd nnp jj
+vbn vbd dt
+wp vbp dt
+dt vbp dt
+in jj vbn
+nnp nns cc
+prp wdt vbd
+rb vbn nns
+vbd wp vbd
+wp nn vbz
+dt cc in
+dt jjs cc
+nns jj jj
+rb nnp cc
+jj rb nn
+nn dt jjs
+nn prp vb
+nns uh prp
+wdt vbd vbg
+cc rb vbz
+prp in pdt
+rb rb vbz
+rbs jj cc
+vbd dt vbz
+vbz cd in
+jjr jj nn
+vb prp cd
+nn dt dt
+nn wp rb
+nnp rb to
+prp cc md
+vbp cc dt
+wdt jj nn
+cc vbp in
+nn in jjr
+nns vbn to
+vb dt rbr
+vb vbn vbd
+vbd nnp uh
+vbz prp nnp
+vbz prp nns
+dt vb prp
+rb in cc
+rb vbn vbg
+vb cd nns
+vb nns rb
+vbz rb vbg
+vbz vbn jj
+wp vbp rb
+pos nn wrb
+rb dt jjr
+rb rb wp
+vbg in cd
+jj nns ex
+nn nnp wp
+nnp pos rb
+nns cc cd
+nns to nnp
+nns vbd nns
+vbn cc nnp
+vb vbg rb
+vb wp dt
+vbd dt vbd
+vbg wrb prp
+vbn prp nnp
+vbz vbn nn
+dt vbn jj
+dt vbn cc
+jj prp cc
+rb prp dt
+vb nns prp
+-rrb- in dt
+dt nn jjr
+in cc nn
+nnp rb nn
+rp in in
+vb nnp rb
+vbn jj jj
+-rrb- in prp
+in cd prp
+in dt md
+in nns nn
+vb nnp dt
+vbd prp cd
+cc rb ex
+cc wrb md
+nn rb cd
+nnp nnp nns
+nnp pos vbg
+prp md vbn
+prp wrb dt
+rbr jj prp
+vb nn nnp
+dt cc dt
+dt in in
+nns vbg rp
+pos nn wdt
+jjs prp vbd
+rb prp cc
+rb vbp vbn
+rbr nn in
+vbg vbn to
+wdt vbz jj
+dt rb rbr
+jj vbn to
+nn in vb
+nnp jj prp
+rb nn vbz
+uh vbd dt
+vbd rp nnp
+-lrb- cd -rrb-
+cc nnp dt
+nn nns nn
+nn vb rp
+nn vbg nns
+pos nn jj
+in ex md
+prp nns wp
+rb nnp rb
+rp in nns
+dt md rb
+dt nn rp
+nn nns vbg
+prp nn -lrb-
+prp vbn rb
+vbd nnp wrb
+cc vbz dt
+jj jjr in
+rb vbg vbn
+vb nn vbd
+jj nnp vbz
+jj nns cd
+jjs jj nn
+nn to wp
+rb rb md
+vb prp ex
+dt nns vb
+in cd vbd
+nn ex md
+nnp rb vbn
+prp dt cd
+rb dt vbg
+to dt jjs
+vbg vbn rb
+vbz pdt dt
+wp vbz to
+cd pos nn
+dt nnp jj
+nn -rrb- cc
+nnp nnp -lrb-
+nnp nns vbd
+pos dt nn
+prp cc vbn
+to cc nn
+vbg nns vbd
+vbp cc in
+ex in dt
+ex vbp nns
+jj vbp rb
+rb in ex
+vbp dt in
+vbz jj nnp
+cc vb nnp
+cc wrb jj
+dt cd prp
+dt vbd to
+in pdt prp
+nn rb wp
+nnp nnp ex
+nns wdt rb
+vbd vbp prp
+vbz in rb
+wp vbd nnp
+cd nns nnp
+cd nns pos
+cd to vb
+nnp wp prp
+to dt prp
+vbg nnp vbd
+in prp jjr
+vbd vbg nns
+jj vbd jj
+md rb nn
+nn nns jj
+nn wp in
+rp prp md
+vbd vbg nnp
+vbn nns prp
+nn -rrb- in
+nn cc jjr
+vbd rb nns
+cc nn wrb
+cc wp md
+jj rb vbg
+jj vbn prp
+nnp ex vbz
+uh dt nn
+vbp nn rb
+cd wp vbd
+md prp md
+vbg pdt dt
+dt nnps cc
+jj nns vbz
+md rb to
+nn to nns
+prp cc wp
+to pdt dt
+md prp vbp
+rb jj cd
+vbd rp jj
+wrb md rb
+cc to prp
+jj nnp md
+nn cd nnp
+pos nnp nnp
+rb rb ex
+vbg cc in
+cd vbd rb
+fw prp vbp
+nn nns nnp
+nns vb in
+prp rp dt
+vb rp nn
+vbd jjr cc
+vbd wrb dt
+vbg nnp in
+vbg rp cc
+wp prp nn
+cd cd cd
+jj jj vbn
+jj rb vbn
+nn nns wdt
+vbn in pdt
+in rb cd
+nn dt rbr
+nn wrb vbz
+nnp prp nns
+vb vb dt
+vbn nn nnp
+cc vbn rp
+nn pos rb
+nn vb jj
+pos nns rb
+prp nnp vbz
+prp vbp uh
+vbd nns rb
+wrb ex vbd
+dt dt nns
+nn vbd vbd
+nns vbn cc
+pos nns dt
+to vb vbz
+nnp rb vb
+nns in vbn
+prp cc vbp
+prp in wp
+vbg prp vbz
+vbn cd nns
+nn fw fw
+nnp dt rb
+sym sym sym
+uh in prp
+vbd cc nn
+wp nnp nnp
+nnp vbz nnp
+rb cc ex
+vbz cc dt
+vbz nn nn
+dt jj pos
+jj nnp wp
+nnp nn to
+nnps in dt
+nns to nn
+nns vbn prp
+rb nnp md
+rp in rb
+vbd in ex
+cd prp md
+dt nnp wrb
+dt prp rb
+nnp nns prp
+to nn vbd
+uh cc prp
+vbd vb in
+wrb in prp
+dt jj wp
+dt nn pdt
+in jjr nns
+nn -lrb- prp
+nn nnp vbg
+nns jj to
+rb in wp
+rb vbg nnp
+to dt vbg
+vb rbr jj
+vb vb in
+vbd rbr in
+vbn nnp pos
+cc nnp vbz
+cc nns to
+cd dt jj
+dt rbr in
+nn vb cc
+prp vbg jj
+rb nnp vbz
+vb cc nnp
+vbg nnp pos
+vbn ex vbd
+dt nns nns
+dt vbz nn
+nn cd jj
+nnp pos dt
+prp vbp jjr
+rp nnp nnp
+vb in ex
+vbz nnp prp
+cc dt jjs
+in jj vbz
+nnp pos vbd
+prp vbg rp
+rb cc md
+vb prp uh
+vb rb vbg
+vbg nns dt
+vbz cc vbz
+vbz vbg prp
+wrb prp jj
+cc vbg vbn
+jj wrb dt
+nn pos in
+nnp cc to
+rb rb uh
+rb vbd cd
+cd vbd dt
+in nns pos
+jj cc md
+nn -lrb- dt
+nnp in wp
+prp vbg cc
+rb vbd wrb
+vb cd nn
+vb rb wrb
+vbg prp nnp
+dt cc rb
+nn vb vb
+nnp cc wp
+nns cc vbp
+prp nns nns
+prp vbn nnp
+vbd rbr rb
+vbp cc rb
+cc nns vbg
+jj uh prp
+jjs nn to
+prp nn -rrb-
+prp nnp dt
+vbd vbd nnp
+vbn to jj
+wp nns vbd
+in cd pos
+jj cc to
+nnp jj nns
+nns cd in
+rb jj vb
+rb vbg nns
+vb dt vbz
+wp prp rb
+dt vbp rb
+nns pdt dt
+prp vbn to
+rb rb rbr
+vbg nn nnp
+cd vbd in
+dt nnp nnps
+in wp dt
+nn rp in
+nn vb to
+vbd in vbn
+vbz in vbg
+cc prp nnp
+nn -rrb- vbd
+nnp prp prp
+prp jjs nns
+to nnp vbd
+jj vbd nn
+jjr in nnp
+rb nns cc
+vb ex vbd
+vbz nn jj
+wdt vbd nnp
+in nnp cd
+jj cd cc
+jj to jj
+jjr rb in
+nnp wp md
+vb jj vbd
+vbd wrb jj
+vbg dt rb
+wdt vbp in
+wdt vbz to
+cc nnp vbg
+cc wp vbp
+in dt wrb
+jjr dt nn
+nn ex vbp
+vbg prp vb
+vbz jj nns
+cc cd cc
+cc vbp vbn
+ex vbp dt
+nn nns to
+nn vbn nn
+nnp vbd uh
+rb rbr prp
+vbg in to
+vbg nn wdt
+vbn vbd rb
+vbp vb in
+cc vb wp
+jj in cc
+nnp vb rb
+nns dt rb
+prp wrb rb
+to prp wp
+to vb uh
+vbn jj dt
+vbp vbn nns
+wdt vbp rb
+wrb rb dt
+dt rb dt
+ex dt nn
+jj vbz rb
+nns cc ex
+nns nn rb
+nns vbp cc
+cc in wp
+jj nn rbr
+nns vbz rb
+prp vbg vbn
+vbd jj wrb
+in vbn prp
+prp nn rp
+rb cc to
+uh prp nn
+uh vbd prp
+vbz jj jj
+cd nns vbg
+dt vbg rb
+nnp jj nnp
+nns rb wrb
+vbd ex in
+vbp jj nnp
+vbp nnp prp
+wp vbp in
+wp vbz jj
+cd nns vbp
+nns vbg cc
+nns vbg jj
+rb jj vbp
+vb cc jj
+vbz jj vbd
+vbz vbd nnp
+cc vb vbn
+jj in pdt
+nn rb uh
+nn vbd wrb
+uh dt prp
+vb in pdt
+wdt vbp dt
+in rb vb
+in wp vbz
+jj vbn cc
+jjr nn vbd
+nns dt cd
+pos prp vbd
+prp dt cc
+prp prp prp
+rb vbz nnp
+vbd prp jjr
+vbn nns vbd
+cd in jj
+jj nnp nns
+vbd cd cc
+vbn rb nn
+vbz rb cd
+cc in to
+cc nn wp
+dt dt vbd
+dt nns vbz
+jj vbg jj
+nnp wdt vbz
+vbd vbn pdt
+wp jj nns
+in rb wrb
+in vbd rb
+in wrb dt
+nns cd nns
+prp nns uh
+rb nnp nn
+rb wrb md
+uh prp rb
+vbd dt vb
+wdt vbp vbn
+wp nnp vbd
+wrb jj dt
+in nns wrb
+jj nns uh
+jjs to vb
+md cc prp
+nn rb jjr
+prp dt dt
+vbd cc wrb
+vbd vb dt
+vbg rp rb
+vbg wp prp
+vbn dt cd
+vbn vb prp
+vbp to nn
+cc in ex
+cc prp vbg
+cc wrb rb
+jj md prp
+jj wp vbd
+nn cc wdt
+nns md prp
+vbg dt in
+vbg rb nnp
+vbz rb nnp
+cc nn vbn
+dt nnp vbp
+dt vbg cc
+md prp nn
+nn nn pos
+nn nns nns
+nns cc md
+pos in dt
+vbg in cc
+vbg jj to
+vbz cd nn
+wrb rb jj
+cd nns vbn
+dt cc vbd
+dt jj wrb
+dt rb nns
+dt rb vbg
+jj nn pdt
+to prp vbp
+wdt dt nns
+nn vbp jj
+nn wdt nns
+prp nns pos
+prp vbd vbz
+to jj prp
+vbz rb vbd
+wdt nn md
+wdt nn vbz
+cc in wdt
+nnp vbd vb
+nns cc wp
+prp wp md
+rb nn jj
+rb nnp dt
+rb uh rb
+rbr prp vbp
+vbd dt vbp
+vbg jj jj
+vbn jjr in
+wrb in nn
+dt jj md
+nn uh in
+prp dt rbr
+to nnp to
+uh dt vbz
+-lrb- dt nn
+dt nnp wdt
+in cd md
+jjs prp md
+nn ex prp
+nn prp to
+nnp cc vbp
+prp rb wp
+rb vbp nn
+vbp in vbg
+dt rb jjr
+jj cc wp
+jj dt rb
+nnps prp vbd
+rb jj uh
+rb vbd vbd
+vbn rb vbg
+dt rb vbd
+in nnp ex
+jj in vbd
+nn pos cc
+nns nns vbd
+rb wrb jj
+rp nn in
+vb nnp vb
+cc in jjs
+in nn -rrb-
+jj dt vbd
+jj nnp vbg
+nns nnp cc
+rb vbd nns
+rp to nnp
+uh rb rb
+vbg vbd prp
+vbz vbn vbg
+in vbn to
+jj vbd rp
+nn cd vbd
+nns vbg nn
+nns wp prp
+prp wrb jj
+vb in vbd
+vb in wp
+vb prp jjr
+vbd cc vbg
+vbg cc nn
+dt cd nnp
+jj in ex
+jj md rb
+jj vbn rb
+nn dt vbp
+nnp vbz to
+nnp wp nn
+nnp wp vbp
+nns vbg vbn
+prp nnp md
+prp vbn nns
+to nnp wp
+vbg cc vbd
+vbn cc wrb
+cc nns vbn
+cd wp vbz
+jj cd prp
+nn pos dt
+nnp wp in
+prp cd in
+rb cc vbz
+rb vb jjr
+rp cc vb
+uh uh prp
+vb dt vbn
+vbg nns rb
+cc wp nn
+cd cc rb
+cd vbd vbn
+in dt to
+in nnp vbn
+nnp nn jj
+prp vbz vb
+rb dt vbn
+rb nn wdt
+rb rbr cc
+rb wp vbp
+vbd in vbd
+vbd md vb
+vbz vbd dt
+wp nns prp
+cc vb nns
+dt jjr cc
+dt jjs prp
+nnp nn md
+prp vbz rp
+vbd rp nn
+vbz vbg rb
+jj nn jjr
+nn nns vbn
+nn vbg nnp
+nns rb nn
+nns vbp nn
+pos nn wp
+prp vbp md
+vbp dt vbz
+vbp jjr in
+wdt vbd rp
+cd vbz rb
+dt vbg prp
+md nn in
+nnp jj jj
+nns in pdt
+pos nn vb
+prp vbz nns
+vb wrb rb
+vbd rb uh
+vbn to nns
+jj cc ex
+jj pdt dt
+nn vbd vb
+nns wdt nnp
+vbz nn dt
+cc vbd cd
+dt vbg nnp
+dt wdt vbd
+in cd vbz
+in prp pdt
+nn cd cc
+nn wp jj
+nnp vbp vbn
+nns nnp in
+rb vbz to
+vbd in wp
+vbd wp vbz
+vbg nn jj
+cc nn vb
+dt nn fw
+in vbz prp
+nn dt md
+nnp vbz nn
+rb vb cd
+to cd in
+uh vb prp
+vbp nn nn
+cc nns jj
+cc wrb in
+jj vbg to
+jjs in nns
+nn prp vbg
+nnp prp in
+rb wrb rb
+vb dt vb
+vb vbp rb
+vbp rp in
+vbp vb dt
+cc wp in
+in vbg vbd
+jj ex vbz
+md cc vb
+nn uh cc
+nnp cd in
+nnp dt prp
+nns jjr in
+prp cc ex
+rb jj md
+rbr jj nns
+vbn cc vbg
+vbn vbg to
+cc nnp vbp
+cc wdt vbd
+cd nn nns
+dt dt vbz
+dt in nns
+dt vbg dt
+nnp vbd vbd
+pos nn vbn
+rb jj vbz
+rb nns prp
+wp vbz nn
+wrb rb in
+cc rb rbr
+dt vbz to
+nn jj vbg
+nn nnp vbn
+nns in cc
+prp rbs jj
+rb nn md
+rb vbn wrb
+rp cc dt
+vb md vb
+vb rp nnp
+vbp dt jjr
+cc ex prp
+jj vb dt
+nn wp nns
+prp jjr nn
+prp vbn dt
+rb in vb
+to nnp nn
+vbn cd in
+vbz nnp vbd
+wrb vbd dt
+cc in pdt
+cc vbz vbn
+cc wrb nnp
+cd md rb
+dt dt prp
+nn -lrb- rb
+nn vbn jj
+nnp in wdt
+nns rb vb
+rb rb cd
+vb ex vbz
+cc nnp nn
+cc rb cd
+cd in cd
+jjr nn dt
+nn in nnps
+nn nn uh
+nns vbp vbg
+prp rb uh
+prp wrb md
+rb nns vbd
+rb wrb nnp
+uh nnp vbd
+vb vbn wrb
+dt wrb prp
+jj dt in
+nn cd md
+nn nns md
+prp prp in
+prp rb nns
+wp in nn
+cd cd cc
+cd nns cd
+dt rb nnp
+in nns vbz
+in rb jjr
+jj vbg cc
+nnp vbg nn
+nnp vbn prp
+nns nnp rb
+nns vbz dt
+prp dt vbn
+rb jj wp
+vb vbn nns
+dt vbp nn
+ex md rb
+ex prp vbp
+ex vbz cd
+jj cc vbz
+jjr cc rbr
+nn pos vbg
+nn vb nnp
+rbr in nn
+vbn in wp
+cc nns nnp
+cd nns wp
+nn vbz rp
+nnp cc ex
+nnp vbd nns
+prp jj vb
+vbg nns to
+vbn dt prp
+dt nnp vbn
+dt vbz vbn
+in nnp uh
+jj rb wrb
+nnp dt vbd
+nnp vbg jj
+nnp wrb md
+prp jj vbn
+prp jj vbz
+prp vbz rbr
+vb nns to
+vbd vb rb
+vbp ex vbz
+jjr jj nns
+nn nn ex
+nnp prp dt
+prp prp cc
+to nns cc
+vbn nn wdt
+vbn nns dt
+vbp vbp prp
+cc dt md
+ex vbp jj
+ex vbp rb
+fw prp vbd
+prp uh dt
+rp cc in
+vb dt dt
+vbd prp jjs
+vbn nn jj
+vbn wp prp
+vbp nns cc
+cd rb jj
+dt rbr nn
+in vbd vbn
+nnp pos vbn
+nnp vbd wrb
+nnp vbg cc
+nnp vbg vbn
+uh in dt
+vb dt vbd
+wdt prp jj
+cc dt dt
+jj wdt vbd
+nns vbp nns
+rb in vbd
+to in dt
+vbd prp ex
+vbz rp in
+in nn -lrb-
+jj vbp dt
+prp in ex
+prp in jjs
+prp in vbn
+rb vbd vb
+vbd nns prp
+vbd rbr vb
+vbn vbd vbn
+vbp jj vbd
+cc vbn nns
+jj in vbn
+md vb pdt
+nnp jj vbd
+nns vb dt
+pos nn nns
+vb vbg to
+vbd cc vbn
+vbd rp vbg
+vbn prp vbg
+vbp to nnp
+wrb nns vbd
+nns vbn rp
+prp dt jjs
+prp in vbd
+prp vb vbg
+rb vbp jj
+vbd cc vb
+vbd prp uh
+vbg vbd dt
+vbg vbn cc
+vbn nnp dt
+vbp cd nns
+in vbd in
+jjs prp vbp
+nnp nn wdt
+nnp wdt prp
+rb in jjs
+rbr dt nn
+vb prp jjs
+vb wp nn
+vbg dt prp
+-rrb- dt nn
+cc rbr in
+cc wdt prp
+dt vb dt
+ex vbd nnp
+in vb in
+jj rb vb
+nnp vbn nnp
+vb cc wrb
+vb uh prp
+vbd to vbg
+vbg jj dt
+vbp rb wp
+wrb nn vbz
+nns in vbd
+rb in wrb
+rb jjr to
+vb vbn rbr
+vbd to jj
+vbg rb vbg
+vbp dt prp
+wrb vbz dt
+dt vbn nnp
+fw dt nn
+jj in wdt
+nnp prp nnp
+nns vbg nns
+to prp md
+vb nnp nn
+vbg in vbg
+vbz in nns
+wdt rb prp
+cc wp dt
+cd nn nnp
+cd nns nn
+jj vbn dt
+md rb vbd
+nn vbd ex
+prp dt vbg
+vbz prp vbn
+vbz vbn nnp
+wdt vbd cc
+wrb vbp rb
+cc jj vbn
+cc wrb vbd
+nn jj vbn
+nnp vbn rb
+nnp wp rb
+nns wrb nnp
+prp nns vbz
+rb jj ex
+to nns prp
+vbd nnp vbz
+wrb jj nn
+cc ex vbp
+ex vbz jj
+jj cc vbp
+jjr prp vbp
+jjs nn dt
+nns jj rb
+rp cc rp
+vbz dt vbg
+dt cd cd
+jj wp prp
+jjr in in
+nnp nn wrb
+nnp vbd wp
+nns vbz prp
+to prp uh
+vbd wp dt
+vbp dt jjs
+cc nnp wp
+dt vbg to
+in cd to
+md dt jj
+rb wp md
+dt cd wp
+dt vbz nnp
+jj nnp jj
+nnp rb md
+pos dt jj
+pos in prp
+vb prp rbr
+vb wrb to
+vbd vbn ex
+vbn cc nn
+vbn nns rb
+vbn rb rbr
+dt nnp cd
+dt nnps prp
+fw fw nn
+jj prp dt
+nn rb nns
+nns cc pdt
+nns ex vbz
+nns nn nns
+nns nnp pos
+vb vbp prp
+in in pdt
+jj wp vbz
+nnp vbz vbg
+prp md jj
+rp to nn
+vbd dt dt
+vbz dt cd
+wp vbz nnp
+in jj vb
+jj nn fw
+jjs nn vbd
+nnp nns vbp
+nns wdt dt
+pdt dt nnp
+prp vbz wp
+rb vbz nn
+vb wp md
+vbd rbr cc
+vbd wrb rb
+vbg nn vbg
+cc prp vb
+dt nns uh
+jj pos nn
+prp -lrb- in
+rb cd cc
+rb vbd wp
+to vb wdt
+vb dt cc
+vbd nn wdt
+vbg nnp prp
+vbz nns in
+wrb jj in
+cc vb wrb
+dt cd md
+dt rb jjs
+dt to prp
+jjr nn rb
+nns nn dt
+prp vbg nnp
+rb dt rbs
+rbr vbn in
+to nnp wrb
+to vbg prp
+wrb jj cc
+cc cd prp
+cc rb jjr
+dt vbn prp
+jj vbn nnp
+nn nnp vbp
+nns wdt in
+nns wp vbz
+pos nns nnp
+rb dt rbr
+rb jjr cc
+vb jjr nn
+vb nnp to
+vbg vbn vbn
+cc rb nns
+cc vbg nnp
+cd cc in
+cd nns wdt
+cd vbz in
+dt jjr dt
+in in ex
+jj dt cd
+jj jj vbp
+jj wrb jj
+jjs dt nn
+md nnp nnp
+nn cd prp
+nn rbr rb
+prp nn jjr
+rb vbz jj
+wdt md prp
+-rrb- prp vbp
+cd vbn in
+in wdt in
+in wdt jj
+in wp nns
+jjr nn to
+nn dt nnps
+nnp cd nns
+nnp in nnps
+nnp rb vbp
+nns vbd rbr
+to dt vbn
+vbd nn nns
+vbn uh prp
+wdt to vb
+cc cd rb
+cd to dt
+in ex vbp
+nnp cc md
+nnp rb wrb
+nnp uh vbd
+prp md nnp
+prp uh rb
+prp wdt prp
+rbr rb prp
+vb vbd rb
+vbn in vbd
+vbn wrb dt
+vbp nns rb
+vbp pdt dt
+cc in cc
+cd vbd prp
+dt rbr rb
+dt wdt prp
+in dt ex
+in jjs dt
+nnp cc nns
+nnp cc vbn
+nnp pdt dt
+nns wrb jj
+pos jj cc
+prp prp dt
+prp vb nns
+rbr vb prp
+rp nnp vbd
+rp rb dt
+vb rb wp
+vb vbd in
+vbd in wrb
+vbn rb cd
+vbp dt cd
+vbp in to
+vbp nn vbd
+vbp nns prp
+vbz prp vbg
+dt vb cc
+in vbz in
+jj cd nn
+nn wrb nns
+nnp dt cd
+nnp dt in
+nns vbn dt
+rb wrb vbd
+rp prp vbz
+vb rp jj
+vbd rb ex
+vbz cd nns
+cc nns md
+cd prp vbz
+in prp rbs
+jjr cc prp
+nn md nn
+nn pos prp
+nnp in to
+pos rb jj
+rb cd jj
+rb nnp vb
+to vb ex
+vbd nnp md
+vbz dt rbs
+vbz ex dt
+wdt in nn
+in jj vbp
+jj dt prp
+nn -rrb- dt
+nn cd vbz
+rb rb nns
+rb to jj
+vbd ex vbz
+vbn dt jjs
+vbp rb wrb
+wdt rb vbz
+ex in prp
+in wp md
+jjr nns cc
+jjr to prp
+nn md to
+nnp prp cc
+nnp rb uh
+nnp vbp dt
+nns vb rb
+prp jjs in
+rp cc rb
+vb rb jjr
+vbd in jjs
+vbd vbd vbn
+vbg nnp cc
+wp vbp jj
+cc jj wrb
+cd nns md
+dt rbr vbd
+nn cd cd
+nn md in
+nn nns wrb
+nns cd nn
+nns dt vbg
+nns wdt nn
+prp nns ex
+prp vbp rbr
+rp rb to
+in cc nnp
+md prp prp
+nn uh uh
+pos nnp in
+prp nnp nns
+prp nns cd
+rbr prp md
+to prp vbz
+vbd nn vbg
+vbg cd nn
+vbg prp vbg
+vbn rp nn
+vbn vbn jj
+vbz cc rb
+cc vbd wrb
+cd cd dt
+cd rb cc
+dt nns ex
+md in nn
+md rb dt
+nns nnp nn
+pos cc prp
+prp uh vbd
+rb wdt vbd
+rb wp dt
+to nn wdt
+uh in nn
+vbd cc cd
+vbp nnp in
+cc dt vbp
+in vbd jj
+nn -lrb- nn
+nn uh vb
+nnp jj to
+nnp prp vb
+nns dt jjr
+rp jj nns
+to in prp
+wdt prp nns
+dt cd to
+dt vbp cc
+in jjs rb
+jj cc nns
+pdt dt rbr
+prp in wdt
+vb nn vb
+vbg rb nn
+vbp cc nn
+vbz dt jjr
+vbz nnp in
+vbz vbg dt
+wrb jj vbd
+cc dt rbr
+cc vbn jj
+in prp -rrb-
+nn md dt
+nns jj dt
+nns jj nnp
+pos nnp cc
+prp jjs to
+rbr cc prp
+vbn md vb
+vbn vbd in
+vbp md vb
+vbz cc in
+wp nns vbp
+wp vbz vbg
+in jj cd
+nnp wrb jj
+pos nnp prp
+prp cc vbz
+prp uh nnp
+rb nn vbp
+rb uh dt
+rb uh nnp
+to dt cc
+to vb md
+vb vbn cd
+vbd dt cc
+vbd md prp
+vbd nnp vbn
+vbd nns to
+vbg jj nnp
+vbn in vbn
+vbn prp wrb
+wdt jj nns
+wdt nn cc
+wrb nns vbp
+dt cd vbg
+dt in cd
+in jjs nns
+jj nns -lrb-
+jj vbz cc
+nn fw prp
+nn in md
+nn prp vbn
+nn rb wdt
+nnp nn vbg
+nnp uh rb
+pos nns vbp
+rb nn vb
+rp in cd
+vb rbr in
+vb to jj
+vbn cc vb
+vbp in cd
+cc jjs in
+cc prp wp
+dt in vbg
+dt jj nnps
+ex vbd to
+jj nnp to
+nnp wrb nnp
+prp wp dt
+prp wrb nnp
+rb vbn cd
+vb cc vbg
+vbd cc wp
+vbn nnp vbg
+vbp prp rp
+vbp prp wrb
+vbp rb nns
+wrb rb rb
+dt cd vbn
+nn -lrb- cc
+nnp jj rb
+nnp vbd rbr
+nns to wdt
+pos nn vbp
+prp vbn cc
+rb vbz vbn
+to dt jjr
+vbd vbn wp
+vbn dt jjr
+vbn rb wrb
+dt cd vbz
+dt in wdt
+in prp -lrb-
+jj prp to
+jjr prp md
+nn vbz cd
+nns dt prp
+vbd nn jjr
+vbd nn wrb
+vbg cd in
+wdt vbz nn
+cc dt nnps
+cc vbd ex
+cd nnp vbd
+dt jj wdt
+in nn jjr
+in vbg wp
+nn dt rbs
+nn nn -lrb-
+nnp cc vbz
+nnp cd nnp
+nnp nns rb
+nns nn nnp
+nns nnp vbz
+prp vbn jj
+rbr jj dt
+rbr jj rb
+vbd vbn rbr
+vbz nnp cc
+vbz vb prp
+wdt nnp md
+wp nn md
+jj cd dt
+nnp wp dt
+nns vbz vbn
+rb nn nns
+uh nn vbd
+vb md prp
+vbn jj nnp
+wdt dt nnp
+cc wrb vbp
+dt rbr cc
+in nns vb
+in vbn dt
+jj in md
+jj vbn rp
+jj vbp cc
+jjs nn nn
+nn nnp nns
+nn wrb ex
+nns wrb md
+pos nn ex
+prp prp nnp
+rp nns in
+vb in wrb
+vbn cc wp
+wdt rb rb
+cc rbs jj
+cc vbp nn
+in wp nnp
+jj cd rb
+nn jjr jj
+nn nns wp
+nn vbd pdt
+nnp uh nnp
+vb wp to
+vbd cc md
+vbn rbr jj
+vbp nn dt
+vbz nnp rb
+wrb rb vbd
+cd vbd to
+dt nns cd
+jjr nns prp
+jjs nn rb
+nn nnp wrb
+nn prp wp
+nnp jjr in
+nnp vbp in
+nns vbd cd
+prp nnp jj
+prp vbz pdt
+vb vb rb
+vbd nnp vbp
+vbd nns dt
+vbd prp rbr
+vbd vbd jj
+vbp prp wp
+vbp rb cd
+cd rb dt
+in jjs jj
+in wdt rb
+nn to cd
+nnp cd nn
+nnp vbd ex
+to nn jj
+uh dt vbd
+vb vbg jj
+vbd rb vbp
+vbd vbp rb
+vbg nnp rb
+vbz nnp dt
+vbz rb wp
+cc nn pos
+cc vbd vb
+cc vbz to
+jj prp nnp
+md nns vb
+nn pos vbn
+nn vbz wrb
+nns dt vbn
+rb wrb vbp
+rbs jj jj
+rp nn cc
+rp nn prp
+to vb rbr
+vb jj wrb
+vb rb rbr
+vb vb cc
+vbd rp vbd
+vbp rp dt
+wrb dt cd
+wrb vbd rb
+cc nns wp
+cd dt nnp
+cd nn wrb
+dt nnp uh
+dt vbd cc
+jj wrb md
+jjr in nns
+jjs cc jjs
+nn dt vb
+nnp wrb rb
+nns wdt vbz
+prp nn rbr
+rb in jjr
+uh vbp rb
+vbp nnp cc
+vbz nnp pos
+cc vbd wp
+dt dt nnp
+dt vbn to
+in rb ex
+in wp jj
+nn vbd wp
+pdt dt in
+prp jj wrb
+prp vb uh
+to prp wdt
+vb nn wrb
+vb rb vbp
+wrb ex vbz
+cd rb rb
+in jj wrb
+in vb dt
+jjs nns cc
+nn vbp nn
+nns wp nn
+pos nn uh
+prp cc nns
+prp nnp vbp
+prp wrb vbp
+rb dt vb
+rbs jj to
+to nn to
+uh rb in
+vb prp pdt
+vbd nn vbn
+vbd nns vbd
+vbp vbg nn
+vbz in cd
+vbz rb jjr
+in vbn cc
+nn pos nnp
+nn vbz ex
+nnp nns dt
+nnp vb nn
+nns nnp md
+nns to jj
+pdt prp jj
+prp cd jj
+prp rbr rb
+prp vbz wrb
+rb nns rb
+rb vbn wp
+vb cd jj
+vb jjr rb
+vbd rb vbz
+vbg to jj
+cc jjr nn
+cc vb vb
+cd dt in
+in vbg wrb
+md dt vb
+md nn dt
+nnp vb cc
+nns vbn nnp
+prp nnp vb
+rp cc vbg
+to cd nn
+vb prp wdt
+vbd uh rb
+vbg dt cd
+vbg jj rb
+vbg nns nnp
+wp dt nns
+cc jj vb
+in vbz dt
+jj jj vbz
+jj nns -rrb-
+jj to nns
+nnp vbn to
+nns jj vbd
+nns rb vbz
+nns to nns
+nns wrb rb
+pdt dt vbd
+prp wrb vbd
+rb ex md
+to prp vbn
+vb in wdt
+vbd cd rb
+vbd rbs jj
+vbg dt vbn
+vbp vbd in
+cc cd vbd
+cc to nnp
+dt ex vbd
+dt to dt
+nnps in nnp
+nns vbd jjr
+prp jj vbp
+rb jjr prp
+rb uh nn
+rbr rb cc
+rp jj in
+to nn wrb
+uh dt jj
+vb nn wdt
+vb vbd vbn
+vb vbn jjr
+vbd wp nn
+vbd wrb nnp
+vbg vbd rb
+vbg vbg in
+vbn to in
+vbn to vbg
+vbp nnp vbz
+wrb vbd nnp
+cc nns nn
+cd in wdt
+cd nn vbz
+in nns ex
+jj jj vb
+jj vbn nns
+nn -lrb- wdt
+nn rbr cc
+nn to vbg
+nnps cc dt
+nns in ex
+nns nn vbz
+nns vbz in
+prp vbp pdt
+to dt nnps
+to jj nnp
+to wp dt
+vb cc wp
+vb nnp jj
+vbd cd dt
+vbg dt vbg
+vbn nn vbg
+vbn rp nnp
+vbp wp vbz
+-rrb- dt jj
+cc in vbn
+dt jjr vbd
+fw fw prp
+in jj md
+in vbg cd
+jj dt jjr
+md vb uh
+nnp jj dt
+nns nns prp
+prp vb cd
+vb vb vb
+vbd nnp ex
+vbg nn nns
+vbn in ex
+vbp cc vb
+vbz cc nns
+vbz nn nnp
+vbz nn vbd
+cc ex md
+cc vbn nnp
+nnp cd cd
+nnp nn cd
+nnp nn vb
+nnp nnp -rrb-
+nnp vb to
+nns prp prp
+pos nns vbg
+prp wdt vbz
+rb nns vbp
+rb rbr vb
+vbd jj cd
+vbg cd nns
+vbn nnp nn
+vbp dt vbn
+vbp in cc
+wp vbd rp
+-rrb- cc in
+cc jj md
+cd nns wrb
+cd wdt vbd
+dt cd dt
+dt vbd wp
+in wdt nns
+in wdt vbz
+jj cc cd
+jjr nns vbd
+nn vbp to
+nnp uh nn
+nns prp in
+rb nnp jj
+rb nnp vbp
+to nnp vbg
+to vbg in
+vbn nns to
+cc vbp to
+cd jj cc
+dt jj uh
+dt vb rb
+dt vbd vbg
+in nns cd
+jj cc rbr
+jjs nns prp
+md vbd nnp
+nn jjr cc
+nns in jjs
+pos nns to
+prp rb ex
+prp rbr jj
+prp vbd -rrb-
+rb rbr nn
+rb rbr vbn
+uh rb vbd
+vbd vb to
+vbn vbg nn
+vbp nn nnp
+vbz rbr in
+vbz rp dt
+ex vbz nnp
+in md rb
+in vbn rb
+nn vbz jjr
+pdt dt prp
+prp rb cd
+prp vbn vbn
+rb vbp nnp
+vb dt rbs
+vb nns dt
+vbz rbr jj
+wp vbd nns
+wrb in jj
+cc vbg vbd
+cd nn jj
+cd nn vbg
+dt vbd wrb
+ex vbz vbn
+in wp in
+nnp nn wp
+prp dt to
+prp vbd wdt
+rb cc nns
+rb vbn ex
+rp jj cc
+rp wrb prp
+vb nn jjr
+vbd vbg vbd
+vbg in pdt
+vbn nn vbz
+wp dt nnp
+wp prp nns
+wrb jj nnp
+wrb vbn in
+cc cc prp
+cc jj vbz
+cc to nn
+ex prp vbz
+ex vbd prp
+in nn rbr
+nnp uh dt
+nnps in prp
+prp in wrb
+rb nn wrb
+rb vbd ex
+to prp cd
+vb rb vbz
+vb wrb nnp
+vbg dt jjr
+vbg prp wrb
+vbn nn md
+vbn nn vbn
+vbp rb vbp
+cc nns nns
+dt jj ex
+dt vbp vbd
+in nn pdt
+in rb vbp
+in vbz rb
+jjr jj cc
+jjs nn wdt
+nn jjr to
+nn vbg vbg
+nnp wdt nn
+nnps cc nnps
+prp dt md
+prp rp nnp
+rb in wdt
+rb rbr dt
+vb cc md
+vbn cc md
+vbn in jjr
+vbn vbn nnp
+vbp vbd rb
+wrb md dt
+-rrb- to vb
+cc cd cd
+cc dt rbs
+cc jj vbp
+cc jjr jj
+cc nn ex
+cc rbr rb
+cc vbz jj
+cd nns jjr
+cd vbd nnp
+dt vbn rb
+in vbp prp
+jj vbn jj
+jjr in vbg
+jjr nn nnp
+md vb md
+nnp vb rp
+pos nnp vbd
+prp rbr in
+prp vbn vbg
+rb nns dt
+rp dt nnp
+vb in vb
+vbd prp pdt
+vbd vbd to
+vbg dt jjs
+vbn cd nn
+vbn dt vbz
+vbz dt dt
+vbz to nn
+cc vbd jjr
+cd to cd
+dt jjr to
+jj nnp vbn
+jj rb vbp
+jj vbd vbg
+nnp in ex
+nnps vbd rb
+nns rb rbr
+prp jjr nns
+prp jjs prp
+rb wp nn
+vbd ex rb
+vbd vbg wrb
+vbg nns vbg
+vbg rp nn
+vbn rbr in
+vbp cd in
+vbz rb rbr
+wrb vbz nnp
+-lrb- in nn
+cc wrb nn
+cc wrb vbz
+cd cc jj
+cd pos jj
+in cc vbg
+in cd nnp
+jj vb rb
+nn in vbp
+nnp pos md
+prp in jjr
+rb vbg wrb
+to jj in
+vb cc vbp
+vb pos vb
+vb vbz prp
+vbn cc ex
+vbp vbn vbd
+wp vbz jjr
+wrb vb prp
+cc prp to
+in cc vbn
+in nnp -lrb-
+jj dt vbg
+nn cd rb
+nnp rb wp
+nns wp dt
+prp jjs cc
+vbg rp jj
+vbn wp vbd
+vbz dt vbn
+cd rb vbd
+in rb nns
+in to jj
+jj vb cc
+jjr nns dt
+md cc rb
+md vbd prp
+nn nnp to
+nns rb nns
+nns vbp rp
+nns vbz jj
+prp nn pdt
+prp vbd rbs
+rb wrb nn
+rbr in rb
+rp jj nn
+vbd md rb
+vbd rb md
+vbd to cc
+vbg nns jj
+vbg vbn rp
+wrb rb vb
+md vb vbz
+nn dt cc
+nn nn fw
+nnp vb jj
+nnp vb nnp
+nns rb ex
+pos vbg nn
+prp uh cc
+prp uh nn
+prp vbd -lrb-
+rp in vbg
+to dt wp
+to vbg dt
+vb wp vbp
+vbd jj ex
+vbg vbd nnp
+vbn vbg jj
+vbp uh prp
+vbz prp wp
+vbz wp vbz
+dt nnps dt
+jj cd vbd
+jj in wrb
+md rb nnp
+nn pos vbd
+prp wdt nn
+rb nnp wp
+rb uh vbd
+rp vbg prp
+to jj jj
+to vb vbp
+vbd cc to
+vbd in jjr
+vbd vbg vbg
+vbg to nns
+vbp rb rbr
+vbz vbg rp
+-rrb- cc prp
+-rrb- vbd dt
+cd nn cd
+cd nn wdt
+cd vbz dt
+cd wp md
+ex prp md
+in jjs nn
+jjs nn jj
+nn jj wrb
+nn wrb cd
+nnp nn vbn
+nnp wdt md
+nnp wrb vbp
+nns prp cc
+nns vbp nnp
+pos nns md
+pos vbn nn
+rb prp vbg
+rb vbp vb
+rp pdt dt
+vb vbd nn
+vbd wp md
+vbg nn wrb
+vbn nn wrb
+vbp in ex
+wrb pdt dt
+-rrb- prp md
+cc prp cd
+dt vbp jj
+ex vbz prp
+in nnp -rrb-
+in rb vbz
+in vbp in
+jj -lrb- in
+jj in jjs
+jj vbp vbn
+jj vbz jj
+jj wp md
+md in jj
+md prp vbz
+md vbd dt
+nnp cc cd
+rb ex vbp
+rbs rb jj
+vbg nns wdt
+vbn dt vbg
+-rrb- vbd rb
+dt wp prp
+md rb jj
+nnp wrb vbd
+prp wdt md
+rb cd rb
+rb vb ex
+to prp ex
+vb jj vbg
+vb vb to
+vbd in pdt
+vbd nns vbg
+vbg jjr in
+vbn dt vbd
+vbn nn nns
+vbn nnp to
+vbn vbn nn
+vbp cc jj
+vbz vbn vbd
+wdt nns vbp
+-rrb- vbd in
+cc nnp nns
+cc nns wrb
+cc wp rb
+ex vbp cd
+in cc jj
+in nnps cc
+jj uh dt
+jjs jj nns
+nns dt vbp
+nns nn jj
+prp rp nn
+rb vbn vb
+rb wp in
+to nn vbg
+to nnp jj
+to wrb prp
+vb nn nns
+vb nnp vbz
+vb vbg cc
+vbd pdt prp
+vbd vbn vb
+vbg nn md
+vbp rp prp
+vbz nns cc
+-rrb- cc dt
+cc nnp jj
+dt ex vbz
+in cd vbn
+in in cc
+in prp fw
+in to wp
+nn vbn nns
+nns nns rb
+nns rb md
+pdt dt jjr
+rb jjr jj
+rb nn cd
+to dt vb
+vb nn vbn
+vb nns vb
+vbd jjr rb
+vbd rbr nn
+vbd vbn md
+vbg nn wp
+vbg rp nns
+vbg vbd in
+-lrb- prp vbp
+cc nn cd
+ex rb vbd
+in vb cc
+jj jj wrb
+jj nnp vb
+jj rb vbz
+jj uh vbd
+jj vbd cc
+nn nnp cd
+nnp vbg nnp
+nns uh dt
+nns vbp vb
+nns wrb vbp
+pos prp nn
+prp vbz vbz
+rb vbg vbd
+rp rb jj
+uh cc dt
+vb to nns
+vbg cc nnp
+vbg prp vbn
+vbn prp vbn
+vbp vb rb
+wdt vbp jj
+cc in vbd
+in in wdt
+jjr in to
+jjs jj in
+md vb wdt
+nnp dt jjr
+nnps dt nn
+nns nn cd
+prp ex prp
+prp jjs rb
+rbs jj prp
+rp vbd nnp
+uh dt dt
+vb cd cc
+vbd cc ex
+vbg wp vbd
+vbn rp jj
+vbn vbg cc
+-lrb- dt jj
+dt md prp
+dt nnps vbp
+jj cd jj
+jj pos nns
+jj vbg vbn
+jjr cc dt
+jjr nn nn
+jjr rb prp
+nn jj vbz
+nn vbz rbr
+nnp nn nns
+pos jj in
+prp vbz ex
+rb nnp vbg
+rbr vbd prp
+to cd dt
+vb dt to
+vbd vbz prp
+vbd wrb md
+vbn cc to
+vbp vbz dt
+wrb nn prp
+dt cc nn
+in dt uh
+in rb wp
+jj cc jjr
+jj dt vbn
+jj vbz vbn
+jj wrb rb
+nn vbz vbd
+nnp -lrb- in
+nnp in vbn
+nns -lrb- in
+nns pos jj
+nns wp rb
+rb dt dt
+rb nn wp
+rbr rb jj
+uh nn rb
+vb nnp md
+vb vbg nn
+vbd nn vb
+vbd uh nn
+vbg rb wrb
+vbg vbn nn
+vbg vbn nnp
+vbn in wrb
+vbn prp wp
+vbp wp dt
+vbz cc jj
+vbz prp wrb
+wp rb vbz
+-rrb- cc rb
+jjr dt jj
+md prp in
+nn vbg cd
+nnps vbd in
+nns cc jjr
+nns uh nnp
+pos nn -rrb-
+prp to jj
+rb cc cd
+rb vbp nns
+rbr rb vbn
+rp nnp pos
+rp vbd dt
+rp vbg in
+vb md rb
+vb vb nn
+vb vbn wp
+vbd cd prp
+vbd wdt vbd
+vbg jj vbd
+vbg vb prp
+vbn dt vbn
+vbp nnp pos
+wp vbp to
+wrb dt vbd
+-lrb- nn -rrb-
+cc cd nnp
+cc nnp vbn
+cc vbn vbn
+cc vbp jj
+ex vbd cc
+in cc nns
+in uh prp
+jj wp vbp
+jj wrb vbp
+jjs in nn
+md nn vb
+nns rb cd
+nns rp in
+nns uh vbd
+pos cc dt
+prp cc cd
+prp jj md
+rb jj wdt
+vb dt vbp
+vb rb cd
+vb rp nns
+vbd rp cd
+vbd wrb to
+vbn prp cd
+vbp dt vbg
+vbp nn jj
+vbp wrb jj
+cc jj wdt
+cd nn vbn
+ex dt jj
+in wdt to
+in wrb jj
+jj uh rb
+jj wrb nnp
+md rb rbr
+nn cc jjs
+nn in fw
+nnp pos vbp
+nnp to wp
+prp dt rbs
+prp md nns
+rb vb uh
+to jj cc
+vb vb jj
+vb vb nnp
+vbd jj vb
+vbd prp wdt
+vbd uh dt
+vbn vbg nnp
+vbn vbg rp
+vbn wrb nnp
+vbp vbg rp
+vbp vbn cd
+vbz in cc
+wp vbd cc
+-lrb- nnp nnp
+cc vbd uh
+dt jjr rb
+in in wp
+in jjs cd
+in vbd to
+jj jj cd
+jj nnp wrb
+jj rbr jj
+jjs cd nns
+md nnp vb
+nn vbz vb
+nn wrb vbn
+nnp fw fw
+nnp nn pos
+rb jjr rb
+rb vb pdt
+rb vbg wp
+rbr prp nn
+vb vbd to
+vbd jjr nn
+vbd uh cc
+vbg in wp
+wdt rb dt
+wrb rb md
+-lrb- prp md
+cc dt vb
+cc jjr nns
+cc nn uh
+cc vbz nn
+cd cc vbd
+cd jj in
+cd nns rbr
+dt cc vb
+dt vbz cc
+in nns uh
+in vbp rb
+jjr cc rb
+md vb ex
+nn vbn vbn
+nns rbr jj
+prp cc wdt
+prp cd cc
+prp wrb in
+rb jj -rrb-
+rb nn vbg
+rb uh in
+rb vbd pdt
+rbr in jj
+rbr in nnp
+rp prp rb
+uh dt nnp
+uh ex vbz
+vb nn wp
+vbd dt to
+vbg vbg vbg
+vbn jj vbd
+vbn vbn vbn
+vbp dt vbd
+vbp prp uh
+vbz jj wrb
+wdt rb in
+-lrb- wdt vbd
+cd vbz vbn
+dt cd wdt
+dt vbz cd
+in jj ex
+in nnps in
+nnp wp jj
+pos prp vbp
+prp vbg vbd
+rb prp vbn
+rb vbz cc
+rb wdt vbz
+to rb in
+vb nn vbz
+vb rb md
+vb rb uh
+vbd ex dt
+vbd nn uh
+vbn dt rbr
+vbn ex vbz
+vbp vbg jj
+vbp wrb dt
+wrb rb vbp
+ex vbz in
+nn jjs in
+nn nnp uh
+nnp nnps in
+nns dt jjs
+nns vbn jj
+prp vbd jjs
+prp wp nn
+rb cd cd
+rb uh uh
+rbr cc rb
+to wdt dt
+vb wrb in
+vbd in vbz
+vbd jjr prp
+vbd uh nnp
+vbd vbn uh
+vbd wrb vbp
+vbn vbp prp
+vbp rbr jj
+vbz in to
+vbz vbd prp
+vbz vbg cc
+wrb jj jj
+cd nn md
+cd wrb prp
+dt cc jj
+jj nns pdt
+jjr to dt
+jjs cc dt
+jjs nns vbd
+nn -lrb- cd
+nnp to nn
+nnp wrb vbz
+nnps prp vbp
+nnps vbd vbn
+nns in wrb
+pos nnp dt
+rb -lrb- in
+rp dt rb
+to rb jj
+vb dt nnps
+vbd dt md
+vbd in wdt
+vbd vbd cc
+vbp jj vbn
+-rrb- nnp nnp
+-rrb- vbd prp
+cc jj wp
+dt in wp
+dt vbd nns
+in cd vbg
+in to nns
+in vbg pdt
+jj prp vbg
+jj vbg nnp
+jjs nn nnp
+nn nn -rrb-
+nnp vb vb
+nnp vbn cc
+nns prp dt
+pos nn -lrb-
+pos nn cd
+prp wp rb
+rb jj jjr
+rb nn pos
+rb prp wp
+rbr vb dt
+uh vbn nnp
+vb vbn ex
+vbg nn vbz
+vbn prp jjr
+vbp in vbd
+vbz prp rp
+wdt nn rb
+wp nn cc
+wrb nnp pos
+cd vbd jj
+cd vbz prp
+dt vbn rp
+in jjr jj
+jj cd nnp
+jj rb ex
+nn -rrb- rb
+nnp cc pdt
+nnp vbd jjr
+prp cd cd
+prp cd vbd
+prp ex in
+rb cd vbd
+rb dt md
+rb rb wdt
+rbr nns in
+rbr vb in
+to jj dt
+uh rb dt
+uh uh vbd
+uh vbp prp
+vb rp wrb
+vbd jjr to
+vbg vbg prp
+vbn in wdt
+vbp nn vbz
+vbp prp jjr
+vbp rb jjr
+wdt nn nnp
+wp rb md
+wp rb prp
+wrb nn in
+wrb prp vb
+cc in wrb
+fw fw nnp
+nn prp cd
+nn rp prp
+nn vbn vbg
+nn wdt to
+nnp -lrb- dt
+nnp -lrb- wp
+nnp dt jjs
+nnp in jjs
+nnp vbp jj
+nns nn md
+nns uh rb
+pdt dt vbz
+pos cc nnp
+prp dt rp
+prp vb vbp
+uh nn nnp
+vb nns vbd
+vb rp vbd
+vb vb rp
+vb wrb md
+vbd jj uh
+vbd rp nns
+vbd vbd vbd
+vbd vbg wp
+vbz dt vbz
+wdt nnp pos
+wrb prp cc
+cd pos nns
+cd rb nnp
+cd vbz to
+dt cc nnp
+dt jjs vbd
+in in jjs
+in wdt ex
+jj wp dt
+md rb vbn
+nn jj vbp
+nn vbz wp
+pdt dt vbg
+prp nn fw
+prp rb jjr
+prp to nns
+rb dt vbp
+rb in md
+rbr rb vb
+rp vbd prp
+to nns rb
+vb jjr cc
+vb nn md
+vb wdt prp
+vbd nnp nns
+vbd vb nn
+vbd vbn jjr
+vbd vbn wdt
+vbg rb vb
+vbn md prp
+vbp cc vbd
+vbp cd nn
+vbz nnp vbg
+wdt in jj
+wdt nns prp
+-lrb- in nnp
+cc jjr cc
+cc rp dt
+cd cd in
+dt nn jjs
+dt nnps nnp
+dt nns -lrb-
+dt vbn dt
+dt wp md
+jj jjr nn
+jj wdt vbz
+md cc in
+md cc md
+nn ex rb
+nnp cd prp
+nnp vbz cc
+nnps cc prp
+nns -rrb- prp
+nns nns vbp
+nns to wp
+nns wrb vbd
+prp nns -rrb-
+prp rp vbd
+rb dt cc
+rb to nns
+to dt dt
+vb vb vbd

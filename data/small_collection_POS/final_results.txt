@@ -1,18 +1,94 @@
 
 
 
-Anon_Clara 	-->	 Blackmore
-Barclay_Ladies 	-->	 Ward
-Dickens_Bleak 	-->	 Gaskell
-Ford_GoodSoldier 	-->	 James
-Galsworthy_Man 	-->	 Bennet
-Lee_Brown 	-->	 Ward
-Schreiner_African 	-->	 Barclay
-Stevenson_Arrow 	-->	 Hardy
+Anon_Clara_1 	-->	 Blackmore
+Anon_Clara_2 	-->	 Ward
+Anon_Clara_3 	-->	 Blackmore
+Anon_Clara_4 	-->	 Blackmore
+Anon_Clara_5 	-->	 Blackmore
+Anon_Clara_6 	-->	 Blackmore
+Anon_Clara_7 	-->	 Blackmore
+Anon_Clara_8 	-->	 Blackmore
+Anon_Clara_9 	-->	 Blackmore
+Anon_Clara_10 	-->	 Ward
+Barclay_Ladies_1 	-->	 Dickens
+Barclay_Ladies_2 	-->	 Ward
+Barclay_Ladies_3 	-->	 Conrad
+Barclay_Ladies_4 	-->	 Hardy
+Barclay_Ladies_5 	-->	 Dickens
+Barclay_Ladies_6 	-->	 Conrad
+Barclay_Ladies_7 	-->	 Ward
+Barclay_Ladies_8 	-->	 Ward
+Barclay_Ladies_9 	-->	 Dickens
+Barclay_Ladies_10 	-->	 Dickens
+Clive_Ferroll_1 	-->	 Gaskell
+Dickens_Bleak_1 	-->	 CBronte
+Dickens_Bleak_2 	-->	 CBronte
+Dickens_Bleak_3 	-->	 CBronte
+Dickens_Bleak_4 	-->	 CBronte
+Dickens_Bleak_5 	-->	 Doyle
+Dickens_Bleak_6 	-->	 CBronte
+Dickens_Bleak_7 	-->	 Corelli
+Dickens_Bleak_8 	-->	 CBronte
+Dickens_Bleak_9 	-->	 CBronte
+Dickens_Bleak_10 	-->	 CBronte
+Ford_GoodSoldier_1 	-->	 Bennet
+Ford_GoodSoldier_2 	-->	 Bennet
+Ford_GoodSoldier_3 	-->	 Bennet
+Ford_GoodSoldier_4 	-->	 James
+Ford_GoodSoldier_5 	-->	 James
+Ford_GoodSoldier_6 	-->	 Bennet
+Ford_GoodSoldier_7 	-->	 Bennet
+Ford_GoodSoldier_8 	-->	 Bennet
+Ford_GoodSoldier_9 	-->	 Bennet
+Ford_GoodSoldier_10 	-->	 Bennet
+Galsworthy_Man_1 	-->	 Hardy
+Galsworthy_Man_2 	-->	 Hardy
+Galsworthy_Man_3 	-->	 Ward
+Galsworthy_Man_4 	-->	 Hardy
+Galsworthy_Man_5 	-->	 Hardy
+Galsworthy_Man_6 	-->	 Hardy
+Galsworthy_Man_7 	-->	 Hardy
+Galsworthy_Man_8 	-->	 Hardy
+Galsworthy_Man_9 	-->	 Hardy
+Galsworthy_Man_10 	-->	 Hardy
+Gaskell_Lovers_1 	-->	 Hardy
+Gaskell_Lovers_3 	-->	 Hardy
+Gaskell_Lovers_4 	-->	 Hardy
+Gaskell_Lovers_5 	-->	 Hardy
+Gaskell_Lovers_6 	-->	 Braddon
+Gaskell_Lovers_7 	-->	 Eliot
+Gaskell_Lovers_9 	-->	 Hardy
+Gaskell_Lovers_10 	-->	 Ward
+Gissing_Unclassed_6 	-->	 Ward
+Gissing_Unclassed_8 	-->	 Clive
+Kipling_Captains_3 	-->	 Galsworthy
+Kipling_Captains_4 	-->	 Galsworthy
+Kipling_Captains_5 	-->	 Galsworthy
+Kipling_Captains_9 	-->	 Galsworthy
+Lee_Brown_1 	-->	 Ward
+Lee_Brown_2 	-->	 Ward
+Lee_Brown_3 	-->	 Ward
+Lee_Brown_4 	-->	 Ward
+Lee_Brown_5 	-->	 Gaskell
+Lee_Brown_6 	-->	 Ward
+Lee_Brown_7 	-->	 Ward
+Lee_Brown_8 	-->	 Ward
+Lee_Brown_9 	-->	 Ward
+Lee_Brown_10 	-->	 Ward
+Stevenson_Arrow_1 	-->	 Hardy
+Stevenson_Arrow_2 	-->	 Hardy
+Stevenson_Arrow_3 	-->	 Dickens
+Stevenson_Arrow_4 	-->	 Hardy
+Stevenson_Arrow_5 	-->	 Hardy
+Stevenson_Arrow_6 	-->	 Hardy
+Stevenson_Arrow_7 	-->	 Dickens
+Stevenson_Arrow_8 	-->	 Hardy
+Stevenson_Arrow_9 	-->	 Hardy
 
-1000 MFW , culled @ 0%,  26 of 33	(78.8%)
+1000 MFW , culled @ 0%,  256 of 330	(77.6%)
 
-General attributive success:  26 of 33 (78.8%)
+General attributive success:  256 of 330 (77.6%)
 
 MFWs from 1000 to 1000 @ increment 100
 Culling from 0 to 0 @ increment 20
