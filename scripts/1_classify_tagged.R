@@ -32,6 +32,7 @@ for (ssize in 1:3){
                 test.corpus.dir = "secondary_set",
                 use.existing.freq.tables = FALSE,
                 use.existing.wordlist = FALSE)
+#by default classification is burrow's delta which is the fastest one. Maybe SVM has a better result. 
  # result.tab[[ngram]] = res
   #predict.tab[[ngram]] = res$predicted
   #expect.tab[[ngram]] = res$expected

@@ -8,9 +8,10 @@ library(stylo)
 #######
 # Option 1: leave-one-out cross validation
 # Needed: only one corpus directory
+#small dataset otherwise gonna run a long time
 
 # loading the corpus
-texts = load.corpus.and.parse(files = "all", corpus.dir = "corpus")
+texts = load.corpus.and.parse(files = "all", corpus.dir = "corpus", features = "w", ngram.size = 1)
 
 # getting a genral frequency list
 freq.list = make.frequency.list(texts, head = 1000)
@@ -19,7 +20,7 @@ word.frequencies = make.table.of.frequencies(corpus = texts, features = freq.lis
 
 # now the main procedure takes place:
 results  = crossv(training.set = word.frequencies, cv.mode = "leaveoneout",
-                  classification.method = "svm")
+                  classification.method = "delta")
 
 # see what's inside:
 summary(results)
@@ -29,7 +30,7 @@ results$misclassified
 
 # or get the number of correct classifications:
 results$y
-sum(results$y, na.rm = TRUE)
+sum(results$y, na.rm = TRUE)/27
 
 # or see how Emily Bronte's books were classified:
 results$expected
