@@ -1,4 +1,5 @@
 install.packages("ggplot2")
+#dplyr is a data manipulation package for tabular data
 install.packages("dplyr")
 
 ## load necessary libraries
