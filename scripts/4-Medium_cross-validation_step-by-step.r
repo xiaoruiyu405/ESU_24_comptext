@@ -49,6 +49,7 @@ texts = load.corpus.and.parse(files = "all", corpus.dir = "corpus")
 names(texts)
 
 # Now, separate the corpus into two parts by providing numerical indices
+#proportion
 # telling R where these books are on the list:
 primary_index = c(2,4,5,7,8,10,11,12,14,15,17,19,21,23,24,26,27)
 secondary_index = setdiff(1:27,primary_index) # = all the other books
@@ -81,9 +82,12 @@ results  = crossv(training.set = primary_freqs,
                   cv.mode = "stratified", cv.folds = 10,
                   classification.method = "svm")
 # a bug with cosine method (?)
+#Choose one of the following: "delta", "svm", "knn", "nsc", "naivebayes".
 
 summary(results)
 performance.measures(results)
+#k-fold has more writers to be misclassified than the leave one out method? - Leaveoneout has more training data. But the classification results should be the same.
+#is it possible to identify which books are misclassified -> by results$misclassified  [[1]] means the results of the first fold
 
 ######
 # When looking at the frequency list you might find some strange features.
@@ -114,3 +118,7 @@ texts$ABronte_Agnes[(18310-5):(18310+5)]
 
 # And if you look for it in the non-processed txt files,
 # you'll see that it is "&c." = "etc." tokenised as 'c'
+#some contaminations may be identified
+#it may happen during digitisztion: OCR, HTR(handwritten text recognition), gold standard(human expert transcription)
+#OCR: mind your corpus (Maciej)
+#HTR: Jander, M. (2016) Handwritten Text Recognition - Transkribus: A User Report
