@@ -19,11 +19,16 @@ library(igraph)
 # structure in networks using the eigenvectors of matrices, Preprint
 # physics/0605087 (2006).
 #########################
-
+#0907_network analysis
+#building network just in R (stylo) without other softwares
+#convert numbers into adjacency matrix (directed and undirected are different)
+#types of networks: cooccurence, dependency (semantic), text similarity, literary character networks (maths meets myths, a monograph), correspondence network
 g <- read_graph("adjnoun.net",format="pajek")
-is.weighted(g)
-g <- as.undirected(g)
+is_weighted(g)
+is_directed(g)
+g <- as_undirected(g)
 comm <- cluster_louvain(g)
+comm[[1]] #which words belong to group number 1
 plot(g,vertex.color=membership(comm),vertex.size=10,layout=layout_with_fr)
 
 # Additionally import labels:"adj"/"noun"
@@ -50,31 +55,41 @@ abline(v=ass)
 #########################
 
 library(stylo)
-setwd("C:/OneDrive - Uniwersytet Jagielloñski/Naukowe/DigitalHum/DHSI2024-DIY/classify-tests/")
+setwd("C:/OneDrive - Uniwersytet Jagiello?ski/Naukowe/DigitalHum/DHSI2024-DIY/classify-tests/")
 
 # Load corpus and tokenise it using default splitting rule
 corp=load.corpus.and.parse(files = "ABronte_Agnes.txt",
-                           corpus.dir = "corpus", features = "w",
-                           ngram.size = 6, preserve.case = FALSE,
+                           #corpus.dir = "corpus", 
+                           features = "w",
+                           ngram.size = 2, 
+                           preserve.case = FALSE,
                            encoding = "UTF-8")
 # Make a frequency list of word 2-grams
 freqs <- make.frequency.list(corp$ABronte_Agnes,value = TRUE)
 # split the 2-grams to get network nodes and make an edge list
+#strsplit("to get network notes", " ")
 el <- strsplit(rownames(freqs)," ")
-el3 <-c()
-for (ngram in el[1:10]){
-  el3<-c(el3,c(paste(ngram[1:3],sep = " "),paste(ngram[4:6],sep = " ")))
-}
-el <- unlist(el)
-# make an edge list
-el3 <- matrix(el,ncol = 6,byrow = TRUE)
-el <- el[,c(1,3)]
+el <- el[lengths(el) == 2]
+edge_list <- do.call(rbind, el)
 
-g <- graph_from_edgelist(el,directed = TRUE)
+#el3 <-c()
+#for (ngram in el[1:10]){
+ # el3<-c(el3,
+  #       c(paste(ngram[1:3],sep = " "),
+   #        paste(ngram[4:6],sep = " ")
+    #       )
+     #    )
+#}
+#el <- unlist(el)
+# make an edge list
+#el3 <- matrix(el,ncol = 2,byrow = TRUE)
+#el <- el[,c(1,3)]
+
+g <- graph_from_edgelist(edge_list,directed = TRUE)
 E(g)$weight=as.numeric(freqs)
 E(g)$width=as.numeric(freqs)*20
 E(g)[weight>0.015]
-g1 <- subgraph.edges(g, E(g)[weight>0.015], delete.vertices = TRUE)
+g1 <- subgraph_from_edges(g, E(g)[weight>0.015], delete.vertices = TRUE)
 plot(g1, layout=layout_with_fr,edge.arrow.size=0.01)
 
 
@@ -87,23 +102,24 @@ plot(g1, layout=layout_with_fr,edge.arrow.size=0.01)
 #########################
 
 library(stylo)
-setwd("C:/OneDrive - Uniwersytet Jagielloñski/Naukowe/DigitalHum/DHSI2024-DIY/classify-tests")
+#setwd("C:/OneDrive - Uniwersytet Jagiello?ski/Naukowe/DigitalHum/DHSI2024-DIY/classify-tests")
 # Load corpus and tokenise it using default splitting rule
 corp=load.corpus.and.parse(files = "all", corpus.dir = "corpus", 
                            features = "w",ngram.size = 1, 
                            preserve.case = FALSE,encoding = "UTF-8")
 
 # Pass the parsed corpus to stylo (GUI should pop-up)
-res <- stylo(gui = TRUE, frequencies = NULL, parsed.corpus = corp,
-             features = NULL)
+#res <- stylo(gui = TRUE, frequencies = NULL, parsed.corpus = corp,
+ #            features = NULL)
 
 # Make the stylometric network
 res1 <- stylo(network=TRUE, network.type="undirected", 
               parsed.corpus = corp, frequencies = NULL, 
               features = NULL)
-
+#summary(res1) can see what information you can check
 res1$list.of.edges
 # Put it into igraph
+library(igraph)
 el <- as.matrix(res1$list.of.edges[,1:2])
 ws <- as.numeric(res1$list.of.edges[,3])
 g <- graph_from_edgelist(el,directed = FALSE)
