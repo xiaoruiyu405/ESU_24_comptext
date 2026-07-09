@@ -113,6 +113,7 @@ corp=load.corpus.and.parse(files = "all", corpus.dir = "corpus",
  #            features = NULL)
 
 # Make the stylometric network
+#generate the edge file for Gephi
 res1 <- stylo(network=TRUE, network.type="undirected", 
               parsed.corpus = corp, frequencies = NULL, 
               features = NULL)
@@ -124,9 +125,25 @@ el <- as.matrix(res1$list.of.edges[,1:2])
 ws <- as.numeric(res1$list.of.edges[,3])
 g <- graph_from_edgelist(el,directed = FALSE)
 E(g)$width <- ws
+#V(g)$size <- 10
+V(g)$size <- closeness(g)*1000
 plot(g)
 
+#but I feel it too complicated to code
+library(RColorBrewer)
+vnames <- V(g)$name
+V(g)$label <- sub("_", "\n", vnames)
+authors <- sub("_.*", "", vnames)
+uauthors <- unique(authors)
+V(g)$authors <- authors
+
+pal <- brewer.pal(min(length(uauthors),12), "Set3")
+cols <- setNames(rep(pal, length.out = length(uauthors)), uauthors)
+V(g)$color <- cols[authors]
+V(g)$label.cex <- .8
+plot(g)
 # Alternatively try if the following works (a web browser should open)
+#generate node file
 res1 <- stylo.network(parsed.corpus = corp, frequencies = "table_with_frequencies.txt")
 
 

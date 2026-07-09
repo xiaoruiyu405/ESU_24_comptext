@@ -6,7 +6,9 @@ library(stylo)
 library(stylo)
 oppose() # This will work.
 results = oppose() # But use this if you want to store the results
-
+#application
+#female and male writers
+#word lists used as classification, put them in the wordlist and rerun the classify function
 summary(results) # Glimpse into what results contain
 
 # words used more often in the primary set
